@@ -1,0 +1,2596 @@
+Country,Region,City,Vehicle Plate
+Australia,New South Wales,Freemans Reach,NEFR_1
+Australia,New South Wales,Freemans Reach,NEFR_2
+Australia,New South Wales,Freemans Reach,NEFR_3
+Australia,New South Wales,Berowra,NEBE_1
+Australia,New South Wales,Berowra,NEBE_2
+Australia,New South Wales,Berowra,NEBE_3
+Australia,New South Wales,Bangor,NEBA_1
+Australia,New South Wales,Bangor,NEBA_2
+Australia,New South Wales,Bangor,NEBA_3
+Australia,New South Wales,Barnsley,NEBA_1
+Australia,New South Wales,Barnsley,NEBA_2
+Australia,New South Wales,Barnsley,NEBA_3
+Australia,New South Wales,The Hill,NETH_1
+Australia,New South Wales,The Hill,NETH_2
+Australia,New South Wales,The Hill,NETH_3
+Australia,New South Wales,Finley,NEFI_1
+Australia,New South Wales,Finley,NEFI_2
+Australia,New South Wales,Finley,NEFI_3
+Australia,New South Wales,Sutton,NESU_1
+Australia,New South Wales,Sutton,NESU_2
+Australia,New South Wales,Sutton,NESU_3
+Australia,New South Wales,Kensington,NEKE_1
+Australia,New South Wales,Kensington,NEKE_2
+Australia,New South Wales,Kensington,NEKE_3
+Australia,New South Wales,Woodbine,NEWO_1
+Australia,New South Wales,Woodbine,NEWO_2
+Australia,New South Wales,Woodbine,NEWO_3
+Australia,New South Wales,Swansea,NESW_1
+Australia,New South Wales,Swansea,NESW_2
+Australia,New South Wales,Swansea,NESW_3
+Australia,Tasmania,Warrane,TAWA_1
+Australia,Tasmania,Warrane,TAWA_2
+Australia,Tasmania,Warrane,TAWA_3
+Australia,Tasmania,Circular Head,TACI_1
+Australia,Tasmania,Circular Head,TACI_2
+Australia,Tasmania,Circular Head,TACI_3
+Australia,Tasmania,New Norfolk,TANE_1
+Australia,Tasmania,New Norfolk,TANE_2
+Australia,Tasmania,New Norfolk,TANE_3
+Australia,Tasmania,Ranelagh,TARA_1
+Australia,Tasmania,Ranelagh,TARA_2
+Australia,Tasmania,Ranelagh,TARA_3
+Australia,Tasmania,Kingborough,TAKI_1
+Australia,Tasmania,Kingborough,TAKI_2
+Australia,Tasmania,Kingborough,TAKI_3
+Australia,Tasmania,Bridport,TABR_1
+Australia,Tasmania,Bridport,TABR_2
+Australia,Tasmania,Bridport,TABR_3
+Australia,Tasmania,Richmond,TARI_1
+Australia,Tasmania,Richmond,TARI_2
+Australia,Tasmania,Richmond,TARI_3
+Australia,Tasmania,Lenah Valley,TALE_1
+Australia,Tasmania,Lenah Valley,TALE_2
+Australia,Tasmania,Lenah Valley,TALE_3
+Australia,Tasmania,Lindisfarne,TALI_1
+Australia,Tasmania,Lindisfarne,TALI_2
+Australia,Tasmania,Lindisfarne,TALI_3
+Australia,Tasmania,Chigwell,TACH_1
+Australia,Tasmania,Chigwell,TACH_2
+Australia,Tasmania,Chigwell,TACH_3
+Australia,Australian Capital Territory,Reid,AURE_1
+Australia,Australian Capital Territory,Reid,AURE_2
+Australia,Australian Capital Territory,Reid,AURE_3
+Australia,Australian Capital Territory,Pearce,AUPE_1
+Australia,Australian Capital Territory,Pearce,AUPE_2
+Australia,Australian Capital Territory,Pearce,AUPE_3
+Australia,Australian Capital Territory,O'Connor,AUO'_1
+Australia,Australian Capital Territory,O'Connor,AUO'_2
+Australia,Australian Capital Territory,O'Connor,AUO'_3
+Australia,Australian Capital Territory,Wright,AUWR_1
+Australia,Australian Capital Territory,Wright,AUWR_2
+Australia,Australian Capital Territory,Wright,AUWR_3
+Australia,Australian Capital Territory,Fisher,AUFI_1
+Australia,Australian Capital Territory,Fisher,AUFI_2
+Australia,Australian Capital Territory,Fisher,AUFI_3
+Australia,Australian Capital Territory,Red Hill,AURE_1
+Australia,Australian Capital Territory,Red Hill,AURE_2
+Australia,Australian Capital Territory,Red Hill,AURE_3
+Australia,Australian Capital Territory,Monash,AUMO_1
+Australia,Australian Capital Territory,Monash,AUMO_2
+Australia,Australian Capital Territory,Monash,AUMO_3
+Australia,Australian Capital Territory,Giralang,AUGI_1
+Australia,Australian Capital Territory,Giralang,AUGI_2
+Australia,Australian Capital Territory,Giralang,AUGI_3
+Australia,Australian Capital Territory,Acton,AUAC_1
+Australia,Australian Capital Territory,Acton,AUAC_2
+Australia,Australian Capital Territory,Acton,AUAC_3
+Australia,Australian Capital Territory,Bruce,AUBR_1
+Australia,Australian Capital Territory,Bruce,AUBR_2
+Australia,Australian Capital Territory,Bruce,AUBR_3
+Australia,Western Australia,Waikiki,WEWA_1
+Australia,Western Australia,Waikiki,WEWA_2
+Australia,Western Australia,Waikiki,WEWA_3
+Australia,Western Australia,Bullsbrook,WEBU_1
+Australia,Western Australia,Bullsbrook,WEBU_2
+Australia,Western Australia,Bullsbrook,WEBU_3
+Australia,Western Australia,Mundijong,WEMU_1
+Australia,Western Australia,Mundijong,WEMU_2
+Australia,Western Australia,Mundijong,WEMU_3
+Australia,Western Australia,Canning Vale,WECA_1
+Australia,Western Australia,Canning Vale,WECA_2
+Australia,Western Australia,Canning Vale,WECA_3
+Australia,Western Australia,Subiaco,WESU_1
+Australia,Western Australia,Subiaco,WESU_2
+Australia,Western Australia,Subiaco,WESU_3
+Australia,Western Australia,Busselton,WEBU_1
+Australia,Western Australia,Busselton,WEBU_2
+Australia,Western Australia,Busselton,WEBU_3
+Australia,Western Australia,Willagee,WEWI_1
+Australia,Western Australia,Willagee,WEWI_2
+Australia,Western Australia,Willagee,WEWI_3
+Australia,Western Australia,Nungarin,WENU_1
+Australia,Western Australia,Nungarin,WENU_2
+Australia,Western Australia,Nungarin,WENU_3
+Australia,Western Australia,Cardup,WECA_1
+Australia,Western Australia,Cardup,WECA_2
+Australia,Western Australia,Cardup,WECA_3
+Australia,Western Australia,Shark Bay,WESH_1
+Australia,Western Australia,Shark Bay,WESH_2
+Australia,Western Australia,Shark Bay,WESH_3
+Australia,Northern Territory,Virginia,NOVI_1
+Australia,Northern Territory,Virginia,NOVI_2
+Australia,Northern Territory,Virginia,NOVI_3
+Australia,Northern Territory,Alawa,NOAL_1
+Australia,Northern Territory,Alawa,NOAL_2
+Australia,Northern Territory,Alawa,NOAL_3
+Australia,Northern Territory,Nhulunbuy,NONH_1
+Australia,Northern Territory,Nhulunbuy,NONH_2
+Australia,Northern Territory,Nhulunbuy,NONH_3
+Australia,Northern Territory,Fannie Bay,NOFA_1
+Australia,Northern Territory,Fannie Bay,NOFA_2
+Australia,Northern Territory,Fannie Bay,NOFA_3
+Australia,Northern Territory,Central Desert,NOCE_1
+Australia,Northern Territory,Central Desert,NOCE_2
+Australia,Northern Territory,Central Desert,NOCE_3
+Australia,Northern Territory,Tiwi,NOTI_1
+Australia,Northern Territory,Tiwi,NOTI_2
+Australia,Northern Territory,Tiwi,NOTI_3
+Australia,Northern Territory,Braitling,NOBR_1
+Australia,Northern Territory,Braitling,NOBR_2
+Australia,Northern Territory,Braitling,NOBR_3
+Australia,Northern Territory,Driver,NODR_1
+Australia,Northern Territory,Driver,NODR_2
+Australia,Northern Territory,Driver,NODR_3
+Australia,Northern Territory,Araluen,NOAR_1
+Australia,Northern Territory,Araluen,NOAR_2
+Australia,Northern Territory,Araluen,NOAR_3
+Australia,Northern Territory,Ross,NORO_1
+Australia,Northern Territory,Ross,NORO_2
+Australia,Northern Territory,Ross,NORO_3
+Belgium,Brussels-Capital Region,Brussels,BRBR_1
+Belgium,Brussels-Capital Region,Brussels,BRBR_2
+Belgium,Brussels-Capital Region,Brussels,BRBR_3
+Belgium,Flanders,Peer,FLPE_1
+Belgium,Flanders,Peer,FLPE_2
+Belgium,Flanders,Peer,FLPE_3
+Belgium,Flanders,Wellen,FLWE_1
+Belgium,Flanders,Wellen,FLWE_2
+Belgium,Flanders,Wellen,FLWE_3
+Belgium,Flanders,Lille,FLLI_1
+Belgium,Flanders,Lille,FLLI_2
+Belgium,Flanders,Lille,FLLI_3
+Belgium,Flanders,Arendonk,FLAR_1
+Belgium,Flanders,Arendonk,FLAR_2
+Belgium,Flanders,Arendonk,FLAR_3
+Belgium,Flanders,Sint-Kruis,FLSI_1
+Belgium,Flanders,Sint-Kruis,FLSI_2
+Belgium,Flanders,Sint-Kruis,FLSI_3
+Belgium,Flanders,Schilde,FLSC_1
+Belgium,Flanders,Schilde,FLSC_2
+Belgium,Flanders,Schilde,FLSC_3
+Belgium,Flanders,Ostend,FLOS_1
+Belgium,Flanders,Ostend,FLOS_2
+Belgium,Flanders,Ostend,FLOS_3
+Belgium,Flanders,Hove,FLHO_1
+Belgium,Flanders,Hove,FLHO_2
+Belgium,Flanders,Hove,FLHO_3
+Belgium,Flanders,Alveringem,FLAL_1
+Belgium,Flanders,Alveringem,FLAL_2
+Belgium,Flanders,Alveringem,FLAL_3
+Belgium,Flanders,Middelkerke,FLMI_1
+Belgium,Flanders,Middelkerke,FLMI_2
+Belgium,Flanders,Middelkerke,FLMI_3
+Belgium,Wallonia,Bouillon,WABO_1
+Belgium,Wallonia,Bouillon,WABO_2
+Belgium,Wallonia,Bouillon,WABO_3
+Belgium,Wallonia,Ans,WAAN_1
+Belgium,Wallonia,Ans,WAAN_2
+Belgium,Wallonia,Ans,WAAN_3
+Belgium,Wallonia,Plombières,WAPL_1
+Belgium,Wallonia,Plombières,WAPL_2
+Belgium,Wallonia,Plombières,WAPL_3
+Belgium,Wallonia,Ferrières,WAFE_1
+Belgium,Wallonia,Ferrières,WAFE_2
+Belgium,Wallonia,Ferrières,WAFE_3
+Belgium,Wallonia,Momignies,WAMO_1
+Belgium,Wallonia,Momignies,WAMO_2
+Belgium,Wallonia,Momignies,WAMO_3
+Belgium,Wallonia,Wellin,WAWE_1
+Belgium,Wallonia,Wellin,WAWE_2
+Belgium,Wallonia,Wellin,WAWE_3
+Belgium,Wallonia,Remicourt,WARE_1
+Belgium,Wallonia,Remicourt,WARE_2
+Belgium,Wallonia,Remicourt,WARE_3
+Belgium,Wallonia,Gerpinnes,WAGE_1
+Belgium,Wallonia,Gerpinnes,WAGE_2
+Belgium,Wallonia,Gerpinnes,WAGE_3
+Belgium,Wallonia,Arlon,WAAR_1
+Belgium,Wallonia,Arlon,WAAR_2
+Belgium,Wallonia,Arlon,WAAR_3
+Belgium,Wallonia,Virton,WAVI_1
+Belgium,Wallonia,Virton,WAVI_2
+Belgium,Wallonia,Virton,WAVI_3
+Canada,Saskatchewan,Lumsden,SALU_1
+Canada,Saskatchewan,Lumsden,SALU_2
+Canada,Saskatchewan,Lumsden,SALU_3
+Canada,Saskatchewan,Weyburn,SAWE_1
+Canada,Saskatchewan,Weyburn,SAWE_2
+Canada,Saskatchewan,Weyburn,SAWE_3
+Canada,Saskatchewan,Watrous,SAWA_1
+Canada,Saskatchewan,Watrous,SAWA_2
+Canada,Saskatchewan,Watrous,SAWA_3
+Canada,Saskatchewan,Kamsack,SAKA_1
+Canada,Saskatchewan,Kamsack,SAKA_2
+Canada,Saskatchewan,Kamsack,SAKA_3
+Canada,Saskatchewan,Tisdale,SATI_1
+Canada,Saskatchewan,Tisdale,SATI_2
+Canada,Saskatchewan,Tisdale,SATI_3
+Canada,Saskatchewan,Esterhazy,SAES_1
+Canada,Saskatchewan,Esterhazy,SAES_2
+Canada,Saskatchewan,Esterhazy,SAES_3
+Canada,Saskatchewan,Langham,SALA_1
+Canada,Saskatchewan,Langham,SALA_2
+Canada,Saskatchewan,Langham,SALA_3
+Canada,Saskatchewan,Wynyard,SAWY_1
+Canada,Saskatchewan,Wynyard,SAWY_2
+Canada,Saskatchewan,Wynyard,SAWY_3
+Canada,Saskatchewan,Carlyle,SACA_1
+Canada,Saskatchewan,Carlyle,SACA_2
+Canada,Saskatchewan,Carlyle,SACA_3
+Canada,Saskatchewan,Pelican Narrows,SAPE_1
+Canada,Saskatchewan,Pelican Narrows,SAPE_2
+Canada,Saskatchewan,Pelican Narrows,SAPE_3
+Canada,Prince Edward Island,Souris,PRSO_1
+Canada,Prince Edward Island,Souris,PRSO_2
+Canada,Prince Edward Island,Souris,PRSO_3
+Canada,Prince Edward Island,Belfast,PRBE_1
+Canada,Prince Edward Island,Belfast,PRBE_2
+Canada,Prince Edward Island,Belfast,PRBE_3
+Canada,Prince Edward Island,Kensington,PRKE_1
+Canada,Prince Edward Island,Kensington,PRKE_2
+Canada,Prince Edward Island,Kensington,PRKE_3
+Canada,Prince Edward Island,Alberton,PRAL_1
+Canada,Prince Edward Island,Alberton,PRAL_2
+Canada,Prince Edward Island,Alberton,PRAL_3
+Canada,Prince Edward Island,Summerside,PRSU_1
+Canada,Prince Edward Island,Summerside,PRSU_2
+Canada,Prince Edward Island,Summerside,PRSU_3
+Canada,Prince Edward Island,Charlottetown,PRCH_1
+Canada,Prince Edward Island,Charlottetown,PRCH_2
+Canada,Prince Edward Island,Charlottetown,PRCH_3
+Canada,Prince Edward Island,Fallingbrook,PRFA_1
+Canada,Prince Edward Island,Fallingbrook,PRFA_2
+Canada,Prince Edward Island,Fallingbrook,PRFA_3
+Canada,Prince Edward Island,Cornwall,PRCO_1
+Canada,Prince Edward Island,Cornwall,PRCO_2
+Canada,Prince Edward Island,Cornwall,PRCO_3
+Canada,Prince Edward Island,Montague,PRMO_1
+Canada,Prince Edward Island,Montague,PRMO_2
+Canada,Prince Edward Island,Montague,PRMO_3
+Canada,Alberta,Rimbey,ALRI_1
+Canada,Alberta,Rimbey,ALRI_2
+Canada,Alberta,Rimbey,ALRI_3
+Canada,Alberta,Bassano,ALBA_1
+Canada,Alberta,Bassano,ALBA_2
+Canada,Alberta,Bassano,ALBA_3
+Canada,Alberta,Grande Cache,ALGR_1
+Canada,Alberta,Grande Cache,ALGR_2
+Canada,Alberta,Grande Cache,ALGR_3
+Canada,Alberta,Nanton,ALNA_1
+Canada,Alberta,Nanton,ALNA_2
+Canada,Alberta,Nanton,ALNA_3
+Canada,Alberta,Bonnyville,ALBO_1
+Canada,Alberta,Bonnyville,ALBO_2
+Canada,Alberta,Bonnyville,ALBO_3
+Canada,Alberta,High Level,ALHI_1
+Canada,Alberta,High Level,ALHI_2
+Canada,Alberta,High Level,ALHI_3
+Canada,Alberta,Okotoks,ALOK_1
+Canada,Alberta,Okotoks,ALOK_2
+Canada,Alberta,Okotoks,ALOK_3
+Canada,Alberta,Mill Woods Town Centre,ALMI_1
+Canada,Alberta,Mill Woods Town Centre,ALMI_2
+Canada,Alberta,Mill Woods Town Centre,ALMI_3
+Canada,Alberta,High River,ALHI_1
+Canada,Alberta,High River,ALHI_2
+Canada,Alberta,High River,ALHI_3
+Canada,Alberta,Bow Island,ALBO_1
+Canada,Alberta,Bow Island,ALBO_2
+Canada,Alberta,Bow Island,ALBO_3
+Canada,Ontario,Brampton,ONBR_1
+Canada,Ontario,Brampton,ONBR_2
+Canada,Ontario,Brampton,ONBR_3
+Canada,Ontario,Angus,ONAN_1
+Canada,Ontario,Angus,ONAN_2
+Canada,Ontario,Angus,ONAN_3
+Canada,Ontario,Vaughan,ONVA_1
+Canada,Ontario,Vaughan,ONVA_2
+Canada,Ontario,Vaughan,ONVA_3
+Canada,Ontario,Thornhill,ONTH_1
+Canada,Ontario,Thornhill,ONTH_2
+Canada,Ontario,Thornhill,ONTH_3
+Canada,Ontario,Winchester,ONWI_1
+Canada,Ontario,Winchester,ONWI_2
+Canada,Ontario,Winchester,ONWI_3
+Canada,Ontario,Prescott,ONPR_1
+Canada,Ontario,Prescott,ONPR_2
+Canada,Ontario,Prescott,ONPR_3
+Canada,Ontario,South River,ONSO_1
+Canada,Ontario,South River,ONSO_2
+Canada,Ontario,South River,ONSO_3
+Canada,Ontario,Valley East,ONVA_1
+Canada,Ontario,Valley East,ONVA_2
+Canada,Ontario,Valley East,ONVA_3
+Canada,Ontario,Attawapiskat,ONAT_1
+Canada,Ontario,Attawapiskat,ONAT_2
+Canada,Ontario,Attawapiskat,ONAT_3
+Canada,Ontario,Manitoulin District,ONMA_1
+Canada,Ontario,Manitoulin District,ONMA_2
+Canada,Ontario,Manitoulin District,ONMA_3
+Canada,Northwest Territories,Behchokǫ̀,NOBE_1
+Canada,Northwest Territories,Behchokǫ̀,NOBE_2
+Canada,Northwest Territories,Behchokǫ̀,NOBE_3
+Canada,Northwest Territories,Fort McPherson,NOFO_1
+Canada,Northwest Territories,Fort McPherson,NOFO_2
+Canada,Northwest Territories,Fort McPherson,NOFO_3
+Canada,Northwest Territories,Norman Wells,NONO_1
+Canada,Northwest Territories,Norman Wells,NONO_2
+Canada,Northwest Territories,Norman Wells,NONO_3
+Canada,Northwest Territories,Fort Smith,NOFO_1
+Canada,Northwest Territories,Fort Smith,NOFO_2
+Canada,Northwest Territories,Fort Smith,NOFO_3
+Canada,Northwest Territories,Inuvik,NOIN_1
+Canada,Northwest Territories,Inuvik,NOIN_2
+Canada,Northwest Territories,Inuvik,NOIN_3
+Canada,Northwest Territories,Hay River,NOHA_1
+Canada,Northwest Territories,Hay River,NOHA_2
+Canada,Northwest Territories,Hay River,NOHA_3
+Canada,Northwest Territories,Yellowknife,NOYE_1
+Canada,Northwest Territories,Yellowknife,NOYE_2
+Canada,Northwest Territories,Yellowknife,NOYE_3
+China,Xizang,Saga,XISA_1
+China,Xizang,Saga,XISA_2
+China,Xizang,Saga,XISA_3
+China,Xizang,Qamdo Shi,XIQA_1
+China,Xizang,Qamdo Shi,XIQA_2
+China,Xizang,Qamdo Shi,XIQA_3
+China,Xizang,Burang,XIBU_1
+China,Xizang,Burang,XIBU_2
+China,Xizang,Burang,XIBU_3
+China,Xizang,Qamdo,XIQA_1
+China,Xizang,Qamdo,XIQA_2
+China,Xizang,Qamdo,XIQA_3
+China,Xizang,Nagqu Diqu,XINA_1
+China,Xizang,Nagqu Diqu,XINA_2
+China,Xizang,Nagqu Diqu,XINA_3
+China,Xizang,Jiangzi,XIJI_1
+China,Xizang,Jiangzi,XIJI_2
+China,Xizang,Jiangzi,XIJI_3
+China,Xizang,Dêqên,XIDÊ_1
+China,Xizang,Dêqên,XIDÊ_2
+China,Xizang,Dêqên,XIDÊ_3
+China,Xizang,Shannan Diqu,XISH_1
+China,Xizang,Shannan Diqu,XISH_2
+China,Xizang,Shannan Diqu,XISH_3
+China,Xizang,Nagqu,XINA_1
+China,Xizang,Nagqu,XINA_2
+China,Xizang,Nagqu,XINA_3
+China,Xizang,Nyingchi Prefecture,XINY_1
+China,Xizang,Nyingchi Prefecture,XINY_2
+China,Xizang,Nyingchi Prefecture,XINY_3
+China,Jiangsu,TaiZhou,JITA_1
+China,Jiangsu,TaiZhou,JITA_2
+China,Jiangsu,TaiZhou,JITA_3
+China,Jiangsu,XuZhou,JIXU_1
+China,Jiangsu,XuZhou,JIXU_2
+China,Jiangsu,XuZhou,JIXU_3
+China,Jiangsu,ChangZhou,JICH_1
+China,Jiangsu,ChangZhou,JICH_2
+China,Jiangsu,ChangZhou,JICH_3
+China,Jiangsu,YangZhou,JIYA_1
+China,Jiangsu,YangZhou,JIYA_2
+China,Jiangsu,YangZhou,JIYA_3
+China,Jiangsu,NanJing,JINA_1
+China,Jiangsu,NanJing,JINA_2
+China,Jiangsu,NanJing,JINA_3
+China,Jiangsu,SuZhou,JISU_1
+China,Jiangsu,SuZhou,JISU_2
+China,Jiangsu,SuZhou,JISU_3
+China,Jiangsu,HuaiAn,JIHU_1
+China,Jiangsu,HuaiAn,JIHU_2
+China,Jiangsu,HuaiAn,JIHU_3
+China,Jiangsu,Haizhou,JIHA_1
+China,Jiangsu,Haizhou,JIHA_2
+China,Jiangsu,Haizhou,JIHA_3
+China,Jiangsu,ZhenJiang,JIZH_1
+China,Jiangsu,ZhenJiang,JIZH_2
+China,Jiangsu,ZhenJiang,JIZH_3
+China,Jiangsu,LianYunGang,JILI_1
+China,Jiangsu,LianYunGang,JILI_2
+China,Jiangsu,LianYunGang,JILI_3
+China,Shanxi,Changzhi,SHCH_1
+China,Shanxi,Changzhi,SHCH_2
+China,Shanxi,Changzhi,SHCH_3
+China,Shanxi,Datong,SHDA_1
+China,Shanxi,Datong,SHDA_2
+China,Shanxi,Datong,SHDA_3
+China,Shanxi,Lüliang,SHLÜ_1
+China,Shanxi,Lüliang,SHLÜ_2
+China,Shanxi,Lüliang,SHLÜ_3
+China,Shanxi,Jincheng,SHJI_1
+China,Shanxi,Jincheng,SHJI_2
+China,Shanxi,Jincheng,SHJI_3
+China,Shanxi,Gutao,SHGU_1
+China,Shanxi,Gutao,SHGU_2
+China,Shanxi,Gutao,SHGU_3
+China,Shanxi,Xinzhou,SHXI_1
+China,Shanxi,Xinzhou,SHXI_2
+China,Shanxi,Xinzhou,SHXI_3
+China,Shanxi,Yuci,SHYU_1
+China,Shanxi,Yuci,SHYU_2
+China,Shanxi,Yuci,SHYU_3
+China,Shanxi,Yuanping,SHYU_1
+China,Shanxi,Yuanping,SHYU_2
+China,Shanxi,Yuanping,SHYU_3
+China,Shanxi,Xintian,SHXI_1
+China,Shanxi,Xintian,SHXI_2
+China,Shanxi,Xintian,SHXI_3
+China,Shanxi,Datong Shi,SHDA_1
+China,Shanxi,Datong Shi,SHDA_2
+China,Shanxi,Datong Shi,SHDA_3
+China,Jilin,Huinan,JIHU_1
+China,Jilin,Huinan,JIHU_2
+China,Jilin,Huinan,JIHU_3
+China,Jilin,Tonghua,JITO_1
+China,Jilin,Tonghua,JITO_2
+China,Jilin,Tonghua,JITO_3
+China,Jilin,Yanji,JIYA_1
+China,Jilin,Yanji,JIYA_2
+China,Jilin,Yanji,JIYA_3
+China,Jilin,Fuyu,JIFU_1
+China,Jilin,Fuyu,JIFU_2
+China,Jilin,Fuyu,JIFU_3
+China,Jilin,Tumen,JITU_1
+China,Jilin,Tumen,JITU_2
+China,Jilin,Tumen,JITU_3
+China,Jilin,Chaoyang,JICH_1
+China,Jilin,Chaoyang,JICH_2
+China,Jilin,Chaoyang,JICH_3
+China,Jilin,Huadian,JIHU_1
+China,Jilin,Huadian,JIHU_2
+China,Jilin,Huadian,JIHU_3
+China,Jilin,Zhengjiatun,JIZH_1
+China,Jilin,Zhengjiatun,JIZH_2
+China,Jilin,Zhengjiatun,JIZH_3
+China,Jilin,Changchun,JICH_1
+China,Jilin,Changchun,JICH_2
+China,Jilin,Changchun,JICH_3
+China,Jilin,Mingyue,JIMI_1
+China,Jilin,Mingyue,JIMI_2
+China,Jilin,Mingyue,JIMI_3
+China,Hainan,Sansha,HASA_1
+China,Hainan,Sansha,HASA_2
+China,Hainan,Sansha,HASA_3
+China,Hainan,Wanning,HAWA_1
+China,Hainan,Wanning,HAWA_2
+China,Hainan,Wanning,HAWA_3
+China,Hainan,Basuo,HABA_1
+China,Hainan,Basuo,HABA_2
+China,Hainan,Basuo,HABA_3
+China,Hainan,Wenchang,HAWE_1
+China,Hainan,Wenchang,HAWE_2
+China,Hainan,Wenchang,HAWE_3
+China,Hainan,Lincheng,HALI_1
+China,Hainan,Lincheng,HALI_2
+China,Hainan,Lincheng,HALI_3
+China,Hainan,Qiongshan,HAQI_1
+China,Hainan,Qiongshan,HAQI_2
+China,Hainan,Qiongshan,HAQI_3
+China,Hainan,Dadonghai,HADA_1
+China,Hainan,Dadonghai,HADA_2
+China,Hainan,Dadonghai,HADA_3
+China,Hainan,Chongshan,HACH_1
+China,Hainan,Chongshan,HACH_2
+China,Hainan,Chongshan,HACH_3
+China,Hainan,Xiuying,HAXI_1
+China,Hainan,Xiuying,HAXI_2
+China,Hainan,Xiuying,HAXI_3
+China,Hainan,Jinjiang,HAJI_1
+China,Hainan,Jinjiang,HAJI_2
+China,Hainan,Jinjiang,HAJI_3
+France,Pays-de-la-Loire,Vaas,PAVA_1
+France,Pays-de-la-Loire,Vaas,PAVA_2
+France,Pays-de-la-Loire,Vaas,PAVA_3
+France,Pays-de-la-Loire,Saint-Gildas-des-Bois,PASA_1
+France,Pays-de-la-Loire,Saint-Gildas-des-Bois,PASA_2
+France,Pays-de-la-Loire,Saint-Gildas-des-Bois,PASA_3
+France,Pays-de-la-Loire,Couëron,PACO_1
+France,Pays-de-la-Loire,Couëron,PACO_2
+France,Pays-de-la-Loire,Couëron,PACO_3
+France,Pays-de-la-Loire,Saint-Étienne-de-Mer-Morte,PASA_1
+France,Pays-de-la-Loire,Saint-Étienne-de-Mer-Morte,PASA_2
+France,Pays-de-la-Loire,Saint-Étienne-de-Mer-Morte,PASA_3
+France,Pays-de-la-Loire,Challans,PACH_1
+France,Pays-de-la-Loire,Challans,PACH_2
+France,Pays-de-la-Loire,Challans,PACH_3
+France,Pays-de-la-Loire,Rouillon,PARO_1
+France,Pays-de-la-Loire,Rouillon,PARO_2
+France,Pays-de-la-Loire,Rouillon,PARO_3
+France,Pays-de-la-Loire,Le Pin-en-Mauges,PALE_1
+France,Pays-de-la-Loire,Le Pin-en-Mauges,PALE_2
+France,Pays-de-la-Loire,Le Pin-en-Mauges,PALE_3
+France,Pays-de-la-Loire,La Gaubretière,PALA_1
+France,Pays-de-la-Loire,La Gaubretière,PALA_2
+France,Pays-de-la-Loire,La Gaubretière,PALA_3
+France,Pays-de-la-Loire,Brain-sur-Allonnes,PABR_1
+France,Pays-de-la-Loire,Brain-sur-Allonnes,PABR_2
+France,Pays-de-la-Loire,Brain-sur-Allonnes,PABR_3
+France,Pays-de-la-Loire,Saint-Mars-de-Coutais,PASA_1
+France,Pays-de-la-Loire,Saint-Mars-de-Coutais,PASA_2
+France,Pays-de-la-Loire,Saint-Mars-de-Coutais,PASA_3
+France,Nouvelle-Aquitaine,Mouthiers-sur-Boëme,NOMO_1
+France,Nouvelle-Aquitaine,Mouthiers-sur-Boëme,NOMO_2
+France,Nouvelle-Aquitaine,Mouthiers-sur-Boëme,NOMO_3
+France,Nouvelle-Aquitaine,Coulonges-sur-l’Autize,NOCO_1
+France,Nouvelle-Aquitaine,Coulonges-sur-l’Autize,NOCO_2
+France,Nouvelle-Aquitaine,Coulonges-sur-l’Autize,NOCO_3
+France,Nouvelle-Aquitaine,La Réole,NOLA_1
+France,Nouvelle-Aquitaine,La Réole,NOLA_2
+France,Nouvelle-Aquitaine,La Réole,NOLA_3
+France,Nouvelle-Aquitaine,Magnac-sur-Touvre,NOMA_1
+France,Nouvelle-Aquitaine,Magnac-sur-Touvre,NOMA_2
+France,Nouvelle-Aquitaine,Magnac-sur-Touvre,NOMA_3
+France,Nouvelle-Aquitaine,Bassens,NOBA_1
+France,Nouvelle-Aquitaine,Bassens,NOBA_2
+France,Nouvelle-Aquitaine,Bassens,NOBA_3
+France,Nouvelle-Aquitaine,Thiviers,NOTH_1
+France,Nouvelle-Aquitaine,Thiviers,NOTH_2
+France,Nouvelle-Aquitaine,Thiviers,NOTH_3
+France,Nouvelle-Aquitaine,Saint-Pierre-d’Aurillac,NOSA_1
+France,Nouvelle-Aquitaine,Saint-Pierre-d’Aurillac,NOSA_2
+France,Nouvelle-Aquitaine,Saint-Pierre-d’Aurillac,NOSA_3
+France,Nouvelle-Aquitaine,Lubersac,NOLU_1
+France,Nouvelle-Aquitaine,Lubersac,NOLU_2
+France,Nouvelle-Aquitaine,Lubersac,NOLU_3
+France,Nouvelle-Aquitaine,Benquet,NOBE_1
+France,Nouvelle-Aquitaine,Benquet,NOBE_2
+France,Nouvelle-Aquitaine,Benquet,NOBE_3
+France,Nouvelle-Aquitaine,Montagne,NOMO_1
+France,Nouvelle-Aquitaine,Montagne,NOMO_2
+France,Nouvelle-Aquitaine,Montagne,NOMO_3
+France,Auvergne-Rhône-Alpes,Le Versoud,AULE_1
+France,Auvergne-Rhône-Alpes,Le Versoud,AULE_2
+France,Auvergne-Rhône-Alpes,Le Versoud,AULE_3
+France,Auvergne-Rhône-Alpes,Satillieu,AUSA_1
+France,Auvergne-Rhône-Alpes,Satillieu,AUSA_2
+France,Auvergne-Rhône-Alpes,Satillieu,AUSA_3
+France,Auvergne-Rhône-Alpes,Chuzelles,AUCH_1
+France,Auvergne-Rhône-Alpes,Chuzelles,AUCH_2
+France,Auvergne-Rhône-Alpes,Chuzelles,AUCH_3
+France,Auvergne-Rhône-Alpes,Lentilly,AULE_1
+France,Auvergne-Rhône-Alpes,Lentilly,AULE_2
+France,Auvergne-Rhône-Alpes,Lentilly,AULE_3
+France,Auvergne-Rhône-Alpes,Vernoux-en-Vivarais,AUVE_1
+France,Auvergne-Rhône-Alpes,Vernoux-en-Vivarais,AUVE_2
+France,Auvergne-Rhône-Alpes,Vernoux-en-Vivarais,AUVE_3
+France,Auvergne-Rhône-Alpes,Saint-Germain-Lembron,AUSA_1
+France,Auvergne-Rhône-Alpes,Saint-Germain-Lembron,AUSA_2
+France,Auvergne-Rhône-Alpes,Saint-Germain-Lembron,AUSA_3
+France,Auvergne-Rhône-Alpes,Panissières,AUPA_1
+France,Auvergne-Rhône-Alpes,Panissières,AUPA_2
+France,Auvergne-Rhône-Alpes,Panissières,AUPA_3
+France,Auvergne-Rhône-Alpes,Le Chambon-Feugerolles,AULE_1
+France,Auvergne-Rhône-Alpes,Le Chambon-Feugerolles,AULE_2
+France,Auvergne-Rhône-Alpes,Le Chambon-Feugerolles,AULE_3
+France,Auvergne-Rhône-Alpes,Belleville,AUBE_1
+France,Auvergne-Rhône-Alpes,Belleville,AUBE_2
+France,Auvergne-Rhône-Alpes,Belleville,AUBE_3
+France,Auvergne-Rhône-Alpes,Bourg-de-Thizy,AUBO_1
+France,Auvergne-Rhône-Alpes,Bourg-de-Thizy,AUBO_2
+France,Auvergne-Rhône-Alpes,Bourg-de-Thizy,AUBO_3
+France,Normandie,Mont-Saint-Aignan,NOMO_1
+France,Normandie,Mont-Saint-Aignan,NOMO_2
+France,Normandie,Mont-Saint-Aignan,NOMO_3
+France,Normandie,Saint-Denis-sur-Sarthon,NOSA_1
+France,Normandie,Saint-Denis-sur-Sarthon,NOSA_2
+France,Normandie,Saint-Denis-sur-Sarthon,NOSA_3
+France,Normandie,Amfreville,NOAM_1
+France,Normandie,Amfreville,NOAM_2
+France,Normandie,Amfreville,NOAM_3
+France,Normandie,Fontenay,NOFO_1
+France,Normandie,Fontenay,NOFO_2
+France,Normandie,Fontenay,NOFO_3
+France,Normandie,Buchy,NOBU_1
+France,Normandie,Buchy,NOBU_2
+France,Normandie,Buchy,NOBU_3
+France,Normandie,Martin-Église,NOMA_1
+France,Normandie,Martin-Église,NOMA_2
+France,Normandie,Martin-Église,NOMA_3
+France,Normandie,Yvetot,NOYV_1
+France,Normandie,Yvetot,NOYV_2
+France,Normandie,Yvetot,NOYV_3
+France,Normandie,Tollevast,NOTO_1
+France,Normandie,Tollevast,NOTO_2
+France,Normandie,Tollevast,NOTO_3
+France,Normandie,Condé-sur-Noireau,NOCO_1
+France,Normandie,Condé-sur-Noireau,NOCO_2
+France,Normandie,Condé-sur-Noireau,NOCO_3
+France,Normandie,Damville,NODA_1
+France,Normandie,Damville,NODA_2
+France,Normandie,Damville,NODA_3
+France,Grand-Est,Gespunsart,GRGE_1
+France,Grand-Est,Gespunsart,GRGE_2
+France,Grand-Est,Gespunsart,GRGE_3
+France,Grand-Est,Saint-Lyé,GRSA_1
+France,Grand-Est,Saint-Lyé,GRSA_2
+France,Grand-Est,Saint-Lyé,GRSA_3
+France,Grand-Est,Nancy,GRNA_1
+France,Grand-Est,Nancy,GRNA_2
+France,Grand-Est,Nancy,GRNA_3
+France,Grand-Est,Rocroi,GRRO_1
+France,Grand-Est,Rocroi,GRRO_2
+France,Grand-Est,Rocroi,GRRO_3
+France,Grand-Est,Reichstett,GRRE_1
+France,Grand-Est,Reichstett,GRRE_2
+France,Grand-Est,Reichstett,GRRE_3
+France,Grand-Est,Badonviller,GRBA_1
+France,Grand-Est,Badonviller,GRBA_2
+France,Grand-Est,Badonviller,GRBA_3
+France,Grand-Est,Mundolsheim,GRMU_1
+France,Grand-Est,Mundolsheim,GRMU_2
+France,Grand-Est,Mundolsheim,GRMU_3
+France,Grand-Est,Petite-Rosselle,GRPE_1
+France,Grand-Est,Petite-Rosselle,GRPE_2
+France,Grand-Est,Petite-Rosselle,GRPE_3
+France,Grand-Est,Schnersheim,GRSC_1
+France,Grand-Est,Schnersheim,GRSC_2
+France,Grand-Est,Schnersheim,GRSC_3
+France,Grand-Est,Châteauvillain,GRCH_1
+France,Grand-Est,Châteauvillain,GRCH_2
+France,Grand-Est,Châteauvillain,GRCH_3
+Germany,Baden-Württemberg,Unterkrozingen,BAUN_1
+Germany,Baden-Württemberg,Unterkrozingen,BAUN_2
+Germany,Baden-Württemberg,Unterkrozingen,BAUN_3
+Germany,Baden-Württemberg,Hasel,BAHA_1
+Germany,Baden-Württemberg,Hasel,BAHA_2
+Germany,Baden-Württemberg,Hasel,BAHA_3
+Germany,Baden-Württemberg,Gärtringen,BAGÄ_1
+Germany,Baden-Württemberg,Gärtringen,BAGÄ_2
+Germany,Baden-Württemberg,Gärtringen,BAGÄ_3
+Germany,Baden-Württemberg,Althengstett,BAAL_1
+Germany,Baden-Württemberg,Althengstett,BAAL_2
+Germany,Baden-Württemberg,Althengstett,BAAL_3
+Germany,Baden-Württemberg,Dischingen,BADI_1
+Germany,Baden-Württemberg,Dischingen,BADI_2
+Germany,Baden-Württemberg,Dischingen,BADI_3
+Germany,Baden-Württemberg,Allmersbach im Tal,BAAL_1
+Germany,Baden-Württemberg,Allmersbach im Tal,BAAL_2
+Germany,Baden-Württemberg,Allmersbach im Tal,BAAL_3
+Germany,Baden-Württemberg,Glatten,BAGL_1
+Germany,Baden-Württemberg,Glatten,BAGL_2
+Germany,Baden-Württemberg,Glatten,BAGL_3
+Germany,Baden-Württemberg,Lautenbach,BALA_1
+Germany,Baden-Württemberg,Lautenbach,BALA_2
+Germany,Baden-Württemberg,Lautenbach,BALA_3
+Germany,Baden-Württemberg,Leimen,BALE_1
+Germany,Baden-Württemberg,Leimen,BALE_2
+Germany,Baden-Württemberg,Leimen,BALE_3
+Germany,Baden-Württemberg,Plüderhausen,BAPL_1
+Germany,Baden-Württemberg,Plüderhausen,BAPL_2
+Germany,Baden-Württemberg,Plüderhausen,BAPL_3
+Germany,Bavaria,Eiselfing,BAEI_1
+Germany,Bavaria,Eiselfing,BAEI_2
+Germany,Bavaria,Eiselfing,BAEI_3
+Germany,Bavaria,Freystadt,BAFR_1
+Germany,Bavaria,Freystadt,BAFR_2
+Germany,Bavaria,Freystadt,BAFR_3
+Germany,Bavaria,Fremdingen,BAFR_1
+Germany,Bavaria,Fremdingen,BAFR_2
+Germany,Bavaria,Fremdingen,BAFR_3
+Germany,Bavaria,Gerolsbach,BAGE_1
+Germany,Bavaria,Gerolsbach,BAGE_2
+Germany,Bavaria,Gerolsbach,BAGE_3
+Germany,Bavaria,Pfarrweisach,BAPF_1
+Germany,Bavaria,Pfarrweisach,BAPF_2
+Germany,Bavaria,Pfarrweisach,BAPF_3
+Germany,Bavaria,Riegsee,BARI_1
+Germany,Bavaria,Riegsee,BARI_2
+Germany,Bavaria,Riegsee,BARI_3
+Germany,Bavaria,Rechtenbach,BARE_1
+Germany,Bavaria,Rechtenbach,BARE_2
+Germany,Bavaria,Rechtenbach,BARE_3
+Germany,Bavaria,Langquaid,BALA_1
+Germany,Bavaria,Langquaid,BALA_2
+Germany,Bavaria,Langquaid,BALA_3
+Germany,Bavaria,Runding,BARU_1
+Germany,Bavaria,Runding,BARU_2
+Germany,Bavaria,Runding,BARU_3
+Germany,Bavaria,Planegg,BAPL_1
+Germany,Bavaria,Planegg,BAPL_2
+Germany,Bavaria,Planegg,BAPL_3
+Germany,Hamburg,Hummelsbüttel,HAHU_1
+Germany,Hamburg,Hummelsbüttel,HAHU_2
+Germany,Hamburg,Hummelsbüttel,HAHU_3
+Germany,Hamburg,Hamburg-Mitte,HAHA_1
+Germany,Hamburg,Hamburg-Mitte,HAHA_2
+Germany,Hamburg,Hamburg-Mitte,HAHA_3
+Germany,Hamburg,Bergstedt,HABE_1
+Germany,Hamburg,Bergstedt,HABE_2
+Germany,Hamburg,Bergstedt,HABE_3
+Germany,Hamburg,St. Georg,HAST_1
+Germany,Hamburg,St. Georg,HAST_2
+Germany,Hamburg,St. Georg,HAST_3
+Germany,Hamburg,Winterhude,HAWI_1
+Germany,Hamburg,Winterhude,HAWI_2
+Germany,Hamburg,Winterhude,HAWI_3
+Germany,Hamburg,Ottensen,HAOT_1
+Germany,Hamburg,Ottensen,HAOT_2
+Germany,Hamburg,Ottensen,HAOT_3
+Germany,Hamburg,Duvenstedt,HADU_1
+Germany,Hamburg,Duvenstedt,HADU_2
+Germany,Hamburg,Duvenstedt,HADU_3
+Germany,Hamburg,Poppenbüttel,HAPO_1
+Germany,Hamburg,Poppenbüttel,HAPO_2
+Germany,Hamburg,Poppenbüttel,HAPO_3
+Germany,Hamburg,Ohlsdorf,HAOH_1
+Germany,Hamburg,Ohlsdorf,HAOH_2
+Germany,Hamburg,Ohlsdorf,HAOH_3
+Germany,Hamburg,Harburg,HAHA_1
+Germany,Hamburg,Harburg,HAHA_2
+Germany,Hamburg,Harburg,HAHA_3
+Germany,Schleswig-Holstein,Tellingstedt,SCTE_1
+Germany,Schleswig-Holstein,Tellingstedt,SCTE_2
+Germany,Schleswig-Holstein,Tellingstedt,SCTE_3
+Germany,Schleswig-Holstein,Schwabstedt,SCSC_1
+Germany,Schleswig-Holstein,Schwabstedt,SCSC_2
+Germany,Schleswig-Holstein,Schwabstedt,SCSC_3
+Germany,Schleswig-Holstein,Friedrichskoog,SCFR_1
+Germany,Schleswig-Holstein,Friedrichskoog,SCFR_2
+Germany,Schleswig-Holstein,Friedrichskoog,SCFR_3
+Germany,Schleswig-Holstein,Prisdorf,SCPR_1
+Germany,Schleswig-Holstein,Prisdorf,SCPR_2
+Germany,Schleswig-Holstein,Prisdorf,SCPR_3
+Germany,Schleswig-Holstein,Hohenlockstedt,SCHO_1
+Germany,Schleswig-Holstein,Hohenlockstedt,SCHO_2
+Germany,Schleswig-Holstein,Hohenlockstedt,SCHO_3
+Germany,Schleswig-Holstein,Schellhorn,SCSC_1
+Germany,Schleswig-Holstein,Schellhorn,SCSC_2
+Germany,Schleswig-Holstein,Schellhorn,SCSC_3
+Germany,Schleswig-Holstein,Escheburg,SCES_1
+Germany,Schleswig-Holstein,Escheburg,SCES_2
+Germany,Schleswig-Holstein,Escheburg,SCES_3
+Germany,Schleswig-Holstein,Goel,SCGO_1
+Germany,Schleswig-Holstein,Goel,SCGO_2
+Germany,Schleswig-Holstein,Goel,SCGO_3
+Germany,Schleswig-Holstein,Siek,SCSI_1
+Germany,Schleswig-Holstein,Siek,SCSI_2
+Germany,Schleswig-Holstein,Siek,SCSI_3
+Germany,Schleswig-Holstein,Borstel-Hohenraden,SCBO_1
+Germany,Schleswig-Holstein,Borstel-Hohenraden,SCBO_2
+Germany,Schleswig-Holstein,Borstel-Hohenraden,SCBO_3
+Germany,Saxony-Anhalt,Vockerode,SAVO_1
+Germany,Saxony-Anhalt,Vockerode,SAVO_2
+Germany,Saxony-Anhalt,Vockerode,SAVO_3
+Germany,Saxony-Anhalt,Bergwitz,SABE_1
+Germany,Saxony-Anhalt,Bergwitz,SABE_2
+Germany,Saxony-Anhalt,Bergwitz,SABE_3
+Germany,Saxony-Anhalt,Bad Dürrenberg,SABA_1
+Germany,Saxony-Anhalt,Bad Dürrenberg,SABA_2
+Germany,Saxony-Anhalt,Bad Dürrenberg,SABA_3
+Germany,Saxony-Anhalt,Westeregeln,SAWE_1
+Germany,Saxony-Anhalt,Westeregeln,SAWE_2
+Germany,Saxony-Anhalt,Westeregeln,SAWE_3
+Germany,Saxony-Anhalt,Derenburg,SADE_1
+Germany,Saxony-Anhalt,Derenburg,SADE_2
+Germany,Saxony-Anhalt,Derenburg,SADE_3
+Germany,Saxony-Anhalt,Osternienburg,SAOS_1
+Germany,Saxony-Anhalt,Osternienburg,SAOS_2
+Germany,Saxony-Anhalt,Osternienburg,SAOS_3
+Germany,Saxony-Anhalt,Eichenbarleben,SAEI_1
+Germany,Saxony-Anhalt,Eichenbarleben,SAEI_2
+Germany,Saxony-Anhalt,Eichenbarleben,SAEI_3
+Germany,Saxony-Anhalt,Groß Rosenburg,SAGR_1
+Germany,Saxony-Anhalt,Groß Rosenburg,SAGR_2
+Germany,Saxony-Anhalt,Groß Rosenburg,SAGR_3
+Germany,Saxony-Anhalt,Süplingen,SASÜ_1
+Germany,Saxony-Anhalt,Süplingen,SASÜ_2
+Germany,Saxony-Anhalt,Süplingen,SASÜ_3
+Germany,Saxony-Anhalt,Güsten,SAGÜ_1
+Germany,Saxony-Anhalt,Güsten,SAGÜ_2
+Germany,Saxony-Anhalt,Güsten,SAGÜ_3
+India,West Bengal,Bansihari community development block,WEBA_1
+India,West Bengal,Bansihari community development block,WEBA_2
+India,West Bengal,Bansihari community development block,WEBA_3
+India,West Bengal,Nabagram,WENA_1
+India,West Bengal,Nabagram,WENA_2
+India,West Bengal,Nabagram,WENA_3
+India,West Bengal,Rishra,WERI_1
+India,West Bengal,Rishra,WERI_2
+India,West Bengal,Rishra,WERI_3
+India,West Bengal,Naihati,WENA_1
+India,West Bengal,Naihati,WENA_2
+India,West Bengal,Naihati,WENA_3
+India,West Bengal,Raghudebbati,WERA_1
+India,West Bengal,Raghudebbati,WERA_2
+India,West Bengal,Raghudebbati,WERA_3
+India,West Bengal,Uttar Dinajpur district,WEUT_1
+India,West Bengal,Uttar Dinajpur district,WEUT_2
+India,West Bengal,Uttar Dinajpur district,WEUT_3
+India,West Bengal,Mejia community development block,WEME_1
+India,West Bengal,Mejia community development block,WEME_2
+India,West Bengal,Mejia community development block,WEME_3
+India,West Bengal,Kenda,WEKE_1
+India,West Bengal,Kenda,WEKE_2
+India,West Bengal,Kenda,WEKE_3
+India,West Bengal,Arambagh community development block,WEAR_1
+India,West Bengal,Arambagh community development block,WEAR_2
+India,West Bengal,Arambagh community development block,WEAR_3
+India,West Bengal,Muragacha,WEMU_1
+India,West Bengal,Muragacha,WEMU_2
+India,West Bengal,Muragacha,WEMU_3
+India,Jammu and Kashmir,Katra,JAKA_1
+India,Jammu and Kashmir,Katra,JAKA_2
+India,Jammu and Kashmir,Katra,JAKA_3
+India,Jammu and Kashmir,Thanna Mandi,JATH_1
+India,Jammu and Kashmir,Thanna Mandi,JATH_2
+India,Jammu and Kashmir,Thanna Mandi,JATH_3
+India,Jammu and Kashmir,Thang,JATH_1
+India,Jammu and Kashmir,Thang,JATH_2
+India,Jammu and Kashmir,Thang,JATH_3
+India,Jammu and Kashmir,Ganderbal,JAGA_1
+India,Jammu and Kashmir,Ganderbal,JAGA_2
+India,Jammu and Kashmir,Ganderbal,JAGA_3
+India,Jammu and Kashmir,Sopur,JASO_1
+India,Jammu and Kashmir,Sopur,JASO_2
+India,Jammu and Kashmir,Sopur,JASO_3
+India,Jammu and Kashmir,Banihal,JABA_1
+India,Jammu and Kashmir,Banihal,JABA_2
+India,Jammu and Kashmir,Banihal,JABA_3
+India,Jammu and Kashmir,Jaurian,JAJA_1
+India,Jammu and Kashmir,Jaurian,JAJA_2
+India,Jammu and Kashmir,Jaurian,JAJA_3
+India,Jammu and Kashmir,Udhampur,JAUD_1
+India,Jammu and Kashmir,Udhampur,JAUD_2
+India,Jammu and Kashmir,Udhampur,JAUD_3
+India,Jammu and Kashmir,Badgam,JABA_1
+India,Jammu and Kashmir,Badgam,JABA_2
+India,Jammu and Kashmir,Badgam,JABA_3
+India,Jammu and Kashmir,Pattan,JAPA_1
+India,Jammu and Kashmir,Pattan,JAPA_2
+India,Jammu and Kashmir,Pattan,JAPA_3
+India,Puducherry,Mahe,PUMA_1
+India,Puducherry,Mahe,PUMA_2
+India,Puducherry,Mahe,PUMA_3
+India,Puducherry,Yanam,PUYA_1
+India,Puducherry,Yanam,PUYA_2
+India,Puducherry,Yanam,PUYA_3
+India,Puducherry,Karaikal,PUKA_1
+India,Puducherry,Karaikal,PUKA_2
+India,Puducherry,Karaikal,PUKA_3
+India,Puducherry,Puducherry,PUPU_1
+India,Puducherry,Puducherry,PUPU_2
+India,Puducherry,Puducherry,PUPU_3
+India,Tamil Nadu,Manapparai,TAMA_1
+India,Tamil Nadu,Manapparai,TAMA_2
+India,Tamil Nadu,Manapparai,TAMA_3
+India,Tamil Nadu,Vikravandi,TAVI_1
+India,Tamil Nadu,Vikravandi,TAVI_2
+India,Tamil Nadu,Vikravandi,TAVI_3
+India,Tamil Nadu,Uttiramerur,TAUT_1
+India,Tamil Nadu,Uttiramerur,TAUT_2
+India,Tamil Nadu,Uttiramerur,TAUT_3
+India,Tamil Nadu,Pollachi,TAPO_1
+India,Tamil Nadu,Pollachi,TAPO_2
+India,Tamil Nadu,Pollachi,TAPO_3
+India,Tamil Nadu,Manamadurai,TAMA_1
+India,Tamil Nadu,Manamadurai,TAMA_2
+India,Tamil Nadu,Manamadurai,TAMA_3
+India,Tamil Nadu,Surandai,TASU_1
+India,Tamil Nadu,Surandai,TASU_2
+India,Tamil Nadu,Surandai,TASU_3
+India,Tamil Nadu,Tiruttangal,TATI_1
+India,Tamil Nadu,Tiruttangal,TATI_2
+India,Tamil Nadu,Tiruttangal,TATI_3
+India,Tamil Nadu,Periyanayakkanpalaiyam,TAPE_1
+India,Tamil Nadu,Periyanayakkanpalaiyam,TAPE_2
+India,Tamil Nadu,Periyanayakkanpalaiyam,TAPE_3
+India,Tamil Nadu,Taramangalam,TATA_1
+India,Tamil Nadu,Taramangalam,TATA_2
+India,Tamil Nadu,Taramangalam,TATA_3
+India,Tamil Nadu,Nangilickondan,TANA_1
+India,Tamil Nadu,Nangilickondan,TANA_2
+India,Tamil Nadu,Nangilickondan,TANA_3
+India,Kerala,Vaikam,KEVA_1
+India,Kerala,Vaikam,KEVA_2
+India,Kerala,Vaikam,KEVA_3
+India,Kerala,Beypore,KEBE_1
+India,Kerala,Beypore,KEBE_2
+India,Kerala,Beypore,KEBE_3
+India,Kerala,Angamali,KEAN_1
+India,Kerala,Angamali,KEAN_2
+India,Kerala,Angamali,KEAN_3
+India,Kerala,Payyanur,KEPA_1
+India,Kerala,Payyanur,KEPA_2
+India,Kerala,Payyanur,KEPA_3
+India,Kerala,Thrissur,KETH_1
+India,Kerala,Thrissur,KETH_2
+India,Kerala,Thrissur,KETH_3
+India,Kerala,Muvattupuzha,KEMU_1
+India,Kerala,Muvattupuzha,KEMU_2
+India,Kerala,Muvattupuzha,KEMU_3
+India,Kerala,Kalamassery,KEKA_1
+India,Kerala,Kalamassery,KEKA_2
+India,Kerala,Kalamassery,KEKA_3
+India,Kerala,Kanhangad,KEKA_1
+India,Kerala,Kanhangad,KEKA_2
+India,Kerala,Kanhangad,KEKA_3
+India,Kerala,Taliparamba,KETA_1
+India,Kerala,Taliparamba,KETA_2
+India,Kerala,Taliparamba,KETA_3
+India,Kerala,Changanacheri,KECH_1
+India,Kerala,Changanacheri,KECH_2
+India,Kerala,Changanacheri,KECH_3
+Indonesia,Lampung,Bandar Lampung,LABA_1
+Indonesia,Lampung,Bandar Lampung,LABA_2
+Indonesia,Lampung,Bandar Lampung,LABA_3
+Indonesia,Lampung,Kabupaten Lampung Barat,LAKA_1
+Indonesia,Lampung,Kabupaten Lampung Barat,LAKA_2
+Indonesia,Lampung,Kabupaten Lampung Barat,LAKA_3
+Indonesia,Lampung,Kabupaten Lampung Utara,LAKA_1
+Indonesia,Lampung,Kabupaten Lampung Utara,LAKA_2
+Indonesia,Lampung,Kabupaten Lampung Utara,LAKA_3
+Indonesia,Lampung,Metro,LAME_1
+Indonesia,Lampung,Metro,LAME_2
+Indonesia,Lampung,Metro,LAME_3
+Indonesia,Lampung,Kotabumi,LAKO_1
+Indonesia,Lampung,Kotabumi,LAKO_2
+Indonesia,Lampung,Kotabumi,LAKO_3
+Indonesia,Lampung,Kabupaten Tulangbawang,LAKA_1
+Indonesia,Lampung,Kabupaten Tulangbawang,LAKA_2
+Indonesia,Lampung,Kabupaten Tulangbawang,LAKA_3
+Indonesia,Lampung,Kabupaten Pesisir Barat,LAKA_1
+Indonesia,Lampung,Kabupaten Pesisir Barat,LAKA_2
+Indonesia,Lampung,Kabupaten Pesisir Barat,LAKA_3
+Indonesia,Lampung,Kabupaten Pringsewu,LAKA_1
+Indonesia,Lampung,Kabupaten Pringsewu,LAKA_2
+Indonesia,Lampung,Kabupaten Pringsewu,LAKA_3
+Indonesia,Lampung,Kabupaten Lampung Selatan,LAKA_1
+Indonesia,Lampung,Kabupaten Lampung Selatan,LAKA_2
+Indonesia,Lampung,Kabupaten Lampung Selatan,LAKA_3
+Indonesia,Lampung,Terbanggi Besar,LATE_1
+Indonesia,Lampung,Terbanggi Besar,LATE_2
+Indonesia,Lampung,Terbanggi Besar,LATE_3
+Indonesia,Kalimantan Timur,Loa Janan,KALO_1
+Indonesia,Kalimantan Timur,Loa Janan,KALO_2
+Indonesia,Kalimantan Timur,Loa Janan,KALO_3
+Indonesia,Kalimantan Timur,Kabupaten Penajam Paser Utara,KAKA_1
+Indonesia,Kalimantan Timur,Kabupaten Penajam Paser Utara,KAKA_2
+Indonesia,Kalimantan Timur,Kabupaten Penajam Paser Utara,KAKA_3
+Indonesia,Kalimantan Timur,Balikpapan,KABA_1
+Indonesia,Kalimantan Timur,Balikpapan,KABA_2
+Indonesia,Kalimantan Timur,Balikpapan,KABA_3
+Indonesia,Kalimantan Timur,Kabupaten Paser,KAKA_1
+Indonesia,Kalimantan Timur,Kabupaten Paser,KAKA_2
+Indonesia,Kalimantan Timur,Kabupaten Paser,KAKA_3
+Indonesia,Kalimantan Timur,Kabupaten Kutai Kartanegara,KAKA_1
+Indonesia,Kalimantan Timur,Kabupaten Kutai Kartanegara,KAKA_2
+Indonesia,Kalimantan Timur,Kabupaten Kutai Kartanegara,KAKA_3
+Indonesia,Kalimantan Timur,City of Balikpapan,KACI_1
+Indonesia,Kalimantan Timur,City of Balikpapan,KACI_2
+Indonesia,Kalimantan Timur,City of Balikpapan,KACI_3
+Indonesia,Kalimantan Timur,Bontang,KABO_1
+Indonesia,Kalimantan Timur,Bontang,KABO_2
+Indonesia,Kalimantan Timur,Bontang,KABO_3
+Indonesia,Kalimantan Timur,Samarinda,KASA_1
+Indonesia,Kalimantan Timur,Samarinda,KASA_2
+Indonesia,Kalimantan Timur,Samarinda,KASA_3
+Indonesia,Kalimantan Timur,Kabupaten Kutai Barat,KAKA_1
+Indonesia,Kalimantan Timur,Kabupaten Kutai Barat,KAKA_2
+Indonesia,Kalimantan Timur,Kabupaten Kutai Barat,KAKA_3
+Indonesia,Kalimantan Timur,Kabupaten Mahakam Hulu,KAKA_1
+Indonesia,Kalimantan Timur,Kabupaten Mahakam Hulu,KAKA_2
+Indonesia,Kalimantan Timur,Kabupaten Mahakam Hulu,KAKA_3
+Indonesia,DI Yogyakarta,Kabupaten Gunung Kidul,DIKA_1
+Indonesia,DI Yogyakarta,Kabupaten Gunung Kidul,DIKA_2
+Indonesia,DI Yogyakarta,Kabupaten Gunung Kidul,DIKA_3
+Indonesia,DI Yogyakarta,Yogyakarta,DIYO_1
+Indonesia,DI Yogyakarta,Yogyakarta,DIYO_2
+Indonesia,DI Yogyakarta,Yogyakarta,DIYO_3
+Indonesia,DI Yogyakarta,Kabupaten Kulon Progo,DIKA_1
+Indonesia,DI Yogyakarta,Kabupaten Kulon Progo,DIKA_2
+Indonesia,DI Yogyakarta,Kabupaten Kulon Progo,DIKA_3
+Indonesia,DI Yogyakarta,Kabupaten Bantul,DIKA_1
+Indonesia,DI Yogyakarta,Kabupaten Bantul,DIKA_2
+Indonesia,DI Yogyakarta,Kabupaten Bantul,DIKA_3
+Indonesia,DI Yogyakarta,Kabupaten Sleman,DIKA_1
+Indonesia,DI Yogyakarta,Kabupaten Sleman,DIKA_2
+Indonesia,DI Yogyakarta,Kabupaten Sleman,DIKA_3
+Indonesia,Sulawesi Barat,Mamuju,SUMA_1
+Indonesia,Sulawesi Barat,Mamuju,SUMA_2
+Indonesia,Sulawesi Barat,Mamuju,SUMA_3
+Indonesia,Sulawesi Barat,Kabupaten Mamasa,SUKA_1
+Indonesia,Sulawesi Barat,Kabupaten Mamasa,SUKA_2
+Indonesia,Sulawesi Barat,Kabupaten Mamasa,SUKA_3
+Indonesia,Sulawesi Barat,Kabupaten Polewali Mandar,SUKA_1
+Indonesia,Sulawesi Barat,Kabupaten Polewali Mandar,SUKA_2
+Indonesia,Sulawesi Barat,Kabupaten Polewali Mandar,SUKA_3
+Indonesia,Sulawesi Barat,Kabupaten Majene,SUKA_1
+Indonesia,Sulawesi Barat,Kabupaten Majene,SUKA_2
+Indonesia,Sulawesi Barat,Kabupaten Majene,SUKA_3
+Indonesia,Sulawesi Barat,Polewali,SUPO_1
+Indonesia,Sulawesi Barat,Polewali,SUPO_2
+Indonesia,Sulawesi Barat,Polewali,SUPO_3
+Indonesia,Sulawesi Barat,Kabupaten Mamuju,SUKA_1
+Indonesia,Sulawesi Barat,Kabupaten Mamuju,SUKA_2
+Indonesia,Sulawesi Barat,Kabupaten Mamuju,SUKA_3
+Indonesia,Sulawesi Barat,Kabupaten Mamuju Utara,SUKA_1
+Indonesia,Sulawesi Barat,Kabupaten Mamuju Utara,SUKA_2
+Indonesia,Sulawesi Barat,Kabupaten Mamuju Utara,SUKA_3
+Indonesia,Sulawesi Barat,Kabupaten Mamuju Tengah,SUKA_1
+Indonesia,Sulawesi Barat,Kabupaten Mamuju Tengah,SUKA_2
+Indonesia,Sulawesi Barat,Kabupaten Mamuju Tengah,SUKA_3
+Indonesia,Sulawesi Barat,Majene,SUMA_1
+Indonesia,Sulawesi Barat,Majene,SUMA_2
+Indonesia,Sulawesi Barat,Majene,SUMA_3
+Indonesia,Sumatera Selatan,Baturaja,SUBA_1
+Indonesia,Sumatera Selatan,Baturaja,SUBA_2
+Indonesia,Sumatera Selatan,Baturaja,SUBA_3
+Indonesia,Sumatera Selatan,Kabupaten Musi Rawas Utara,SUKA_1
+Indonesia,Sumatera Selatan,Kabupaten Musi Rawas Utara,SUKA_2
+Indonesia,Sumatera Selatan,Kabupaten Musi Rawas Utara,SUKA_3
+Indonesia,Sumatera Selatan,Kabupaten Penukal Abab Lematang Ilir,SUKA_1
+Indonesia,Sumatera Selatan,Kabupaten Penukal Abab Lematang Ilir,SUKA_2
+Indonesia,Sumatera Selatan,Kabupaten Penukal Abab Lematang Ilir,SUKA_3
+Indonesia,Sumatera Selatan,Kabupaten Empat Lawang,SUKA_1
+Indonesia,Sumatera Selatan,Kabupaten Empat Lawang,SUKA_2
+Indonesia,Sumatera Selatan,Kabupaten Empat Lawang,SUKA_3
+Indonesia,Sumatera Selatan,Kabupaten Ogan Komering Ulu,SUKA_1
+Indonesia,Sumatera Selatan,Kabupaten Ogan Komering Ulu,SUKA_2
+Indonesia,Sumatera Selatan,Kabupaten Ogan Komering Ulu,SUKA_3
+Indonesia,Sumatera Selatan,Palembang,SUPA_1
+Indonesia,Sumatera Selatan,Palembang,SUPA_2
+Indonesia,Sumatera Selatan,Palembang,SUPA_3
+Indonesia,Sumatera Selatan,Kabupaten Musi Banyuasin,SUKA_1
+Indonesia,Sumatera Selatan,Kabupaten Musi Banyuasin,SUKA_2
+Indonesia,Sumatera Selatan,Kabupaten Musi Banyuasin,SUKA_3
+Indonesia,Sumatera Selatan,Lahat Regency,SULA_1
+Indonesia,Sumatera Selatan,Lahat Regency,SULA_2
+Indonesia,Sumatera Selatan,Lahat Regency,SULA_3
+Indonesia,Sumatera Selatan,Pagar Alam,SUPA_1
+Indonesia,Sumatera Selatan,Pagar Alam,SUPA_2
+Indonesia,Sumatera Selatan,Pagar Alam,SUPA_3
+Indonesia,Sumatera Selatan,Prabumulih,SUPR_1
+Indonesia,Sumatera Selatan,Prabumulih,SUPR_2
+Indonesia,Sumatera Selatan,Prabumulih,SUPR_3
+Italy,Abruzzo,Luco dei Marsi,ABLU_1
+Italy,Abruzzo,Luco dei Marsi,ABLU_2
+Italy,Abruzzo,Luco dei Marsi,ABLU_3
+Italy,Abruzzo,Villa Santa Maria,ABVI_1
+Italy,Abruzzo,Villa Santa Maria,ABVI_2
+Italy,Abruzzo,Villa Santa Maria,ABVI_3
+Italy,Abruzzo,Tornareccio,ABTO_1
+Italy,Abruzzo,Tornareccio,ABTO_2
+Italy,Abruzzo,Tornareccio,ABTO_3
+Italy,Abruzzo,Pratola Peligna,ABPR_1
+Italy,Abruzzo,Pratola Peligna,ABPR_2
+Italy,Abruzzo,Pratola Peligna,ABPR_3
+Italy,Abruzzo,Liscia,ABLI_1
+Italy,Abruzzo,Liscia,ABLI_2
+Italy,Abruzzo,Liscia,ABLI_3
+Italy,Abruzzo,San Martino Bassa,ABSA_1
+Italy,Abruzzo,San Martino Bassa,ABSA_2
+Italy,Abruzzo,San Martino Bassa,ABSA_3
+Italy,Abruzzo,Silvi,ABSI_1
+Italy,Abruzzo,Silvi,ABSI_2
+Italy,Abruzzo,Silvi,ABSI_3
+Italy,Abruzzo,Pizzoferrato,ABPI_1
+Italy,Abruzzo,Pizzoferrato,ABPI_2
+Italy,Abruzzo,Pizzoferrato,ABPI_3
+Italy,Abruzzo,San Pio delle Camere,ABSA_1
+Italy,Abruzzo,San Pio delle Camere,ABSA_2
+Italy,Abruzzo,San Pio delle Camere,ABSA_3
+Italy,Abruzzo,Navelli,ABNA_1
+Italy,Abruzzo,Navelli,ABNA_2
+Italy,Abruzzo,Navelli,ABNA_3
+Italy,Molise,Montagano,MOMO_1
+Italy,Molise,Montagano,MOMO_2
+Italy,Molise,Montagano,MOMO_3
+Italy,Molise,San Biase,MOSA_1
+Italy,Molise,San Biase,MOSA_2
+Italy,Molise,San Biase,MOSA_3
+Italy,Molise,Cerro al Volturno,MOCE_1
+Italy,Molise,Cerro al Volturno,MOCE_2
+Italy,Molise,Cerro al Volturno,MOCE_3
+Italy,Molise,Isernia,MOIS_1
+Italy,Molise,Isernia,MOIS_2
+Italy,Molise,Isernia,MOIS_3
+Italy,Molise,Provincia di Isernia,MOPR_1
+Italy,Molise,Provincia di Isernia,MOPR_2
+Italy,Molise,Provincia di Isernia,MOPR_3
+Italy,Molise,Ururi,MOUR_1
+Italy,Molise,Ururi,MOUR_2
+Italy,Molise,Ururi,MOUR_3
+Italy,Molise,Pescolanciano,MOPE_1
+Italy,Molise,Pescolanciano,MOPE_2
+Italy,Molise,Pescolanciano,MOPE_3
+Italy,Molise,San Martino in Pensilis,MOSA_1
+Italy,Molise,San Martino in Pensilis,MOSA_2
+Italy,Molise,San Martino in Pensilis,MOSA_3
+Italy,Molise,Toro,MOTO_1
+Italy,Molise,Toro,MOTO_2
+Italy,Molise,Toro,MOTO_3
+Italy,Molise,Campolieto,MOCA_1
+Italy,Molise,Campolieto,MOCA_2
+Italy,Molise,Campolieto,MOCA_3
+Italy,Friuli–Venezia Giulia,Camino al Tagliamento,FRCA_1
+Italy,Friuli–Venezia Giulia,Camino al Tagliamento,FRCA_2
+Italy,Friuli–Venezia Giulia,Camino al Tagliamento,FRCA_3
+Italy,Friuli–Venezia Giulia,Mediis,FRME_1
+Italy,Friuli–Venezia Giulia,Mediis,FRME_2
+Italy,Friuli–Venezia Giulia,Mediis,FRME_3
+Italy,Friuli–Venezia Giulia,Fanna,FRFA_1
+Italy,Friuli–Venezia Giulia,Fanna,FRFA_2
+Italy,Friuli–Venezia Giulia,Fanna,FRFA_3
+Italy,Friuli–Venezia Giulia,Morsano,FRMO_1
+Italy,Friuli–Venezia Giulia,Morsano,FRMO_2
+Italy,Friuli–Venezia Giulia,Morsano,FRMO_3
+Italy,Friuli–Venezia Giulia,Sagrado,FRSA_1
+Italy,Friuli–Venezia Giulia,Sagrado,FRSA_2
+Italy,Friuli–Venezia Giulia,Sagrado,FRSA_3
+Italy,Friuli–Venezia Giulia,Ovaro,FROV_1
+Italy,Friuli–Venezia Giulia,Ovaro,FROV_2
+Italy,Friuli–Venezia Giulia,Ovaro,FROV_3
+Italy,Friuli–Venezia Giulia,San Pietro al Natisone,FRSA_1
+Italy,Friuli–Venezia Giulia,San Pietro al Natisone,FRSA_2
+Italy,Friuli–Venezia Giulia,San Pietro al Natisone,FRSA_3
+Italy,Friuli–Venezia Giulia,Cercivento,FRCE_1
+Italy,Friuli–Venezia Giulia,Cercivento,FRCE_2
+Italy,Friuli–Venezia Giulia,Cercivento,FRCE_3
+Italy,Friuli–Venezia Giulia,Porpetto,FRPO_1
+Italy,Friuli–Venezia Giulia,Porpetto,FRPO_2
+Italy,Friuli–Venezia Giulia,Porpetto,FRPO_3
+Italy,Friuli–Venezia Giulia,Treppo Carnico,FRTR_1
+Italy,Friuli–Venezia Giulia,Treppo Carnico,FRTR_2
+Italy,Friuli–Venezia Giulia,Treppo Carnico,FRTR_3
+Italy,Aosta Valley,Jovencan,AOJO_1
+Italy,Aosta Valley,Jovencan,AOJO_2
+Italy,Aosta Valley,Jovencan,AOJO_3
+Italy,Aosta Valley,Cogne,AOCO_1
+Italy,Aosta Valley,Cogne,AOCO_2
+Italy,Aosta Valley,Cogne,AOCO_3
+Italy,Aosta Valley,Paquier,AOPA_1
+Italy,Aosta Valley,Paquier,AOPA_2
+Italy,Aosta Valley,Paquier,AOPA_3
+Italy,Aosta Valley,Ville Sur Sarre,AOVI_1
+Italy,Aosta Valley,Ville Sur Sarre,AOVI_2
+Italy,Aosta Valley,Ville Sur Sarre,AOVI_3
+Italy,Aosta Valley,Allein,AOAL_1
+Italy,Aosta Valley,Allein,AOAL_2
+Italy,Aosta Valley,Allein,AOAL_3
+Italy,Aosta Valley,Emarese,AOEM_1
+Italy,Aosta Valley,Emarese,AOEM_2
+Italy,Aosta Valley,Emarese,AOEM_3
+Italy,Aosta Valley,Issogne,AOIS_1
+Italy,Aosta Valley,Issogne,AOIS_2
+Italy,Aosta Valley,Issogne,AOIS_3
+Italy,Aosta Valley,Rhemes-Notre-Dame,AORH_1
+Italy,Aosta Valley,Rhemes-Notre-Dame,AORH_2
+Italy,Aosta Valley,Rhemes-Notre-Dame,AORH_3
+Italy,Aosta Valley,Berriat,AOBE_1
+Italy,Aosta Valley,Berriat,AOBE_2
+Italy,Aosta Valley,Berriat,AOBE_3
+Italy,Aosta Valley,La Salle,AOLA_1
+Italy,Aosta Valley,La Salle,AOLA_2
+Italy,Aosta Valley,La Salle,AOLA_3
+Italy,Ravenna,Alfonsine,RAAL_1
+Italy,Ravenna,Alfonsine,RAAL_2
+Italy,Ravenna,Alfonsine,RAAL_3
+Italy,Ravenna,Bagnacavallo,RABA_1
+Italy,Ravenna,Bagnacavallo,RABA_2
+Italy,Ravenna,Bagnacavallo,RABA_3
+Italy,Ravenna,Cotignola,RACO_1
+Italy,Ravenna,Cotignola,RACO_2
+Italy,Ravenna,Cotignola,RACO_3
+Italy,Ravenna,Castel Bolognese,RACA_1
+Italy,Ravenna,Castel Bolognese,RACA_2
+Italy,Ravenna,Castel Bolognese,RACA_3
+Italy,Ravenna,Brisighella,RABR_1
+Italy,Ravenna,Brisighella,RABR_2
+Italy,Ravenna,Brisighella,RABR_3
+Italy,Ravenna,Ravenna,RARA_1
+Italy,Ravenna,Ravenna,RARA_2
+Italy,Ravenna,Ravenna,RARA_3
+Italy,Ravenna,Sant'Agata sul Santerno,RASA_1
+Italy,Ravenna,Sant'Agata sul Santerno,RASA_2
+Italy,Ravenna,Sant'Agata sul Santerno,RASA_3
+Italy,Ravenna,Russi,RARU_1
+Italy,Ravenna,Russi,RARU_2
+Italy,Ravenna,Russi,RARU_3
+Italy,Ravenna,Lugo,RALU_1
+Italy,Ravenna,Lugo,RALU_2
+Italy,Ravenna,Lugo,RALU_3
+Italy,Ravenna,Bagnara di Romagna,RABA_1
+Italy,Ravenna,Bagnara di Romagna,RABA_2
+Italy,Ravenna,Bagnara di Romagna,RABA_3
+Japan,Nara Prefecture,Gojō,NAGO_1
+Japan,Nara Prefecture,Gojō,NAGO_2
+Japan,Nara Prefecture,Gojō,NAGO_3
+Japan,Nara Prefecture,Uda Shi,NAUD_1
+Japan,Nara Prefecture,Uda Shi,NAUD_2
+Japan,Nara Prefecture,Uda Shi,NAUD_3
+Japan,Nara Prefecture,Tenri,NATE_1
+Japan,Nara Prefecture,Tenri,NATE_2
+Japan,Nara Prefecture,Tenri,NATE_3
+Japan,Nara Prefecture,Gojō-shi,NAGO_1
+Japan,Nara Prefecture,Gojō-shi,NAGO_2
+Japan,Nara Prefecture,Gojō-shi,NAGO_3
+Japan,Nara Prefecture,Kashihara-shi,NAKA_1
+Japan,Nara Prefecture,Kashihara-shi,NAKA_2
+Japan,Nara Prefecture,Kashihara-shi,NAKA_3
+Japan,Nara Prefecture,Ikoma,NAIK_1
+Japan,Nara Prefecture,Ikoma,NAIK_2
+Japan,Nara Prefecture,Ikoma,NAIK_3
+Japan,Nara Prefecture,Nara-shi,NANA_1
+Japan,Nara Prefecture,Nara-shi,NANA_2
+Japan,Nara Prefecture,Nara-shi,NANA_3
+Japan,Nara Prefecture,Haibara-akanedai,NAHA_1
+Japan,Nara Prefecture,Haibara-akanedai,NAHA_2
+Japan,Nara Prefecture,Haibara-akanedai,NAHA_3
+Japan,Nara Prefecture,Yamatokōriyama-shi,NAYA_1
+Japan,Nara Prefecture,Yamatokōriyama-shi,NAYA_2
+Japan,Nara Prefecture,Yamatokōriyama-shi,NAYA_3
+Japan,Nara Prefecture,Tenri-shi,NATE_1
+Japan,Nara Prefecture,Tenri-shi,NATE_2
+Japan,Nara Prefecture,Tenri-shi,NATE_3
+Japan,Tokushima Prefecture,Anan Shi,TOAN_1
+Japan,Tokushima Prefecture,Anan Shi,TOAN_2
+Japan,Tokushima Prefecture,Anan Shi,TOAN_3
+Japan,Tokushima Prefecture,Awa-shi,TOAW_1
+Japan,Tokushima Prefecture,Awa-shi,TOAW_2
+Japan,Tokushima Prefecture,Awa-shi,TOAW_3
+Japan,Tokushima Prefecture,Katsuura Gun,TOKA_1
+Japan,Tokushima Prefecture,Katsuura Gun,TOKA_2
+Japan,Tokushima Prefecture,Katsuura Gun,TOKA_3
+Japan,Tokushima Prefecture,Wakimachi,TOWA_1
+Japan,Tokushima Prefecture,Wakimachi,TOWA_2
+Japan,Tokushima Prefecture,Wakimachi,TOWA_3
+Japan,Tokushima Prefecture,Naruto-shi,TONA_1
+Japan,Tokushima Prefecture,Naruto-shi,TONA_2
+Japan,Tokushima Prefecture,Naruto-shi,TONA_3
+Japan,Tokushima Prefecture,Tokushima Shi,TOTO_1
+Japan,Tokushima Prefecture,Tokushima Shi,TOTO_2
+Japan,Tokushima Prefecture,Tokushima Shi,TOTO_3
+Japan,Tokushima Prefecture,Mima Shi,TOMI_1
+Japan,Tokushima Prefecture,Mima Shi,TOMI_2
+Japan,Tokushima Prefecture,Mima Shi,TOMI_3
+Japan,Tokushima Prefecture,Tokushima,TOTO_1
+Japan,Tokushima Prefecture,Tokushima,TOTO_2
+Japan,Tokushima Prefecture,Tokushima,TOTO_3
+Japan,Tokushima Prefecture,Ikedachō,TOIK_1
+Japan,Tokushima Prefecture,Ikedachō,TOIK_2
+Japan,Tokushima Prefecture,Ikedachō,TOIK_3
+Japan,Tokushima Prefecture,Miyoshi Shi,TOMI_1
+Japan,Tokushima Prefecture,Miyoshi Shi,TOMI_2
+Japan,Tokushima Prefecture,Miyoshi Shi,TOMI_3
+Japan,Nagasaki Prefecture,Fukuechō,NAFU_1
+Japan,Nagasaki Prefecture,Fukuechō,NAFU_2
+Japan,Nagasaki Prefecture,Fukuechō,NAFU_3
+Japan,Nagasaki Prefecture,Ōmura,NAŌM_1
+Japan,Nagasaki Prefecture,Ōmura,NAŌM_2
+Japan,Nagasaki Prefecture,Ōmura,NAŌM_3
+Japan,Nagasaki Prefecture,Matsuura Shi,NAMA_1
+Japan,Nagasaki Prefecture,Matsuura Shi,NAMA_2
+Japan,Nagasaki Prefecture,Matsuura Shi,NAMA_3
+Japan,Nagasaki Prefecture,Gotō Shi,NAGO_1
+Japan,Nagasaki Prefecture,Gotō Shi,NAGO_2
+Japan,Nagasaki Prefecture,Gotō Shi,NAGO_3
+Japan,Nagasaki Prefecture,Saikai-shi,NASA_1
+Japan,Nagasaki Prefecture,Saikai-shi,NASA_2
+Japan,Nagasaki Prefecture,Saikai-shi,NASA_3
+Japan,Nagasaki Prefecture,Isahaya,NAIS_1
+Japan,Nagasaki Prefecture,Isahaya,NAIS_2
+Japan,Nagasaki Prefecture,Isahaya,NAIS_3
+Japan,Nagasaki Prefecture,Tsushima Shi,NATS_1
+Japan,Nagasaki Prefecture,Tsushima Shi,NATS_2
+Japan,Nagasaki Prefecture,Tsushima Shi,NATS_3
+Japan,Nagasaki Prefecture,Nagasaki-shi,NANA_1
+Japan,Nagasaki Prefecture,Nagasaki-shi,NANA_2
+Japan,Nagasaki Prefecture,Nagasaki-shi,NANA_3
+Japan,Nagasaki Prefecture,Hirado Shi,NAHI_1
+Japan,Nagasaki Prefecture,Hirado Shi,NAHI_2
+Japan,Nagasaki Prefecture,Hirado Shi,NAHI_3
+Japan,Nagasaki Prefecture,Iki Shi,NAIK_1
+Japan,Nagasaki Prefecture,Iki Shi,NAIK_2
+Japan,Nagasaki Prefecture,Iki Shi,NAIK_3
+Japan,Wakayama Prefecture,Arida Shi,WAAR_1
+Japan,Wakayama Prefecture,Arida Shi,WAAR_2
+Japan,Wakayama Prefecture,Arida Shi,WAAR_3
+Japan,Wakayama Prefecture,Gobō,WAGO_1
+Japan,Wakayama Prefecture,Gobō,WAGO_2
+Japan,Wakayama Prefecture,Gobō,WAGO_3
+Japan,Wakayama Prefecture,Iwade Shi,WAIW_1
+Japan,Wakayama Prefecture,Iwade Shi,WAIW_2
+Japan,Wakayama Prefecture,Iwade Shi,WAIW_3
+Japan,Wakayama Prefecture,Wakayama,WAWA_1
+Japan,Wakayama Prefecture,Wakayama,WAWA_2
+Japan,Wakayama Prefecture,Wakayama,WAWA_3
+Japan,Wakayama Prefecture,Tanabe-shi,WATA_1
+Japan,Wakayama Prefecture,Tanabe-shi,WATA_2
+Japan,Wakayama Prefecture,Tanabe-shi,WATA_3
+Japan,Wakayama Prefecture,Shingū,WASH_1
+Japan,Wakayama Prefecture,Shingū,WASH_2
+Japan,Wakayama Prefecture,Shingū,WASH_3
+Japan,Wakayama Prefecture,Kinokawa Shi,WAKI_1
+Japan,Wakayama Prefecture,Kinokawa Shi,WAKI_2
+Japan,Wakayama Prefecture,Kinokawa Shi,WAKI_3
+Japan,Wakayama Prefecture,Kōya,WAKŌ_1
+Japan,Wakayama Prefecture,Kōya,WAKŌ_2
+Japan,Wakayama Prefecture,Kōya,WAKŌ_3
+Japan,Wakayama Prefecture,Hashimoto,WAHA_1
+Japan,Wakayama Prefecture,Hashimoto,WAHA_2
+Japan,Wakayama Prefecture,Hashimoto,WAHA_3
+Japan,Wakayama Prefecture,Wakayama Shi,WAWA_1
+Japan,Wakayama Prefecture,Wakayama Shi,WAWA_2
+Japan,Wakayama Prefecture,Wakayama Shi,WAWA_3
+Japan,Miyazaki Prefecture,Ebino-shi,MIEB_1
+Japan,Miyazaki Prefecture,Ebino-shi,MIEB_2
+Japan,Miyazaki Prefecture,Ebino-shi,MIEB_3
+Japan,Miyazaki Prefecture,Hyūga-shi,MIHY_1
+Japan,Miyazaki Prefecture,Hyūga-shi,MIHY_2
+Japan,Miyazaki Prefecture,Hyūga-shi,MIHY_3
+Japan,Miyazaki Prefecture,Kushima Shi,MIKU_1
+Japan,Miyazaki Prefecture,Kushima Shi,MIKU_2
+Japan,Miyazaki Prefecture,Kushima Shi,MIKU_3
+Japan,Miyazaki Prefecture,Takanabe,MITA_1
+Japan,Miyazaki Prefecture,Takanabe,MITA_2
+Japan,Miyazaki Prefecture,Takanabe,MITA_3
+Japan,Miyazaki Prefecture,Nichinan Shi,MINI_1
+Japan,Miyazaki Prefecture,Nichinan Shi,MINI_2
+Japan,Miyazaki Prefecture,Nichinan Shi,MINI_3
+Japan,Miyazaki Prefecture,Saito-shi,MISA_1
+Japan,Miyazaki Prefecture,Saito-shi,MISA_2
+Japan,Miyazaki Prefecture,Saito-shi,MISA_3
+Japan,Miyazaki Prefecture,Miyazaki,MIMI_1
+Japan,Miyazaki Prefecture,Miyazaki,MIMI_2
+Japan,Miyazaki Prefecture,Miyazaki,MIMI_3
+Japan,Miyazaki Prefecture,Nobeoka-shi,MINO_1
+Japan,Miyazaki Prefecture,Nobeoka-shi,MINO_2
+Japan,Miyazaki Prefecture,Nobeoka-shi,MINO_3
+Japan,Miyazaki Prefecture,Kobayashi,MIKO_1
+Japan,Miyazaki Prefecture,Kobayashi,MIKO_2
+Japan,Miyazaki Prefecture,Kobayashi,MIKO_3
+Japan,Miyazaki Prefecture,Miyazaki-shi,MIMI_1
+Japan,Miyazaki Prefecture,Miyazaki-shi,MIMI_2
+Japan,Miyazaki Prefecture,Miyazaki-shi,MIMI_3
+Mexico,Veracruz de Ignacio de la Llave,Laguna de Farfán,VELA_1
+Mexico,Veracruz de Ignacio de la Llave,Laguna de Farfán,VELA_2
+Mexico,Veracruz de Ignacio de la Llave,Laguna de Farfán,VELA_3
+Mexico,Veracruz de Ignacio de la Llave,Fredepo,VEFR_1
+Mexico,Veracruz de Ignacio de la Llave,Fredepo,VEFR_2
+Mexico,Veracruz de Ignacio de la Llave,Fredepo,VEFR_3
+Mexico,Veracruz de Ignacio de la Llave,Zacamixtle,VEZA_1
+Mexico,Veracruz de Ignacio de la Llave,Zacamixtle,VEZA_2
+Mexico,Veracruz de Ignacio de la Llave,Zacamixtle,VEZA_3
+Mexico,Veracruz de Ignacio de la Llave,El Cocuite,VEEL_1
+Mexico,Veracruz de Ignacio de la Llave,El Cocuite,VEEL_2
+Mexico,Veracruz de Ignacio de la Llave,El Cocuite,VEEL_3
+Mexico,Veracruz de Ignacio de la Llave,La Isla de Chapachapa,VELA_1
+Mexico,Veracruz de Ignacio de la Llave,La Isla de Chapachapa,VELA_2
+Mexico,Veracruz de Ignacio de la Llave,La Isla de Chapachapa,VELA_3
+Mexico,Veracruz de Ignacio de la Llave,San Miguel Tlalpoalán,VESA_1
+Mexico,Veracruz de Ignacio de la Llave,San Miguel Tlalpoalán,VESA_2
+Mexico,Veracruz de Ignacio de la Llave,San Miguel Tlalpoalán,VESA_3
+Mexico,Veracruz de Ignacio de la Llave,Zapoapan,VEZA_1
+Mexico,Veracruz de Ignacio de la Llave,Zapoapan,VEZA_2
+Mexico,Veracruz de Ignacio de la Llave,Zapoapan,VEZA_3
+Mexico,Veracruz de Ignacio de la Llave,Colonia el Renacimiento,VECO_1
+Mexico,Veracruz de Ignacio de la Llave,Colonia el Renacimiento,VECO_2
+Mexico,Veracruz de Ignacio de la Llave,Colonia el Renacimiento,VECO_3
+Mexico,Veracruz de Ignacio de la Llave,Buenos Aires,VEBU_1
+Mexico,Veracruz de Ignacio de la Llave,Buenos Aires,VEBU_2
+Mexico,Veracruz de Ignacio de la Llave,Buenos Aires,VEBU_3
+Mexico,Veracruz de Ignacio de la Llave,El Potrero,VEEL_1
+Mexico,Veracruz de Ignacio de la Llave,El Potrero,VEEL_2
+Mexico,Veracruz de Ignacio de la Llave,El Potrero,VEEL_3
+Mexico,Michoacán de Ocampo,Pueblo Viejo,MIPU_1
+Mexico,Michoacán de Ocampo,Pueblo Viejo,MIPU_2
+Mexico,Michoacán de Ocampo,Pueblo Viejo,MIPU_3
+Mexico,Michoacán de Ocampo,La Mira Tumbiscatio,MILA_1
+Mexico,Michoacán de Ocampo,La Mira Tumbiscatio,MILA_2
+Mexico,Michoacán de Ocampo,La Mira Tumbiscatio,MILA_3
+Mexico,Michoacán de Ocampo,Coahuayana de Hidalgo,MICO_1
+Mexico,Michoacán de Ocampo,Coahuayana de Hidalgo,MICO_2
+Mexico,Michoacán de Ocampo,Coahuayana de Hidalgo,MICO_3
+Mexico,Michoacán de Ocampo,San Felipe los Alzati (Colonia Nueva),MISA_1
+Mexico,Michoacán de Ocampo,San Felipe los Alzati (Colonia Nueva),MISA_2
+Mexico,Michoacán de Ocampo,San Felipe los Alzati (Colonia Nueva),MISA_3
+Mexico,Michoacán de Ocampo,Coahuayana Viejo,MICO_1
+Mexico,Michoacán de Ocampo,Coahuayana Viejo,MICO_2
+Mexico,Michoacán de Ocampo,Coahuayana Viejo,MICO_3
+Mexico,Michoacán de Ocampo,Uspero,MIUS_1
+Mexico,Michoacán de Ocampo,Uspero,MIUS_2
+Mexico,Michoacán de Ocampo,Uspero,MIUS_3
+Mexico,Michoacán de Ocampo,Santiago Puriatzícuaro,MISA_1
+Mexico,Michoacán de Ocampo,Santiago Puriatzícuaro,MISA_2
+Mexico,Michoacán de Ocampo,Santiago Puriatzícuaro,MISA_3
+Mexico,Michoacán de Ocampo,Santa Catarina,MISA_1
+Mexico,Michoacán de Ocampo,Santa Catarina,MISA_2
+Mexico,Michoacán de Ocampo,Santa Catarina,MISA_3
+Mexico,Michoacán de Ocampo,Pichátaro,MIPI_1
+Mexico,Michoacán de Ocampo,Pichátaro,MIPI_2
+Mexico,Michoacán de Ocampo,Pichátaro,MIPI_3
+Mexico,Michoacán de Ocampo,Fraccionamiento Ex-Hacienda el Refugio,MIFR_1
+Mexico,Michoacán de Ocampo,Fraccionamiento Ex-Hacienda el Refugio,MIFR_2
+Mexico,Michoacán de Ocampo,Fraccionamiento Ex-Hacienda el Refugio,MIFR_3
+Mexico,Sinaloa,La Concepción,SILA_1
+Mexico,Sinaloa,La Concepción,SILA_2
+Mexico,Sinaloa,La Concepción,SILA_3
+Mexico,Sinaloa,Las Brisas,SILA_1
+Mexico,Sinaloa,Las Brisas,SILA_2
+Mexico,Sinaloa,Las Brisas,SILA_3
+Mexico,Sinaloa,El Verde,SIEL_1
+Mexico,Sinaloa,El Verde,SIEL_2
+Mexico,Sinaloa,El Verde,SIEL_3
+Mexico,Sinaloa,Pericos,SIPE_1
+Mexico,Sinaloa,Pericos,SIPE_2
+Mexico,Sinaloa,Pericos,SIPE_3
+Mexico,Sinaloa,Bachomobampo Número Dos,SIBA_1
+Mexico,Sinaloa,Bachomobampo Número Dos,SIBA_2
+Mexico,Sinaloa,Bachomobampo Número Dos,SIBA_3
+Mexico,Sinaloa,Guamúchil,SIGU_1
+Mexico,Sinaloa,Guamúchil,SIGU_2
+Mexico,Sinaloa,Guamúchil,SIGU_3
+Mexico,Sinaloa,Naranjo,SINA_1
+Mexico,Sinaloa,Naranjo,SINA_2
+Mexico,Sinaloa,Naranjo,SINA_3
+Mexico,Sinaloa,Siqueros,SISI_1
+Mexico,Sinaloa,Siqueros,SISI_2
+Mexico,Sinaloa,Siqueros,SISI_3
+Mexico,Sinaloa,El Habal,SIEL_1
+Mexico,Sinaloa,El Habal,SIEL_2
+Mexico,Sinaloa,El Habal,SIEL_3
+Mexico,Sinaloa,La Presita,SILA_1
+Mexico,Sinaloa,La Presita,SILA_2
+Mexico,Sinaloa,La Presita,SILA_3
+Mexico,Nayarit,Las Varas,NALA_1
+Mexico,Nayarit,Las Varas,NALA_2
+Mexico,Nayarit,Las Varas,NALA_3
+Mexico,Nayarit,San Juan Bautista,NASA_1
+Mexico,Nayarit,San Juan Bautista,NASA_2
+Mexico,Nayarit,San Juan Bautista,NASA_3
+Mexico,Nayarit,Aquiles Serdán,NAAQ_1
+Mexico,Nayarit,Aquiles Serdán,NAAQ_2
+Mexico,Nayarit,Aquiles Serdán,NAAQ_3
+Mexico,Nayarit,La Cantera,NALA_1
+Mexico,Nayarit,La Cantera,NALA_2
+Mexico,Nayarit,La Cantera,NALA_3
+Mexico,Nayarit,El Llano,NAEL_1
+Mexico,Nayarit,El Llano,NAEL_2
+Mexico,Nayarit,El Llano,NAEL_3
+Mexico,Nayarit,Zapotán,NAZA_1
+Mexico,Nayarit,Zapotán,NAZA_2
+Mexico,Nayarit,Zapotán,NAZA_3
+Mexico,Nayarit,Navarrete,NANA_1
+Mexico,Nayarit,Navarrete,NANA_2
+Mexico,Nayarit,Navarrete,NANA_3
+Mexico,Nayarit,Camalotita,NACA_1
+Mexico,Nayarit,Camalotita,NACA_2
+Mexico,Nayarit,Camalotita,NACA_3
+Mexico,Nayarit,San Juan de Abajo,NASA_1
+Mexico,Nayarit,San Juan de Abajo,NASA_2
+Mexico,Nayarit,San Juan de Abajo,NASA_3
+Mexico,Nayarit,Pantanal,NAPA_1
+Mexico,Nayarit,Pantanal,NAPA_2
+Mexico,Nayarit,Pantanal,NAPA_3
+Mexico,Colima,Cuyutlán,COCU_1
+Mexico,Colima,Cuyutlán,COCU_2
+Mexico,Colima,Cuyutlán,COCU_3
+Mexico,Colima,Ixtlahuacán,COIX_1
+Mexico,Colima,Ixtlahuacán,COIX_2
+Mexico,Colima,Ixtlahuacán,COIX_3
+Mexico,Colima,Pueblo Juárez (La Magdalena),COPU_1
+Mexico,Colima,Pueblo Juárez (La Magdalena),COPU_2
+Mexico,Colima,Pueblo Juárez (La Magdalena),COPU_3
+Mexico,Colima,Piscila,COPI_1
+Mexico,Colima,Piscila,COPI_2
+Mexico,Colima,Piscila,COPI_3
+Mexico,Colima,Cofradía,COCO_1
+Mexico,Colima,Cofradía,COCO_2
+Mexico,Colima,Cofradía,COCO_3
+Mexico,Colima,Manzanillo,COMA_1
+Mexico,Colima,Manzanillo,COMA_2
+Mexico,Colima,Manzanillo,COMA_3
+Mexico,Colima,La Central,COLA_1
+Mexico,Colima,La Central,COLA_2
+Mexico,Colima,La Central,COLA_3
+Mexico,Colima,Comala,COCO_1
+Mexico,Colima,Comala,COCO_2
+Mexico,Colima,Comala,COCO_3
+Mexico,Colima,Venustiano Carranza,COVE_1
+Mexico,Colima,Venustiano Carranza,COVE_2
+Mexico,Colima,Venustiano Carranza,COVE_3
+Mexico,Colima,Cofradía de Juárez,COCO_1
+Mexico,Colima,Cofradía de Juárez,COCO_2
+Mexico,Colima,Cofradía de Juárez,COCO_3
+Netherlands,Utrecht,Veenendaal,UTVE_1
+Netherlands,Utrecht,Veenendaal,UTVE_2
+Netherlands,Utrecht,Veenendaal,UTVE_3
+Netherlands,Utrecht,Werkhoven,UTWE_1
+Netherlands,Utrecht,Werkhoven,UTWE_2
+Netherlands,Utrecht,Werkhoven,UTWE_3
+Netherlands,Utrecht,Abcoude,UTAB_1
+Netherlands,Utrecht,Abcoude,UTAB_2
+Netherlands,Utrecht,Abcoude,UTAB_3
+Netherlands,Utrecht,Wijk bij Duurstede,UTWI_1
+Netherlands,Utrecht,Wijk bij Duurstede,UTWI_2
+Netherlands,Utrecht,Wijk bij Duurstede,UTWI_3
+Netherlands,Utrecht,Baarn,UTBA_1
+Netherlands,Utrecht,Baarn,UTBA_2
+Netherlands,Utrecht,Baarn,UTBA_3
+Netherlands,Utrecht,Stichtse Vecht,UTST_1
+Netherlands,Utrecht,Stichtse Vecht,UTST_2
+Netherlands,Utrecht,Stichtse Vecht,UTST_3
+Netherlands,Utrecht,Groenekan,UTGR_1
+Netherlands,Utrecht,Groenekan,UTGR_2
+Netherlands,Utrecht,Groenekan,UTGR_3
+Netherlands,Utrecht,De Hagen,UTDE_1
+Netherlands,Utrecht,De Hagen,UTDE_2
+Netherlands,Utrecht,De Hagen,UTDE_3
+Netherlands,Utrecht,Leusden,UTLE_1
+Netherlands,Utrecht,Leusden,UTLE_2
+Netherlands,Utrecht,Leusden,UTLE_3
+Netherlands,Utrecht,Woerden,UTWO_1
+Netherlands,Utrecht,Woerden,UTWO_2
+Netherlands,Utrecht,Woerden,UTWO_3
+Netherlands,Overijssel,Tuk,OVTU_1
+Netherlands,Overijssel,Tuk,OVTU_2
+Netherlands,Overijssel,Tuk,OVTU_3
+Netherlands,Overijssel,Wijhe,OVWI_1
+Netherlands,Overijssel,Wijhe,OVWI_2
+Netherlands,Overijssel,Wijhe,OVWI_3
+Netherlands,Overijssel,Almelo,OVAL_1
+Netherlands,Overijssel,Almelo,OVAL_2
+Netherlands,Overijssel,Almelo,OVAL_3
+Netherlands,Overijssel,Raalte,OVRA_1
+Netherlands,Overijssel,Raalte,OVRA_2
+Netherlands,Overijssel,Raalte,OVRA_3
+Netherlands,Overijssel,Borne,OVBO_1
+Netherlands,Overijssel,Borne,OVBO_2
+Netherlands,Overijssel,Borne,OVBO_3
+Netherlands,Overijssel,Woolde,OVWO_1
+Netherlands,Overijssel,Woolde,OVWO_2
+Netherlands,Overijssel,Woolde,OVWO_3
+Netherlands,Overijssel,Frankhuis,OVFR_1
+Netherlands,Overijssel,Frankhuis,OVFR_2
+Netherlands,Overijssel,Frankhuis,OVFR_3
+Netherlands,Overijssel,Deventer,OVDE_1
+Netherlands,Overijssel,Deventer,OVDE_2
+Netherlands,Overijssel,Deventer,OVDE_3
+Netherlands,Overijssel,Zwolle,OVZW_1
+Netherlands,Overijssel,Zwolle,OVZW_2
+Netherlands,Overijssel,Zwolle,OVZW_3
+Netherlands,Overijssel,Losser,OVLO_1
+Netherlands,Overijssel,Losser,OVLO_2
+Netherlands,Overijssel,Losser,OVLO_3
+Netherlands,Bonaire,Dorp Tera Kora,BODO_1
+Netherlands,Bonaire,Dorp Tera Kora,BODO_2
+Netherlands,Bonaire,Dorp Tera Kora,BODO_3
+Netherlands,Bonaire,The Bottom,BOTH_1
+Netherlands,Bonaire,The Bottom,BOTH_2
+Netherlands,Bonaire,The Bottom,BOTH_3
+Netherlands,Bonaire,Boven Bolivia,BOBO_1
+Netherlands,Bonaire,Boven Bolivia,BOBO_2
+Netherlands,Bonaire,Boven Bolivia,BOBO_3
+Netherlands,Bonaire,Zion's Hill,BOZI_1
+Netherlands,Bonaire,Zion's Hill,BOZI_2
+Netherlands,Bonaire,Zion's Hill,BOZI_3
+Netherlands,Bonaire,Oranjestad,BOOR_1
+Netherlands,Bonaire,Oranjestad,BOOR_2
+Netherlands,Bonaire,Oranjestad,BOOR_3
+Netherlands,Bonaire,St. Johns,BOST_1
+Netherlands,Bonaire,St. Johns,BOST_2
+Netherlands,Bonaire,St. Johns,BOST_3
+Netherlands,Bonaire,Rincon,BORI_1
+Netherlands,Bonaire,Rincon,BORI_2
+Netherlands,Bonaire,Rincon,BORI_3
+Netherlands,Bonaire,Windwardside,BOWI_1
+Netherlands,Bonaire,Windwardside,BOWI_2
+Netherlands,Bonaire,Windwardside,BOWI_3
+Netherlands,North Holland,Schagen,NOSC_1
+Netherlands,North Holland,Schagen,NOSC_2
+Netherlands,North Holland,Schagen,NOSC_3
+Netherlands,North Holland,Graft,NOGR_1
+Netherlands,North Holland,Graft,NOGR_2
+Netherlands,North Holland,Graft,NOGR_3
+Netherlands,North Holland,Wateringskant,NOWA_1
+Netherlands,North Holland,Wateringskant,NOWA_2
+Netherlands,North Holland,Wateringskant,NOWA_3
+Netherlands,North Holland,Sint Pancras,NOSI_1
+Netherlands,North Holland,Sint Pancras,NOSI_2
+Netherlands,North Holland,Sint Pancras,NOSI_3
+Netherlands,North Holland,Krabbendam,NOKR_1
+Netherlands,North Holland,Krabbendam,NOKR_2
+Netherlands,North Holland,Krabbendam,NOKR_3
+Netherlands,North Holland,Harenkarspel,NOHA_1
+Netherlands,North Holland,Harenkarspel,NOHA_2
+Netherlands,North Holland,Harenkarspel,NOHA_3
+Netherlands,North Holland,Nieuw-Vennep,NONI_1
+Netherlands,North Holland,Nieuw-Vennep,NONI_2
+Netherlands,North Holland,Nieuw-Vennep,NONI_3
+Netherlands,North Holland,Oosthuizen,NOOO_1
+Netherlands,North Holland,Oosthuizen,NOOO_2
+Netherlands,North Holland,Oosthuizen,NOOO_3
+Netherlands,North Holland,Stroe,NOST_1
+Netherlands,North Holland,Stroe,NOST_2
+Netherlands,North Holland,Stroe,NOST_3
+Netherlands,North Holland,Jisp,NOJI_1
+Netherlands,North Holland,Jisp,NOJI_2
+Netherlands,North Holland,Jisp,NOJI_3
+Netherlands,Groningen,Leek,GRLE_1
+Netherlands,Groningen,Leek,GRLE_2
+Netherlands,Groningen,Leek,GRLE_3
+Netherlands,Groningen,Aduard,GRAD_1
+Netherlands,Groningen,Aduard,GRAD_2
+Netherlands,Groningen,Aduard,GRAD_3
+Netherlands,Groningen,Groningen,GRGR_1
+Netherlands,Groningen,Groningen,GRGR_2
+Netherlands,Groningen,Groningen,GRGR_3
+Netherlands,Groningen,Leens,GRLE_1
+Netherlands,Groningen,Leens,GRLE_2
+Netherlands,Groningen,Leens,GRLE_3
+Netherlands,Groningen,Gemeente Stadskanaal,GRGE_1
+Netherlands,Groningen,Gemeente Stadskanaal,GRGE_2
+Netherlands,Groningen,Gemeente Stadskanaal,GRGE_3
+Netherlands,Groningen,Hoogezand,GRHO_1
+Netherlands,Groningen,Hoogezand,GRHO_2
+Netherlands,Groningen,Hoogezand,GRHO_3
+Netherlands,Groningen,Eexta,GREE_1
+Netherlands,Groningen,Eexta,GREE_2
+Netherlands,Groningen,Eexta,GREE_3
+Netherlands,Groningen,Warffum,GRWA_1
+Netherlands,Groningen,Warffum,GRWA_2
+Netherlands,Groningen,Warffum,GRWA_3
+Netherlands,Groningen,Bellingwolde,GRBE_1
+Netherlands,Groningen,Bellingwolde,GRBE_2
+Netherlands,Groningen,Bellingwolde,GRBE_3
+Netherlands,Groningen,Gemeente Appingedam,GRGE_1
+Netherlands,Groningen,Gemeente Appingedam,GRGE_2
+Netherlands,Groningen,Gemeente Appingedam,GRGE_3
+Singapore,North East,Hougang,NOHO_1
+Singapore,North East,Hougang,NOHO_2
+Singapore,North East,Hougang,NOHO_3
+Singapore,North East,Serangoon,NOSE_1
+Singapore,North East,Serangoon,NOSE_2
+Singapore,North East,Serangoon,NOSE_3
+Singapore,North East,Punggol,NOPU_1
+Singapore,North East,Punggol,NOPU_2
+Singapore,North East,Punggol,NOPU_3
+Singapore,North East,Ang Mo Kio,NOAN_1
+Singapore,North East,Ang Mo Kio,NOAN_2
+Singapore,North East,Ang Mo Kio,NOAN_3
+Singapore,North East,Sengkang,NOSE_1
+Singapore,North East,Sengkang,NOSE_2
+Singapore,North East,Sengkang,NOSE_3
+Singapore,South West,Bukit Batok,SOBU_1
+Singapore,South West,Bukit Batok,SOBU_2
+Singapore,South West,Bukit Batok,SOBU_3
+Singapore,South West,Bukit Panjang,SOBU_1
+Singapore,South West,Bukit Panjang,SOBU_2
+Singapore,South West,Bukit Panjang,SOBU_3
+Singapore,South West,Jurong West,SOJU_1
+Singapore,South West,Jurong West,SOJU_2
+Singapore,South West,Jurong West,SOJU_3
+Singapore,North West,Sembawang,NOSE_1
+Singapore,North West,Sembawang,NOSE_2
+Singapore,North West,Sembawang,NOSE_3
+Singapore,North West,Woodlands,NOWO_1
+Singapore,North West,Woodlands,NOWO_2
+Singapore,North West,Woodlands,NOWO_3
+Singapore,North West,Yishun,NOYI_1
+Singapore,North West,Yishun,NOYI_2
+Singapore,North West,Yishun,NOYI_3
+Singapore,Central Singapore,Tanjong Pagar,CETA_1
+Singapore,Central Singapore,Tanjong Pagar,CETA_2
+Singapore,Central Singapore,Tanjong Pagar,CETA_3
+Singapore,Central Singapore,Singapore,CESI_1
+Singapore,Central Singapore,Singapore,CESI_2
+Singapore,Central Singapore,Singapore,CESI_3
+Singapore,Central Singapore,Bukit Timah,CEBU_1
+Singapore,Central Singapore,Bukit Timah,CEBU_2
+Singapore,Central Singapore,Bukit Timah,CEBU_3
+Singapore,Central Singapore,Rochor,CERO_1
+Singapore,Central Singapore,Rochor,CERO_2
+Singapore,Central Singapore,Rochor,CERO_3
+Singapore,Central Singapore,Novena,CENO_1
+Singapore,Central Singapore,Novena,CENO_2
+Singapore,Central Singapore,Novena,CENO_3
+Singapore,Central Singapore,Geylang,CEGE_1
+Singapore,Central Singapore,Geylang,CEGE_2
+Singapore,Central Singapore,Geylang,CEGE_3
+Singapore,Central Singapore,Downtown Core,CEDO_1
+Singapore,Central Singapore,Downtown Core,CEDO_2
+Singapore,Central Singapore,Downtown Core,CEDO_3
+Singapore,Central Singapore,Toa Payoh,CETO_1
+Singapore,Central Singapore,Toa Payoh,CETO_2
+Singapore,Central Singapore,Toa Payoh,CETO_3
+Singapore,Central Singapore,Marine Parade,CEMA_1
+Singapore,Central Singapore,Marine Parade,CEMA_2
+Singapore,Central Singapore,Marine Parade,CEMA_3
+Singapore,Central Singapore,Outram,CEOU_1
+Singapore,Central Singapore,Outram,CEOU_2
+Singapore,Central Singapore,Outram,CEOU_3
+Singapore,South East,Bedok,SOBE_1
+Singapore,South East,Bedok,SOBE_2
+Singapore,South East,Bedok,SOBE_3
+Singapore,South East,Pasir Ris,SOPA_1
+Singapore,South East,Pasir Ris,SOPA_2
+Singapore,South East,Pasir Ris,SOPA_3
+Singapore,South East,Tampines,SOTA_1
+Singapore,South East,Tampines,SOTA_2
+Singapore,South East,Tampines,SOTA_3
+South Africa,Northern Cape,John Taolo Gaetsewe District Municipality,NOJO_1
+South Africa,Northern Cape,John Taolo Gaetsewe District Municipality,NOJO_2
+South Africa,Northern Cape,John Taolo Gaetsewe District Municipality,NOJO_3
+South Africa,Northern Cape,Upington,NOUP_1
+South Africa,Northern Cape,Upington,NOUP_2
+South Africa,Northern Cape,Upington,NOUP_3
+South Africa,Northern Cape,Fraserburg,NOFR_1
+South Africa,Northern Cape,Fraserburg,NOFR_2
+South Africa,Northern Cape,Fraserburg,NOFR_3
+South Africa,Northern Cape,Prieska,NOPR_1
+South Africa,Northern Cape,Prieska,NOPR_2
+South Africa,Northern Cape,Prieska,NOPR_3
+South Africa,Northern Cape,Barkly West,NOBA_1
+South Africa,Northern Cape,Barkly West,NOBA_2
+South Africa,Northern Cape,Barkly West,NOBA_3
+South Africa,Northern Cape,Kimberley,NOKI_1
+South Africa,Northern Cape,Kimberley,NOKI_2
+South Africa,Northern Cape,Kimberley,NOKI_3
+South Africa,Northern Cape,Pampierstad,NOPA_1
+South Africa,Northern Cape,Pampierstad,NOPA_2
+South Africa,Northern Cape,Pampierstad,NOPA_3
+South Africa,Northern Cape,Ritchie,NORI_1
+South Africa,Northern Cape,Ritchie,NORI_2
+South Africa,Northern Cape,Ritchie,NORI_3
+South Africa,Northern Cape,Kenhardt,NOKE_1
+South Africa,Northern Cape,Kenhardt,NOKE_2
+South Africa,Northern Cape,Kenhardt,NOKE_3
+South Africa,Northern Cape,Kuruman,NOKU_1
+South Africa,Northern Cape,Kuruman,NOKU_2
+South Africa,Northern Cape,Kuruman,NOKU_3
+South Africa,Free State,Reitz,FRRE_1
+South Africa,Free State,Reitz,FRRE_2
+South Africa,Free State,Reitz,FRRE_3
+South Africa,Free State,Hoopstad,FRHO_1
+South Africa,Free State,Hoopstad,FRHO_2
+South Africa,Free State,Hoopstad,FRHO_3
+South Africa,Free State,Fezile Dabi District Municipality,FRFE_1
+South Africa,Free State,Fezile Dabi District Municipality,FRFE_2
+South Africa,Free State,Fezile Dabi District Municipality,FRFE_3
+South Africa,Free State,Sasolburg,FRSA_1
+South Africa,Free State,Sasolburg,FRSA_2
+South Africa,Free State,Sasolburg,FRSA_3
+South Africa,Free State,Botshabelo,FRBO_1
+South Africa,Free State,Botshabelo,FRBO_2
+South Africa,Free State,Botshabelo,FRBO_3
+South Africa,Free State,Zastron,FRZA_1
+South Africa,Free State,Zastron,FRZA_2
+South Africa,Free State,Zastron,FRZA_3
+South Africa,Free State,Lindley,FRLI_1
+South Africa,Free State,Lindley,FRLI_2
+South Africa,Free State,Lindley,FRLI_3
+South Africa,Free State,Xhariep District Municipality,FRXH_1
+South Africa,Free State,Xhariep District Municipality,FRXH_2
+South Africa,Free State,Xhariep District Municipality,FRXH_3
+South Africa,Free State,Theunissen,FRTH_1
+South Africa,Free State,Theunissen,FRTH_2
+South Africa,Free State,Theunissen,FRTH_3
+South Africa,Free State,Clocolan,FRCL_1
+South Africa,Free State,Clocolan,FRCL_2
+South Africa,Free State,Clocolan,FRCL_3
+South Africa,Mpumalanga,Ehlanzeni District,MPEH_1
+South Africa,Mpumalanga,Ehlanzeni District,MPEH_2
+South Africa,Mpumalanga,Ehlanzeni District,MPEH_3
+South Africa,Mpumalanga,Middelburg,MPMI_1
+South Africa,Mpumalanga,Middelburg,MPMI_2
+South Africa,Mpumalanga,Middelburg,MPMI_3
+South Africa,Mpumalanga,Balfour,MPBA_1
+South Africa,Mpumalanga,Balfour,MPBA_2
+South Africa,Mpumalanga,Balfour,MPBA_3
+South Africa,Mpumalanga,White River,MPWH_1
+South Africa,Mpumalanga,White River,MPWH_2
+South Africa,Mpumalanga,White River,MPWH_3
+South Africa,Mpumalanga,Gert Sibande District Municipality,MPGE_1
+South Africa,Mpumalanga,Gert Sibande District Municipality,MPGE_2
+South Africa,Mpumalanga,Gert Sibande District Municipality,MPGE_3
+South Africa,Mpumalanga,eMbalenhle,MPEM_1
+South Africa,Mpumalanga,eMbalenhle,MPEM_2
+South Africa,Mpumalanga,eMbalenhle,MPEM_3
+South Africa,Mpumalanga,Komatipoort,MPKO_1
+South Africa,Mpumalanga,Komatipoort,MPKO_2
+South Africa,Mpumalanga,Komatipoort,MPKO_3
+South Africa,Mpumalanga,Barberton,MPBA_1
+South Africa,Mpumalanga,Barberton,MPBA_2
+South Africa,Mpumalanga,Barberton,MPBA_3
+South Africa,Mpumalanga,Volksrust,MPVO_1
+South Africa,Mpumalanga,Volksrust,MPVO_2
+South Africa,Mpumalanga,Volksrust,MPVO_3
+South Africa,Mpumalanga,Carolina,MPCA_1
+South Africa,Mpumalanga,Carolina,MPCA_2
+South Africa,Mpumalanga,Carolina,MPCA_3
+South Africa,Eastern Cape,Somerset East,EASO_1
+South Africa,Eastern Cape,Somerset East,EASO_2
+South Africa,Eastern Cape,Somerset East,EASO_3
+South Africa,Eastern Cape,Whittlesea,EAWH_1
+South Africa,Eastern Cape,Whittlesea,EAWH_2
+South Africa,Eastern Cape,Whittlesea,EAWH_3
+South Africa,Eastern Cape,Amathole District Municipality,EAAM_1
+South Africa,Eastern Cape,Amathole District Municipality,EAAM_2
+South Africa,Eastern Cape,Amathole District Municipality,EAAM_3
+South Africa,Eastern Cape,East London,EAEA_1
+South Africa,Eastern Cape,East London,EAEA_2
+South Africa,Eastern Cape,East London,EAEA_3
+South Africa,Eastern Cape,Port Saint John’s,EAPO_1
+South Africa,Eastern Cape,Port Saint John’s,EAPO_2
+South Africa,Eastern Cape,Port Saint John’s,EAPO_3
+South Africa,Eastern Cape,Nelson Mandela Bay Metropolitan Municipality,EANE_1
+South Africa,Eastern Cape,Nelson Mandela Bay Metropolitan Municipality,EANE_2
+South Africa,Eastern Cape,Nelson Mandela Bay Metropolitan Municipality,EANE_3
+South Africa,Eastern Cape,Buffalo City Metropolitan Municipality,EABU_1
+South Africa,Eastern Cape,Buffalo City Metropolitan Municipality,EABU_2
+South Africa,Eastern Cape,Buffalo City Metropolitan Municipality,EABU_3
+South Africa,Eastern Cape,OR Tambo District Municipality,EAOR_1
+South Africa,Eastern Cape,OR Tambo District Municipality,EAOR_2
+South Africa,Eastern Cape,OR Tambo District Municipality,EAOR_3
+South Africa,Eastern Cape,Molteno,EAMO_1
+South Africa,Eastern Cape,Molteno,EAMO_2
+South Africa,Eastern Cape,Molteno,EAMO_3
+South Africa,Eastern Cape,Fort Beaufort,EAFO_1
+South Africa,Eastern Cape,Fort Beaufort,EAFO_2
+South Africa,Eastern Cape,Fort Beaufort,EAFO_3
+South Africa,Western Cape,Grabouw,WEGR_1
+South Africa,Western Cape,Grabouw,WEGR_2
+South Africa,Western Cape,Grabouw,WEGR_3
+South Africa,Western Cape,Rosebank,WERO_1
+South Africa,Western Cape,Rosebank,WERO_2
+South Africa,Western Cape,Rosebank,WERO_3
+South Africa,Western Cape,Vredendal,WEVR_1
+South Africa,Western Cape,Vredendal,WEVR_2
+South Africa,Western Cape,Vredendal,WEVR_3
+South Africa,Western Cape,City of Cape Town,WECI_1
+South Africa,Western Cape,City of Cape Town,WECI_2
+South Africa,Western Cape,City of Cape Town,WECI_3
+South Africa,Western Cape,Stellenbosch,WEST_1
+South Africa,Western Cape,Stellenbosch,WEST_2
+South Africa,Western Cape,Stellenbosch,WEST_3
+South Africa,Western Cape,Bredasdorp,WEBR_1
+South Africa,Western Cape,Bredasdorp,WEBR_2
+South Africa,Western Cape,Bredasdorp,WEBR_3
+South Africa,Western Cape,Eden District Municipality,WEED_1
+South Africa,Western Cape,Eden District Municipality,WEED_2
+South Africa,Western Cape,Eden District Municipality,WEED_3
+South Africa,Western Cape,Worcester,WEWO_1
+South Africa,Western Cape,Worcester,WEWO_2
+South Africa,Western Cape,Worcester,WEWO_3
+South Africa,Western Cape,Beaufort West,WEBE_1
+South Africa,Western Cape,Beaufort West,WEBE_2
+South Africa,Western Cape,Beaufort West,WEBE_3
+South Africa,Western Cape,Overberg District Municipality,WEOV_1
+South Africa,Western Cape,Overberg District Municipality,WEOV_2
+South Africa,Western Cape,Overberg District Municipality,WEOV_3
+South Korea,Busan,Nam-gu,BUNA_1
+South Korea,Busan,Nam-gu,BUNA_2
+South Korea,Busan,Nam-gu,BUNA_3
+South Korea,Busan,Sasang-gu,BUSA_1
+South Korea,Busan,Sasang-gu,BUSA_2
+South Korea,Busan,Sasang-gu,BUSA_3
+South Korea,Busan,Buk-gu,BUBU_1
+South Korea,Busan,Buk-gu,BUBU_2
+South Korea,Busan,Buk-gu,BUBU_3
+South Korea,Busan,Suyeong-gu,BUSU_1
+South Korea,Busan,Suyeong-gu,BUSU_2
+South Korea,Busan,Suyeong-gu,BUSU_3
+South Korea,Busan,Gijang,BUGI_1
+South Korea,Busan,Gijang,BUGI_2
+South Korea,Busan,Gijang,BUGI_3
+South Korea,Busan,Jung-gu,BUJU_1
+South Korea,Busan,Jung-gu,BUJU_2
+South Korea,Busan,Jung-gu,BUJU_3
+South Korea,Busan,Dongnae-gu,BUDO_1
+South Korea,Busan,Dongnae-gu,BUDO_2
+South Korea,Busan,Dongnae-gu,BUDO_3
+South Korea,Busan,Busan,BUBU_1
+South Korea,Busan,Busan,BUBU_2
+South Korea,Busan,Busan,BUBU_3
+South Korea,Busan,Yeongdo-gu,BUYE_1
+South Korea,Busan,Yeongdo-gu,BUYE_2
+South Korea,Busan,Yeongdo-gu,BUYE_3
+South Korea,Busan,Geumjeong-gu,BUGE_1
+South Korea,Busan,Geumjeong-gu,BUGE_2
+South Korea,Busan,Geumjeong-gu,BUGE_3
+South Korea,Daegu,Dalseo-gu,DADA_1
+South Korea,Daegu,Dalseo-gu,DADA_2
+South Korea,Daegu,Dalseo-gu,DADA_3
+South Korea,Daegu,Jung-gu,DAJU_1
+South Korea,Daegu,Jung-gu,DAJU_2
+South Korea,Daegu,Jung-gu,DAJU_3
+South Korea,Daegu,Daegu,DADA_1
+South Korea,Daegu,Daegu,DADA_2
+South Korea,Daegu,Daegu,DADA_3
+South Korea,Daegu,Suseong-gu,DASU_1
+South Korea,Daegu,Suseong-gu,DASU_2
+South Korea,Daegu,Suseong-gu,DASU_3
+South Korea,Daegu,Dalseong-gun,DADA_1
+South Korea,Daegu,Dalseong-gun,DADA_2
+South Korea,Daegu,Dalseong-gun,DADA_3
+South Korea,Daegu,Hwawŏn,DAHW_1
+South Korea,Daegu,Hwawŏn,DAHW_2
+South Korea,Daegu,Hwawŏn,DAHW_3
+South Korea,Daegu,Dong-gu,DADO_1
+South Korea,Daegu,Dong-gu,DADO_2
+South Korea,Daegu,Dong-gu,DADO_3
+South Korea,Daegu,Seo-gu,DASE_1
+South Korea,Daegu,Seo-gu,DASE_2
+South Korea,Daegu,Seo-gu,DASE_3
+South Korea,Gyeonggi Province,Yangju-si,GYYA_1
+South Korea,Gyeonggi Province,Yangju-si,GYYA_2
+South Korea,Gyeonggi Province,Yangju-si,GYYA_3
+South Korea,Gyeonggi Province,Osan,GYOS_1
+South Korea,Gyeonggi Province,Osan,GYOS_2
+South Korea,Gyeonggi Province,Osan,GYOS_3
+South Korea,Gyeonggi Province,Osan-si,GYOS_1
+South Korea,Gyeonggi Province,Osan-si,GYOS_2
+South Korea,Gyeonggi Province,Osan-si,GYOS_3
+South Korea,Gyeonggi Province,Yangju,GYYA_1
+South Korea,Gyeonggi Province,Yangju,GYYA_2
+South Korea,Gyeonggi Province,Yangju,GYYA_3
+South Korea,Gyeonggi Province,Uiwang-si,GYUI_1
+South Korea,Gyeonggi Province,Uiwang-si,GYUI_2
+South Korea,Gyeonggi Province,Uiwang-si,GYUI_3
+South Korea,Gyeonggi Province,Yangpyeong-gun,GYYA_1
+South Korea,Gyeonggi Province,Yangpyeong-gun,GYYA_2
+South Korea,Gyeonggi Province,Yangpyeong-gun,GYYA_3
+South Korea,Gyeonggi Province,Dongducheon,GYDO_1
+South Korea,Gyeonggi Province,Dongducheon,GYDO_2
+South Korea,Gyeonggi Province,Dongducheon,GYDO_3
+South Korea,Gyeonggi Province,Gwangju,GYGW_1
+South Korea,Gyeonggi Province,Gwangju,GYGW_2
+South Korea,Gyeonggi Province,Gwangju,GYGW_3
+South Korea,Gyeonggi Province,Goyang-si,GYGO_1
+South Korea,Gyeonggi Province,Goyang-si,GYGO_2
+South Korea,Gyeonggi Province,Goyang-si,GYGO_3
+South Korea,Gyeonggi Province,Bucheon-si,GYBU_1
+South Korea,Gyeonggi Province,Bucheon-si,GYBU_2
+South Korea,Gyeonggi Province,Bucheon-si,GYBU_3
+South Korea,South Jeolla Province,Sinan-gun,SOSI_1
+South Korea,South Jeolla Province,Sinan-gun,SOSI_2
+South Korea,South Jeolla Province,Sinan-gun,SOSI_3
+South Korea,South Jeolla Province,Hwasun-gun,SOHW_1
+South Korea,South Jeolla Province,Hwasun-gun,SOHW_2
+South Korea,South Jeolla Province,Hwasun-gun,SOHW_3
+South Korea,South Jeolla Province,Naju-si,SONA_1
+South Korea,South Jeolla Province,Naju-si,SONA_2
+South Korea,South Jeolla Province,Naju-si,SONA_3
+South Korea,South Jeolla Province,Muan,SOMU_1
+South Korea,South Jeolla Province,Muan,SOMU_2
+South Korea,South Jeolla Province,Muan,SOMU_3
+South Korea,South Jeolla Province,Jangseong-gun,SOJA_1
+South Korea,South Jeolla Province,Jangseong-gun,SOJA_2
+South Korea,South Jeolla Province,Jangseong-gun,SOJA_3
+South Korea,South Jeolla Province,Wando-gun,SOWA_1
+South Korea,South Jeolla Province,Wando-gun,SOWA_2
+South Korea,South Jeolla Province,Wando-gun,SOWA_3
+South Korea,South Jeolla Province,Mokpo,SOMO_1
+South Korea,South Jeolla Province,Mokpo,SOMO_2
+South Korea,South Jeolla Province,Mokpo,SOMO_3
+South Korea,South Jeolla Province,Hwasun,SOHW_1
+South Korea,South Jeolla Province,Hwasun,SOHW_2
+South Korea,South Jeolla Province,Hwasun,SOHW_3
+South Korea,South Jeolla Province,Gwangyang-si,SOGW_1
+South Korea,South Jeolla Province,Gwangyang-si,SOGW_2
+South Korea,South Jeolla Province,Gwangyang-si,SOGW_3
+South Korea,South Jeolla Province,Jindo-gun,SOJI_1
+South Korea,South Jeolla Province,Jindo-gun,SOJI_2
+South Korea,South Jeolla Province,Jindo-gun,SOJI_3
+South Korea,Sejong City,Sejong,SESE_1
+South Korea,Sejong City,Sejong,SESE_2
+South Korea,Sejong City,Sejong,SESE_3
+Spain,Soria,Almenar de Soria,SOAL_1
+Spain,Soria,Almenar de Soria,SOAL_2
+Spain,Soria,Almenar de Soria,SOAL_3
+Spain,Soria,Calatañazor,SOCA_1
+Spain,Soria,Calatañazor,SOCA_2
+Spain,Soria,Calatañazor,SOCA_3
+Spain,Soria,Trévago,SOTR_1
+Spain,Soria,Trévago,SOTR_2
+Spain,Soria,Trévago,SOTR_3
+Spain,Soria,Nolay,SONO_1
+Spain,Soria,Nolay,SONO_2
+Spain,Soria,Nolay,SONO_3
+Spain,Soria,Tajueco,SOTA_1
+Spain,Soria,Tajueco,SOTA_2
+Spain,Soria,Tajueco,SOTA_3
+Spain,Soria,Almaluez,SOAL_1
+Spain,Soria,Almaluez,SOAL_2
+Spain,Soria,Almaluez,SOAL_3
+Spain,Soria,Arévalo de la Sierra,SOAR_1
+Spain,Soria,Arévalo de la Sierra,SOAR_2
+Spain,Soria,Arévalo de la Sierra,SOAR_3
+Spain,Soria,Duruelo de la Sierra,SODU_1
+Spain,Soria,Duruelo de la Sierra,SODU_2
+Spain,Soria,Duruelo de la Sierra,SODU_3
+Spain,Soria,Póveda de Soria La,SOPÓ_1
+Spain,Soria,Póveda de Soria La,SOPÓ_2
+Spain,Soria,Póveda de Soria La,SOPÓ_3
+Spain,Soria,Miño de San Esteban,SOMI_1
+Spain,Soria,Miño de San Esteban,SOMI_2
+Spain,Soria,Miño de San Esteban,SOMI_3
+Spain,Santa Cruz de Tenerife,Güimar,SAGÜ_1
+Spain,Santa Cruz de Tenerife,Güimar,SAGÜ_2
+Spain,Santa Cruz de Tenerife,Güimar,SAGÜ_3
+Spain,Santa Cruz de Tenerife,Vallehermoso,SAVA_1
+Spain,Santa Cruz de Tenerife,Vallehermoso,SAVA_2
+Spain,Santa Cruz de Tenerife,Vallehermoso,SAVA_3
+Spain,Santa Cruz de Tenerife,Valle Gran Rey,SAVA_1
+Spain,Santa Cruz de Tenerife,Valle Gran Rey,SAVA_2
+Spain,Santa Cruz de Tenerife,Valle Gran Rey,SAVA_3
+Spain,Santa Cruz de Tenerife,Frontera,SAFR_1
+Spain,Santa Cruz de Tenerife,Frontera,SAFR_2
+Spain,Santa Cruz de Tenerife,Frontera,SAFR_3
+Spain,Santa Cruz de Tenerife,Tanque El,SATA_1
+Spain,Santa Cruz de Tenerife,Tanque El,SATA_2
+Spain,Santa Cruz de Tenerife,Tanque El,SATA_3
+Spain,Santa Cruz de Tenerife,Arona,SAAR_1
+Spain,Santa Cruz de Tenerife,Arona,SAAR_2
+Spain,Santa Cruz de Tenerife,Arona,SAAR_3
+Spain,Santa Cruz de Tenerife,Guancha La,SAGU_1
+Spain,Santa Cruz de Tenerife,Guancha La,SAGU_2
+Spain,Santa Cruz de Tenerife,Guancha La,SAGU_3
+Spain,Santa Cruz de Tenerife,Vilaflor,SAVI_1
+Spain,Santa Cruz de Tenerife,Vilaflor,SAVI_2
+Spain,Santa Cruz de Tenerife,Vilaflor,SAVI_3
+Spain,Santa Cruz de Tenerife,Arafo,SAAR_1
+Spain,Santa Cruz de Tenerife,Arafo,SAAR_2
+Spain,Santa Cruz de Tenerife,Arafo,SAAR_3
+Spain,Santa Cruz de Tenerife,San Andrés y Sauces,SASA_1
+Spain,Santa Cruz de Tenerife,San Andrés y Sauces,SASA_2
+Spain,Santa Cruz de Tenerife,San Andrés y Sauces,SASA_3
+Spain,Toledo,Argés,TOAR_1
+Spain,Toledo,Argés,TOAR_2
+Spain,Toledo,Argés,TOAR_3
+Spain,Toledo,Aldeanueva de San Bartolomé,TOAL_1
+Spain,Toledo,Aldeanueva de San Bartolomé,TOAL_2
+Spain,Toledo,Aldeanueva de San Bartolomé,TOAL_3
+Spain,Toledo,Nombela,TONO_1
+Spain,Toledo,Nombela,TONO_2
+Spain,Toledo,Nombela,TONO_3
+Spain,Toledo,Illán de Vacas,TOIL_1
+Spain,Toledo,Illán de Vacas,TOIL_2
+Spain,Toledo,Illán de Vacas,TOIL_3
+Spain,Toledo,Garciotum,TOGA_1
+Spain,Toledo,Garciotum,TOGA_2
+Spain,Toledo,Garciotum,TOGA_3
+Spain,Toledo,Cedillo del Condado,TOCE_1
+Spain,Toledo,Cedillo del Condado,TOCE_2
+Spain,Toledo,Cedillo del Condado,TOCE_3
+Spain,Toledo,Portillo de Toledo,TOPO_1
+Spain,Toledo,Portillo de Toledo,TOPO_2
+Spain,Toledo,Portillo de Toledo,TOPO_3
+Spain,Toledo,Sevilleja de la Jara,TOSE_1
+Spain,Toledo,Sevilleja de la Jara,TOSE_2
+Spain,Toledo,Sevilleja de la Jara,TOSE_3
+Spain,Toledo,Yuncler,TOYU_1
+Spain,Toledo,Yuncler,TOYU_2
+Spain,Toledo,Yuncler,TOYU_3
+Spain,Toledo,Ventas de Retamosa Las,TOVE_1
+Spain,Toledo,Ventas de Retamosa Las,TOVE_2
+Spain,Toledo,Ventas de Retamosa Las,TOVE_3
+Spain,Cádiz,Torre Alháquime,CÁTO_1
+Spain,Cádiz,Torre Alháquime,CÁTO_2
+Spain,Cádiz,Torre Alháquime,CÁTO_3
+Spain,Cádiz,Olvera,CÁOL_1
+Spain,Cádiz,Olvera,CÁOL_2
+Spain,Cádiz,Olvera,CÁOL_3
+Spain,Cádiz,Paterna de Rivera,CÁPA_1
+Spain,Cádiz,Paterna de Rivera,CÁPA_2
+Spain,Cádiz,Paterna de Rivera,CÁPA_3
+Spain,Cádiz,Tarifa,CÁTA_1
+Spain,Cádiz,Tarifa,CÁTA_2
+Spain,Cádiz,Tarifa,CÁTA_3
+Spain,Cádiz,Sanlúcar de Barrameda,CÁSA_1
+Spain,Cádiz,Sanlúcar de Barrameda,CÁSA_2
+Spain,Cádiz,Sanlúcar de Barrameda,CÁSA_3
+Spain,Cádiz,Vejer de la Frontera,CÁVE_1
+Spain,Cádiz,Vejer de la Frontera,CÁVE_2
+Spain,Cádiz,Vejer de la Frontera,CÁVE_3
+Spain,Cádiz,Algodonales,CÁAL_1
+Spain,Cádiz,Algodonales,CÁAL_2
+Spain,Cádiz,Algodonales,CÁAL_3
+Spain,Cádiz,Cadiz,CÁCA_1
+Spain,Cádiz,Cadiz,CÁCA_2
+Spain,Cádiz,Cadiz,CÁCA_3
+Spain,Cádiz,Benalup-Casas Viejas,CÁBE_1
+Spain,Cádiz,Benalup-Casas Viejas,CÁBE_2
+Spain,Cádiz,Benalup-Casas Viejas,CÁBE_3
+Spain,Cádiz,Algeciras,CÁAL_1
+Spain,Cádiz,Algeciras,CÁAL_2
+Spain,Cádiz,Algeciras,CÁAL_3
+Spain,Huesca,Pertusa,HUPE_1
+Spain,Huesca,Pertusa,HUPE_2
+Spain,Huesca,Pertusa,HUPE_3
+Spain,Huesca,Vicién,HUVI_1
+Spain,Huesca,Vicién,HUVI_2
+Spain,Huesca,Vicién,HUVI_3
+Spain,Huesca,Alcampell,HUAL_1
+Spain,Huesca,Alcampell,HUAL_2
+Spain,Huesca,Alcampell,HUAL_3
+Spain,Huesca,Salas Altas,HUSA_1
+Spain,Huesca,Salas Altas,HUSA_2
+Spain,Huesca,Salas Altas,HUSA_3
+Spain,Huesca,Pozán de Vero,HUPO_1
+Spain,Huesca,Pozán de Vero,HUPO_2
+Spain,Huesca,Pozán de Vero,HUPO_3
+Spain,Huesca,Lascellas-Ponzano,HULA_1
+Spain,Huesca,Lascellas-Ponzano,HULA_2
+Spain,Huesca,Lascellas-Ponzano,HULA_3
+Spain,Huesca,Fiscal,HUFI_1
+Spain,Huesca,Fiscal,HUFI_2
+Spain,Huesca,Fiscal,HUFI_3
+Spain,Huesca,Altorricón,HUAL_1
+Spain,Huesca,Altorricón,HUAL_2
+Spain,Huesca,Altorricón,HUAL_3
+Spain,Huesca,Blecua y Torres,HUBL_1
+Spain,Huesca,Blecua y Torres,HUBL_2
+Spain,Huesca,Blecua y Torres,HUBL_3
+Spain,Huesca,Canal de Berdún,HUCA_1
+Spain,Huesca,Canal de Berdún,HUCA_2
+Spain,Huesca,Canal de Berdún,HUCA_3
+Turkey,Erzurum,Aşkale,ERAŞ_1
+Turkey,Erzurum,Aşkale,ERAŞ_2
+Turkey,Erzurum,Aşkale,ERAŞ_3
+Turkey,Erzurum,Tortum,ERTO_1
+Turkey,Erzurum,Tortum,ERTO_2
+Turkey,Erzurum,Tortum,ERTO_3
+Turkey,Erzurum,Şenkaya,ERŞE_1
+Turkey,Erzurum,Şenkaya,ERŞE_2
+Turkey,Erzurum,Şenkaya,ERŞE_3
+Turkey,Erzurum,Aziziye,ERAZ_1
+Turkey,Erzurum,Aziziye,ERAZ_2
+Turkey,Erzurum,Aziziye,ERAZ_3
+Turkey,Erzurum,Köprüköy,ERKÖ_1
+Turkey,Erzurum,Köprüköy,ERKÖ_2
+Turkey,Erzurum,Köprüköy,ERKÖ_3
+Turkey,Erzurum,İspir,ERİS_1
+Turkey,Erzurum,İspir,ERİS_2
+Turkey,Erzurum,İspir,ERİS_3
+Turkey,Erzurum,Olur,EROL_1
+Turkey,Erzurum,Olur,EROL_2
+Turkey,Erzurum,Olur,EROL_3
+Turkey,Erzurum,Hınıs,ERHI_1
+Turkey,Erzurum,Hınıs,ERHI_2
+Turkey,Erzurum,Hınıs,ERHI_3
+Turkey,Erzurum,Uzundere,ERUZ_1
+Turkey,Erzurum,Uzundere,ERUZ_2
+Turkey,Erzurum,Uzundere,ERUZ_3
+Turkey,Erzurum,Tekman,ERTE_1
+Turkey,Erzurum,Tekman,ERTE_2
+Turkey,Erzurum,Tekman,ERTE_3
+Turkey,Adana,Adana,ADAD_1
+Turkey,Adana,Adana,ADAD_2
+Turkey,Adana,Adana,ADAD_3
+Turkey,Adana,Aladağ,ADAL_1
+Turkey,Adana,Aladağ,ADAL_2
+Turkey,Adana,Aladağ,ADAL_3
+Turkey,Adana,İmamoğlu,ADİM_1
+Turkey,Adana,İmamoğlu,ADİM_2
+Turkey,Adana,İmamoğlu,ADİM_3
+Turkey,Adana,Yumurtalık,ADYU_1
+Turkey,Adana,Yumurtalık,ADYU_2
+Turkey,Adana,Yumurtalık,ADYU_3
+Turkey,Adana,Tufanbeyli,ADTU_1
+Turkey,Adana,Tufanbeyli,ADTU_2
+Turkey,Adana,Tufanbeyli,ADTU_3
+Turkey,Adana,Sarıçam,ADSA_1
+Turkey,Adana,Sarıçam,ADSA_2
+Turkey,Adana,Sarıçam,ADSA_3
+Turkey,Adana,Kozan,ADKO_1
+Turkey,Adana,Kozan,ADKO_2
+Turkey,Adana,Kozan,ADKO_3
+Turkey,Adana,Pozantı,ADPO_1
+Turkey,Adana,Pozantı,ADPO_2
+Turkey,Adana,Pozantı,ADPO_3
+Turkey,Adana,Ceyhan,ADCE_1
+Turkey,Adana,Ceyhan,ADCE_2
+Turkey,Adana,Ceyhan,ADCE_3
+Turkey,Adana,Yüreğir,ADYÜ_1
+Turkey,Adana,Yüreğir,ADYÜ_2
+Turkey,Adana,Yüreğir,ADYÜ_3
+Turkey,Çankırı,Şabanözü,ÇAŞA_1
+Turkey,Çankırı,Şabanözü,ÇAŞA_2
+Turkey,Çankırı,Şabanözü,ÇAŞA_3
+Turkey,Çankırı,Orta,ÇAOR_1
+Turkey,Çankırı,Orta,ÇAOR_2
+Turkey,Çankırı,Orta,ÇAOR_3
+Turkey,Çankırı,Atkaracalar,ÇAAT_1
+Turkey,Çankırı,Atkaracalar,ÇAAT_2
+Turkey,Çankırı,Atkaracalar,ÇAAT_3
+Turkey,Çankırı,Merkez,ÇAME_1
+Turkey,Çankırı,Merkez,ÇAME_2
+Turkey,Çankırı,Merkez,ÇAME_3
+Turkey,Çankırı,Kızılırmak,ÇAKI_1
+Turkey,Çankırı,Kızılırmak,ÇAKI_2
+Turkey,Çankırı,Kızılırmak,ÇAKI_3
+Turkey,Çankırı,Çerkeş,ÇAÇE_1
+Turkey,Çankırı,Çerkeş,ÇAÇE_2
+Turkey,Çankırı,Çerkeş,ÇAÇE_3
+Turkey,Çankırı,Bayramören,ÇABA_1
+Turkey,Çankırı,Bayramören,ÇABA_2
+Turkey,Çankırı,Bayramören,ÇABA_3
+Turkey,Çankırı,Yapraklı,ÇAYA_1
+Turkey,Çankırı,Yapraklı,ÇAYA_2
+Turkey,Çankırı,Yapraklı,ÇAYA_3
+Turkey,Çankırı,Ilgaz,ÇAIL_1
+Turkey,Çankırı,Ilgaz,ÇAIL_2
+Turkey,Çankırı,Ilgaz,ÇAIL_3
+Turkey,Çankırı,Kurşunlu,ÇAKU_1
+Turkey,Çankırı,Kurşunlu,ÇAKU_2
+Turkey,Çankırı,Kurşunlu,ÇAKU_3
+Turkey,Eskişehir,Odunpazarı,ESOD_1
+Turkey,Eskişehir,Odunpazarı,ESOD_2
+Turkey,Eskişehir,Odunpazarı,ESOD_3
+Turkey,Eskişehir,Seyitgazi,ESSE_1
+Turkey,Eskişehir,Seyitgazi,ESSE_2
+Turkey,Eskişehir,Seyitgazi,ESSE_3
+Turkey,Eskişehir,Alpu,ESAL_1
+Turkey,Eskişehir,Alpu,ESAL_2
+Turkey,Eskişehir,Alpu,ESAL_3
+Turkey,Eskişehir,Sivrihisar,ESSI_1
+Turkey,Eskişehir,Sivrihisar,ESSI_2
+Turkey,Eskişehir,Sivrihisar,ESSI_3
+Turkey,Eskişehir,İnönü,ESİN_1
+Turkey,Eskişehir,İnönü,ESİN_2
+Turkey,Eskişehir,İnönü,ESİN_3
+Turkey,Eskişehir,Mihalıççık,ESMI_1
+Turkey,Eskişehir,Mihalıççık,ESMI_2
+Turkey,Eskişehir,Mihalıççık,ESMI_3
+Turkey,Eskişehir,Çifteler,ESÇI_1
+Turkey,Eskişehir,Çifteler,ESÇI_2
+Turkey,Eskişehir,Çifteler,ESÇI_3
+Turkey,Eskişehir,Beylikova,ESBE_1
+Turkey,Eskişehir,Beylikova,ESBE_2
+Turkey,Eskişehir,Beylikova,ESBE_3
+Turkey,Eskişehir,Tepebaşı,ESTE_1
+Turkey,Eskişehir,Tepebaşı,ESTE_2
+Turkey,Eskişehir,Tepebaşı,ESTE_3
+Turkey,Eskişehir,Han,ESHA_1
+Turkey,Eskişehir,Han,ESHA_2
+Turkey,Eskişehir,Han,ESHA_3
+Turkey,Bolu,Seben,BOSE_1
+Turkey,Bolu,Seben,BOSE_2
+Turkey,Bolu,Seben,BOSE_3
+Turkey,Bolu,Gerede,BOGE_1
+Turkey,Bolu,Gerede,BOGE_2
+Turkey,Bolu,Gerede,BOGE_3
+Turkey,Bolu,Merkez,BOME_1
+Turkey,Bolu,Merkez,BOME_2
+Turkey,Bolu,Merkez,BOME_3
+Turkey,Bolu,Dörtdivan,BODÖ_1
+Turkey,Bolu,Dörtdivan,BODÖ_2
+Turkey,Bolu,Dörtdivan,BODÖ_3
+Turkey,Bolu,Yeniçağa,BOYE_1
+Turkey,Bolu,Yeniçağa,BOYE_2
+Turkey,Bolu,Yeniçağa,BOYE_3
+Turkey,Bolu,Göynük,BOGÖ_1
+Turkey,Bolu,Göynük,BOGÖ_2
+Turkey,Bolu,Göynük,BOGÖ_3
+Turkey,Bolu,Mengen,BOME_1
+Turkey,Bolu,Mengen,BOME_2
+Turkey,Bolu,Mengen,BOME_3
+Turkey,Bolu,Kıbrıscık,BOKI_1
+Turkey,Bolu,Kıbrıscık,BOKI_2
+Turkey,Bolu,Kıbrıscık,BOKI_3
+Turkey,Bolu,Mudurnu,BOMU_1
+Turkey,Bolu,Mudurnu,BOMU_2
+Turkey,Bolu,Mudurnu,BOMU_3
+United Kingdom,Hampshire,Southampton,HASO_1
+United Kingdom,Hampshire,Southampton,HASO_2
+United Kingdom,Hampshire,Southampton,HASO_3
+United Kingdom,Hampshire,Portsmouth,HAPO_1
+United Kingdom,Hampshire,Portsmouth,HAPO_2
+United Kingdom,Hampshire,Portsmouth,HAPO_3
+United Kingdom,Hampshire,Basingstoke and Deane,HABA_1
+United Kingdom,Hampshire,Basingstoke and Deane,HABA_2
+United Kingdom,Hampshire,Basingstoke and Deane,HABA_3
+United Kingdom,Hampshire,New Forest,HANE_1
+United Kingdom,Hampshire,New Forest,HANE_2
+United Kingdom,Hampshire,New Forest,HANE_3
+United Kingdom,Hampshire,East Hampshire,HAEA_1
+United Kingdom,Hampshire,East Hampshire,HAEA_2
+United Kingdom,Hampshire,East Hampshire,HAEA_3
+United Kingdom,Hampshire,Borough of Fareham,HABO_1
+United Kingdom,Hampshire,Borough of Fareham,HABO_2
+United Kingdom,Hampshire,Borough of Fareham,HABO_3
+United Kingdom,Hampshire,Borough of Eastleigh,HABO_1
+United Kingdom,Hampshire,Borough of Eastleigh,HABO_2
+United Kingdom,Hampshire,Borough of Eastleigh,HABO_3
+United Kingdom,Hampshire,Test Valley,HATE_1
+United Kingdom,Hampshire,Test Valley,HATE_2
+United Kingdom,Hampshire,Test Valley,HATE_3
+United Kingdom,Hampshire,City of Winchester,HACI_1
+United Kingdom,Hampshire,City of Winchester,HACI_2
+United Kingdom,Hampshire,City of Winchester,HACI_3
+United Kingdom,Hampshire,Hart,HAHA_1
+United Kingdom,Hampshire,Hart,HAHA_2
+United Kingdom,Hampshire,Hart,HAHA_3
+United Kingdom,Wales,Magor,WAMA_1
+United Kingdom,Wales,Magor,WAMA_2
+United Kingdom,Wales,Magor,WAMA_3
+United Kingdom,Wales,Pontycymer,WAPO_1
+United Kingdom,Wales,Pontycymer,WAPO_2
+United Kingdom,Wales,Pontycymer,WAPO_3
+United Kingdom,Wales,Glyn-neath,WAGL_1
+United Kingdom,Wales,Glyn-neath,WAGL_2
+United Kingdom,Wales,Glyn-neath,WAGL_3
+United Kingdom,Wales,Rhosllanerchrugog,WARH_1
+United Kingdom,Wales,Rhosllanerchrugog,WARH_2
+United Kingdom,Wales,Rhosllanerchrugog,WARH_3
+United Kingdom,Wales,Cardiff,WACA_1
+United Kingdom,Wales,Cardiff,WACA_2
+United Kingdom,Wales,Cardiff,WACA_3
+United Kingdom,Wales,Aberporth,WAAB_1
+United Kingdom,Wales,Aberporth,WAAB_2
+United Kingdom,Wales,Aberporth,WAAB_3
+United Kingdom,Wales,Grovesend,WAGR_1
+United Kingdom,Wales,Grovesend,WAGR_2
+United Kingdom,Wales,Grovesend,WAGR_3
+United Kingdom,Wales,Pontarddulais,WAPO_1
+United Kingdom,Wales,Pontarddulais,WAPO_2
+United Kingdom,Wales,Pontarddulais,WAPO_3
+United Kingdom,Wales,Tal-y-bont,WATA_1
+United Kingdom,Wales,Tal-y-bont,WATA_2
+United Kingdom,Wales,Tal-y-bont,WATA_3
+United Kingdom,Wales,Blaenau-Ffestiniog,WABL_1
+United Kingdom,Wales,Blaenau-Ffestiniog,WABL_2
+United Kingdom,Wales,Blaenau-Ffestiniog,WABL_3
+United Kingdom,Northern Ireland,Crossmaglen,NOCR_1
+United Kingdom,Northern Ireland,Crossmaglen,NOCR_2
+United Kingdom,Northern Ireland,Crossmaglen,NOCR_3
+United Kingdom,Northern Ireland,Culmore,NOCU_1
+United Kingdom,Northern Ireland,Culmore,NOCU_2
+United Kingdom,Northern Ireland,Culmore,NOCU_3
+United Kingdom,Northern Ireland,Antrim and Newtownabbey,NOAN_1
+United Kingdom,Northern Ireland,Antrim and Newtownabbey,NOAN_2
+United Kingdom,Northern Ireland,Antrim and Newtownabbey,NOAN_3
+United Kingdom,Northern Ireland,Dromore,NODR_1
+United Kingdom,Northern Ireland,Dromore,NODR_2
+United Kingdom,Northern Ireland,Dromore,NODR_3
+United Kingdom,Northern Ireland,Carnlough,NOCA_1
+United Kingdom,Northern Ireland,Carnlough,NOCA_2
+United Kingdom,Northern Ireland,Carnlough,NOCA_3
+United Kingdom,Northern Ireland,Fintona,NOFI_1
+United Kingdom,Northern Ireland,Fintona,NOFI_2
+United Kingdom,Northern Ireland,Fintona,NOFI_3
+United Kingdom,Northern Ireland,Holywood,NOHO_1
+United Kingdom,Northern Ireland,Holywood,NOHO_2
+United Kingdom,Northern Ireland,Holywood,NOHO_3
+United Kingdom,Northern Ireland,Ballintoy Harbour,NOBA_1
+United Kingdom,Northern Ireland,Ballintoy Harbour,NOBA_2
+United Kingdom,Northern Ireland,Ballintoy Harbour,NOBA_3
+United Kingdom,Northern Ireland,Connor,NOCO_1
+United Kingdom,Northern Ireland,Connor,NOCO_2
+United Kingdom,Northern Ireland,Connor,NOCO_3
+United Kingdom,Northern Ireland,Portrush,NOPO_1
+United Kingdom,Northern Ireland,Portrush,NOPO_2
+United Kingdom,Northern Ireland,Portrush,NOPO_3
+United Kingdom,England,Stithians,ENST_1
+United Kingdom,England,Stithians,ENST_2
+United Kingdom,England,Stithians,ENST_3
+United Kingdom,England,Streatley,ENST_1
+United Kingdom,England,Streatley,ENST_2
+United Kingdom,England,Streatley,ENST_3
+United Kingdom,England,South Shields,ENSO_1
+United Kingdom,England,South Shields,ENSO_2
+United Kingdom,England,South Shields,ENSO_3
+United Kingdom,England,Daresbury,ENDA_1
+United Kingdom,England,Daresbury,ENDA_2
+United Kingdom,England,Daresbury,ENDA_3
+United Kingdom,England,Long Whatton,ENLO_1
+United Kingdom,England,Long Whatton,ENLO_2
+United Kingdom,England,Long Whatton,ENLO_3
+United Kingdom,England,Beighton,ENBE_1
+United Kingdom,England,Beighton,ENBE_2
+United Kingdom,England,Beighton,ENBE_3
+United Kingdom,England,Lakenheath,ENLA_1
+United Kingdom,England,Lakenheath,ENLA_2
+United Kingdom,England,Lakenheath,ENLA_3
+United Kingdom,England,Hayton,ENHA_1
+United Kingdom,England,Hayton,ENHA_2
+United Kingdom,England,Hayton,ENHA_3
+United Kingdom,England,Strensall,ENST_1
+United Kingdom,England,Strensall,ENST_2
+United Kingdom,England,Strensall,ENST_3
+United Kingdom,England,Queensbury,ENQU_1
+United Kingdom,England,Queensbury,ENQU_2
+United Kingdom,England,Queensbury,ENQU_3
+United Kingdom,Scotland,Currie,SCCU_1
+United Kingdom,Scotland,Currie,SCCU_2
+United Kingdom,Scotland,Currie,SCCU_3
+United Kingdom,Scotland,North Queensferry,SCNO_1
+United Kingdom,Scotland,North Queensferry,SCNO_2
+United Kingdom,Scotland,North Queensferry,SCNO_3
+United Kingdom,Scotland,Aberlady,SCAB_1
+United Kingdom,Scotland,Aberlady,SCAB_2
+United Kingdom,Scotland,Aberlady,SCAB_3
+United Kingdom,Scotland,Lochgilphead,SCLO_1
+United Kingdom,Scotland,Lochgilphead,SCLO_2
+United Kingdom,Scotland,Lochgilphead,SCLO_3
+United Kingdom,Scotland,Lesmahagow,SCLE_1
+United Kingdom,Scotland,Lesmahagow,SCLE_2
+United Kingdom,Scotland,Lesmahagow,SCLE_3
+United Kingdom,Scotland,Burghead,SCBU_1
+United Kingdom,Scotland,Burghead,SCBU_2
+United Kingdom,Scotland,Burghead,SCBU_3
+United Kingdom,Scotland,Glenrothes,SCGL_1
+United Kingdom,Scotland,Glenrothes,SCGL_2
+United Kingdom,Scotland,Glenrothes,SCGL_3
+United Kingdom,Scotland,Thornliebank,SCTH_1
+United Kingdom,Scotland,Thornliebank,SCTH_2
+United Kingdom,Scotland,Thornliebank,SCTH_3
+United Kingdom,Scotland,Whitburn,SCWH_1
+United Kingdom,Scotland,Whitburn,SCWH_2
+United Kingdom,Scotland,Whitburn,SCWH_3
+United Kingdom,Scotland,Carronshore,SCCA_1
+United Kingdom,Scotland,Carronshore,SCCA_2
+United Kingdom,Scotland,Carronshore,SCCA_3
+United States,Maine,Buckfield,MABU_1
+United States,Maine,Buckfield,MABU_2
+United States,Maine,Buckfield,MABU_3
+United States,Maine,Kenduskeag,MAKE_1
+United States,Maine,Kenduskeag,MAKE_2
+United States,Maine,Kenduskeag,MAKE_3
+United States,Maine,Fayette,MAFA_1
+United States,Maine,Fayette,MAFA_2
+United States,Maine,Fayette,MAFA_3
+United States,Maine,Levant,MALE_1
+United States,Maine,Levant,MALE_2
+United States,Maine,Levant,MALE_3
+United States,Maine,Readfield,MARE_1
+United States,Maine,Readfield,MARE_2
+United States,Maine,Readfield,MARE_3
+United States,Maine,Livermore,MALI_1
+United States,Maine,Livermore,MALI_2
+United States,Maine,Livermore,MALI_3
+United States,Maine,Scarborough,MASC_1
+United States,Maine,Scarborough,MASC_2
+United States,Maine,Scarborough,MASC_3
+United States,Maine,Chesterville,MACH_1
+United States,Maine,Chesterville,MACH_2
+United States,Maine,Chesterville,MACH_3
+United States,Maine,Newport,MANE_1
+United States,Maine,Newport,MANE_2
+United States,Maine,Newport,MANE_3
+United States,Maine,Warren,MAWA_1
+United States,Maine,Warren,MAWA_2
+United States,Maine,Warren,MAWA_3
+United States,South Carolina,Arcadia,SOAR_1
+United States,South Carolina,Arcadia,SOAR_2
+United States,South Carolina,Arcadia,SOAR_3
+United States,South Carolina,Summerville,SOSU_1
+United States,South Carolina,Summerville,SOSU_2
+United States,South Carolina,Summerville,SOSU_3
+United States,South Carolina,Kershaw,SOKE_1
+United States,South Carolina,Kershaw,SOKE_2
+United States,South Carolina,Kershaw,SOKE_3
+United States,South Carolina,Pickens County,SOPI_1
+United States,South Carolina,Pickens County,SOPI_2
+United States,South Carolina,Pickens County,SOPI_3
+United States,South Carolina,Easley,SOEA_1
+United States,South Carolina,Easley,SOEA_2
+United States,South Carolina,Easley,SOEA_3
+United States,South Carolina,Westminster,SOWE_1
+United States,South Carolina,Westminster,SOWE_2
+United States,South Carolina,Westminster,SOWE_3
+United States,South Carolina,Walterboro,SOWA_1
+United States,South Carolina,Walterboro,SOWA_2
+United States,South Carolina,Walterboro,SOWA_3
+United States,South Carolina,Leesville,SOLE_1
+United States,South Carolina,Leesville,SOLE_2
+United States,South Carolina,Leesville,SOLE_3
+United States,South Carolina,Centerville,SOCE_1
+United States,South Carolina,Centerville,SOCE_2
+United States,South Carolina,Centerville,SOCE_3
+United States,South Carolina,Lyman,SOLY_1
+United States,South Carolina,Lyman,SOLY_2
+United States,South Carolina,Lyman,SOLY_3
+United States,Virginia,Kilmarnock,VIKI_1
+United States,Virginia,Kilmarnock,VIKI_2
+United States,Virginia,Kilmarnock,VIKI_3
+United States,Virginia,Carroll County,VICA_1
+United States,Virginia,Carroll County,VICA_2
+United States,Virginia,Carroll County,VICA_3
+United States,Virginia,Lexington,VILE_1
+United States,Virginia,Lexington,VILE_2
+United States,Virginia,Lexington,VILE_3
+United States,Virginia,Culpeper,VICU_1
+United States,Virginia,Culpeper,VICU_2
+United States,Virginia,Culpeper,VICU_3
+United States,Virginia,City of Colonial Heights,VICI_1
+United States,Virginia,City of Colonial Heights,VICI_2
+United States,Virginia,City of Colonial Heights,VICI_3
+United States,Virginia,Lakeside,VILA_1
+United States,Virginia,Lakeside,VILA_2
+United States,Virginia,Lakeside,VILA_3
+United States,Virginia,Rappahannock County,VIRA_1
+United States,Virginia,Rappahannock County,VIRA_2
+United States,Virginia,Rappahannock County,VIRA_3
+United States,Virginia,City of Petersburg,VICI_1
+United States,Virginia,City of Petersburg,VICI_2
+United States,Virginia,City of Petersburg,VICI_3
+United States,Virginia,Campbell County,VICA_1
+United States,Virginia,Campbell County,VICA_2
+United States,Virginia,Campbell County,VICA_3
+United States,Virginia,Henrico County,VIHE_1
+United States,Virginia,Henrico County,VIHE_2
+United States,Virginia,Henrico County,VIHE_3
+United States,Idaho,Twin Falls,IDTW_1
+United States,Idaho,Twin Falls,IDTW_2
+United States,Idaho,Twin Falls,IDTW_3
+United States,Idaho,Boundary County,IDBO_1
+United States,Idaho,Boundary County,IDBO_2
+United States,Idaho,Boundary County,IDBO_3
+United States,Idaho,Madison County,IDMA_1
+United States,Idaho,Madison County,IDMA_2
+United States,Idaho,Madison County,IDMA_3
+United States,Idaho,Nezperce,IDNE_1
+United States,Idaho,Nezperce,IDNE_2
+United States,Idaho,Nezperce,IDNE_3
+United States,Idaho,Hayden,IDHA_1
+United States,Idaho,Hayden,IDHA_2
+United States,Idaho,Hayden,IDHA_3
+United States,Idaho,Blackfoot,IDBL_1
+United States,Idaho,Blackfoot,IDBL_2
+United States,Idaho,Blackfoot,IDBL_3
+United States,Idaho,Orofino,IDOR_1
+United States,Idaho,Orofino,IDOR_2
+United States,Idaho,Orofino,IDOR_3
+United States,Idaho,Jerome,IDJE_1
+United States,Idaho,Jerome,IDJE_2
+United States,Idaho,Jerome,IDJE_3
+United States,Idaho,Jerome County,IDJE_1
+United States,Idaho,Jerome County,IDJE_2
+United States,Idaho,Jerome County,IDJE_3
+United States,Idaho,Bonneville County,IDBO_1
+United States,Idaho,Bonneville County,IDBO_2
+United States,Idaho,Bonneville County,IDBO_3
+United States,Tennessee,Sevier County,TESE_1
+United States,Tennessee,Sevier County,TESE_2
+United States,Tennessee,Sevier County,TESE_3
+United States,Tennessee,Hawkins County,TEHA_1
+United States,Tennessee,Hawkins County,TEHA_2
+United States,Tennessee,Hawkins County,TEHA_3
+United States,Tennessee,Dodson Branch,TEDO_1
+United States,Tennessee,Dodson Branch,TEDO_2
+United States,Tennessee,Dodson Branch,TEDO_3
+United States,Tennessee,Oak Grove,TEOA_1
+United States,Tennessee,Oak Grove,TEOA_2
+United States,Tennessee,Oak Grove,TEOA_3
+United States,Tennessee,Loretto,TELO_1
+United States,Tennessee,Loretto,TELO_2
+United States,Tennessee,Loretto,TELO_3
+United States,Tennessee,Ripley,TERI_1
+United States,Tennessee,Ripley,TERI_2
+United States,Tennessee,Ripley,TERI_3
+United States,Tennessee,Crump,TECR_1
+United States,Tennessee,Crump,TECR_2
+United States,Tennessee,Crump,TECR_3
+United States,Tennessee,East Ridge,TEEA_1
+United States,Tennessee,East Ridge,TEEA_2
+United States,Tennessee,East Ridge,TEEA_3
+United States,Tennessee,Pine Crest,TEPI_1
+United States,Tennessee,Pine Crest,TEPI_2
+United States,Tennessee,Pine Crest,TEPI_3
+United States,Tennessee,Brighton,TEBR_1
+United States,Tennessee,Brighton,TEBR_2
+United States,Tennessee,Brighton,TEBR_3

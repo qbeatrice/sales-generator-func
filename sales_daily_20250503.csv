@@ -1,0 +1,292 @@
+Country,Region,City,Store ID,Store Name,Sales Order Number,Sales Order Date,Product Name,Quantity,Unit Price,Total Product Cost,Material Cost,Shipping Cost,Total Cost,Sales Type,Delivery Fee,Delivery Duration (mins),Discount Code,Discount %,Delivery vehicle plate
+Australia,New South Wales,Barnsley,4124,Barnsley Store,SO_881730,2025-05-03,Product_37,9,71.29,641.61,8.58,0.79,65.39,instore,0.0,,,20,
+Australia,New South Wales,The Hill,7487,The Hill Store,SO_593271,2025-05-03,Product_1,6,69.34,416.04,9.73,0.85,51.57,delivery,0.88,39.0,DISCOUNT20,0,NETH_3
+Australia,New South Wales,The Hill,7487,The Hill Store,SO_593271,2025-05-03,Product_36,6,62.3,373.8,4.49,0.44,39.26,delivery,0.88,39.0,,15,NETH_3
+Australia,New South Wales,Woodbine,7913,Woodbine Store,SO_755403,2025-05-03,Product_46,9,48.17,433.53,5.6,0.47,42.05,delivery,0.31,21.0,DISCOUNT20,0,NEWO_3
+Australia,New South Wales,Woodbine,7913,Woodbine Store,SO_755403,2025-05-03,Product_25,1,34.28,34.28,5.26,0.34,27.77,delivery,0.31,21.0,,10,NEWO_3
+Australia,New South Wales,Woodbine,7913,Woodbine Store,SO_755403,2025-05-03,Product_46,5,48.17,240.85,5.55,0.47,42.05,delivery,0.31,21.0,DISCOUNT20,0,NEWO_3
+Australia,Western Australia,Cardup,4589,Cardup Store,SO_130446,2025-05-03,Product_3,2,51.38,102.76,5.14,0.44,32.83,delivery,1.04,33.0,,10,WECA_2
+Australia,Western Australia,Cardup,4589,Cardup Store,SO_130446,2025-05-03,Product_24,1,24.34,24.34,2.04,0.14,17.220000000000002,delivery,1.04,33.0,,0,WECA_2
+Australia,Western Australia,Cardup,4589,Cardup Store,SO_130446,2025-05-03,Product_19,7,83.88,587.16,7.82,0.45,66.73,delivery,1.04,33.0,,20,WECA_2
+Australia,Western Australia,Cardup,4589,Cardup Store,SO_130446,2025-05-03,Product_44,5,85.71,428.55,14.44,1.07,76.75,delivery,1.04,33.0,DISCOUNT10,0,WECA_2
+Australia,New South Wales,Barnsley,4124,Barnsley Store,SO_933690,2025-05-03,Product_10,1,43.18,43.18,5.04,0.48,44.010000000000005,delivery,3.05,10.0,,0,NEBA_1
+Australia,New South Wales,Barnsley,4124,Barnsley Store,SO_933690,2025-05-03,Product_21,8,74.45,595.6,4.57,0.24,24.209999999999997,delivery,3.05,10.0,DISCOUNT10,10,NEBA_1
+Australia,Tasmania,Ranelagh,6959,Ranelagh Store,SO_521788,2025-05-03,Product_11,7,83.51,584.57,4.62,0.37,29.98,delivery,3.12,17.0,DISCOUNT10,15,TARA_1
+Australia,Tasmania,Ranelagh,6959,Ranelagh Store,SO_521788,2025-05-03,Product_29,8,44.78,358.24,4.95,0.37,42.410000000000004,delivery,3.12,17.0,,0,TARA_1
+Australia,Northern Territory,Driver,5027,Driver Store,SO_366825,2025-05-03,Product_16,10,34.08,340.8,2.59,0.19,14.059999999999999,instore,0.0,,,0,
+Australia,Northern Territory,Driver,5027,Driver Store,SO_366825,2025-05-03,Product_21,7,44.72,313.04,5.56,0.32,41.2,instore,0.0,,,15,
+Australia,Northern Territory,Driver,5027,Driver Store,SO_366825,2025-05-03,Product_13,6,69.93,419.58,6.34,0.36,32.76,instore,0.0,,,15,
+Australia,Western Australia,Busselton,4505,Busselton Store,SO_791122,2025-05-03,Product_48,4,44.57,178.28,3.03,0.18,19.839999999999996,instore,0.0,,,20,
+Australia,Western Australia,Busselton,4505,Busselton Store,SO_791122,2025-05-03,Product_43,3,38.54,115.62,2.41,0.15,18.38,instore,0.0,,,0,
+Australia,Australian Capital Territory,Pearce,6820,Pearce Store,SO_829043,2025-05-03,Product_34,10,97.61,976.1,9.33,0.49,77.33,instore,0.0,,DISCOUNT15,10,
+Australia,Australian Capital Territory,Pearce,6820,Pearce Store,SO_829043,2025-05-03,Product_43,6,52.69,316.14,9.45,0.72,51.14,instore,0.0,,,15,
+Australia,Australian Capital Territory,Pearce,6820,Pearce Store,SO_829043,2025-05-03,Product_5,6,39.36,236.16,4.39,0.35,38.839999999999996,instore,0.0,,,15,
+Australia,Australian Capital Territory,Pearce,6820,Pearce Store,SO_829043,2025-05-03,Product_23,10,96.72,967.2,9.02,0.88,58.81999999999999,instore,0.0,,DISCOUNT10,0,
+Australia,Western Australia,Busselton,4505,Busselton Store,SO_900866,2025-05-03,Product_31,2,97.75,195.5,11.39,0.67,83.57,instore,0.0,,,15,
+Australia,New South Wales,Berowra,4234,Berowra Store,SO_536354,2025-05-03,Product_34,1,69.43,69.43,3.5,0.23,26.33,instore,0.0,,DISCOUNT15,10,
+Australia,Northern Territory,Fannie Bay,5216,Fannie Bay Store,SO_570500,2025-05-03,Product_48,8,91.52,732.16,11.68,1.05,88.42999999999999,instore,0.0,,,20,
+Australia,Australian Capital Territory,Bruce,4436,Bruce Store,SO_940836,2025-05-03,Product_5,5,85.53,427.65,5.99,0.43,51.71,instore,0.0,,,0,
+Australia,Australian Capital Territory,Bruce,4436,Bruce Store,SO_940836,2025-05-03,Product_33,1,52.13,52.13,2.8,0.2,20.669999999999998,instore,0.0,,,0,
+Australia,Australian Capital Territory,Bruce,4436,Bruce Store,SO_940836,2025-05-03,Product_19,7,71.93,503.51,5.09,0.3,37.77,instore,0.0,,DISCOUNT20,20,
+Australia,Australian Capital Territory,Bruce,4436,Bruce Store,SO_940836,2025-05-03,Product_50,6,36.28,217.68,3.0,0.17,26.43,instore,0.0,,,15,
+Australia,Northern Territory,Alawa,3928,Alawa Store,SO_781095,2025-05-03,Product_46,2,39.03,78.06,2.05,0.11,17.24,delivery,4.14,45.0,DISCOUNT15,15,NOAL_3
+Australia,Northern Territory,Alawa,3928,Alawa Store,SO_781095,2025-05-03,Product_46,8,39.03,312.24,2.04,0.11,17.24,delivery,4.14,45.0,,15,NOAL_3
+Australia,Northern Territory,Alawa,3928,Alawa Store,SO_781095,2025-05-03,Product_4,4,22.06,88.24,2.94,0.17,15.45,delivery,4.14,45.0,,0,NOAL_3
+Australia,Northern Territory,Alawa,3928,Alawa Store,SO_781095,2025-05-03,Product_48,5,35.19,175.95,1.57,0.12,13.560000000000002,delivery,4.14,45.0,DISCOUNT20,20,NOAL_3
+Australia,Northern Territory,Alawa,3928,Alawa Store,SO_781095,2025-05-03,Product_32,5,24.6,123.0,2.51,0.17,13.42,delivery,4.14,45.0,,0,NOAL_3
+Australia,Tasmania,New Norfolk,6560,New Norfolk Store,SO_852056,2025-05-03,Product_48,5,68.17,340.85,6.78,0.47,42.23,instore,0.0,,,0,
+Australia,New South Wales,Barnsley,4124,Barnsley Store,SO_651480,2025-05-03,Product_12,3,31.62,94.86,3.03,0.24,26.18,instore,0.0,,,0,
+Australia,New South Wales,Barnsley,4124,Barnsley Store,SO_651480,2025-05-03,Product_42,8,25.22,201.76,3.89,0.25,20.44,instore,0.0,,DISCOUNT15,15,
+Australia,New South Wales,Barnsley,4124,Barnsley Store,SO_651480,2025-05-03,Product_28,3,99.51,298.53,13.16,0.99,99.46000000000001,instore,0.0,,,0,
+Australia,New South Wales,Barnsley,4124,Barnsley Store,SO_651480,2025-05-03,Product_28,8,99.51,796.08,13.3,0.99,99.46000000000001,instore,0.0,,DISCOUNT10,0,
+Australia,New South Wales,Barnsley,4124,Barnsley Store,SO_651480,2025-05-03,Product_41,8,30.11,240.88,1.8,0.1,11.299999999999999,instore,0.0,,DISCOUNT10,0,
+Australia,Tasmania,New Norfolk,6560,New Norfolk Store,SO_200634,2025-05-03,Product_27,6,32.58,195.48,1.51,0.09,12.790000000000001,instore,0.0,,,0,
+Australia,Tasmania,New Norfolk,6560,New Norfolk Store,SO_200634,2025-05-03,Product_9,6,78.12,468.72,13.22,1.25,72.79,instore,0.0,,,0,
+Australia,Tasmania,New Norfolk,6560,New Norfolk Store,SO_200634,2025-05-03,Product_8,3,93.39,280.17,5.76,0.33,49.23,instore,0.0,,,10,
+Australia,Tasmania,Lindisfarne,6028,Lindisfarne Store,SO_312534,2025-05-03,Product_10,3,23.68,71.04,3.51,0.32,22.83,instore,0.0,,,0,
+Australia,Tasmania,Lindisfarne,6028,Lindisfarne Store,SO_312534,2025-05-03,Product_17,3,91.91,275.73,9.52,0.65,70.52,instore,0.0,,,20,
+Australia,Tasmania,Lindisfarne,6028,Lindisfarne Store,SO_312534,2025-05-03,Product_42,1,66.7,66.7,4.77,0.32,29.939999999999998,instore,0.0,,,15,
+Australia,Tasmania,Lindisfarne,6028,Lindisfarne Store,SO_312534,2025-05-03,Product_13,3,66.84,200.52,7.64,0.47,47.27,instore,0.0,,,0,
+Australia,Tasmania,Lindisfarne,6028,Lindisfarne Store,SO_840360,2025-05-03,Product_1,3,95.73,287.19,10.15,0.6,86.03999999999999,delivery,2.57,26.0,DISCOUNT15,0,TALI_2
+Australia,Tasmania,Lindisfarne,6028,Lindisfarne Store,SO_840360,2025-05-03,Product_6,5,49.2,246.0,4.11,0.35,35.15,delivery,2.57,26.0,DISCOUNT15,0,TALI_2
+Australia,Tasmania,Lindisfarne,6028,Lindisfarne Store,SO_840360,2025-05-03,Product_3,7,76.02,532.14,6.32,0.38,47.78,delivery,2.57,26.0,,0,TALI_2
+Australia,Tasmania,Lindisfarne,6028,Lindisfarne Store,SO_840360,2025-05-03,Product_45,9,29.98,269.82,4.18,0.23,22.04,delivery,2.57,26.0,,0,TALI_2
+Australia,New South Wales,The Hill,7487,The Hill Store,SO_222829,2025-05-03,Product_43,3,79.09,237.27,4.02,0.34,35.06,delivery,2.49,34.0,,0,NETH_1
+Australia,New South Wales,The Hill,7487,The Hill Store,SO_222829,2025-05-03,Product_46,5,70.12,350.6,7.82,0.78,43.31999999999999,delivery,2.49,34.0,,20,NETH_1
+Australia,New South Wales,The Hill,7487,The Hill Store,SO_222829,2025-05-03,Product_14,4,51.7,206.8,4.22,0.27,27.35,delivery,2.49,34.0,,0,NETH_1
+Australia,New South Wales,The Hill,7487,The Hill Store,SO_222829,2025-05-03,Product_37,4,76.81,307.24,8.96,0.74,58.05,delivery,2.49,34.0,DISCOUNT10,0,NETH_1
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_341725,2025-05-03,Product_13,5,47.25,236.25,3.82,0.36,34.1,delivery,2.75,13.0,DISCOUNT15,10,AUGI_3
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_341725,2025-05-03,Product_29,6,63.78,382.68,4.19,0.26,34.67,delivery,2.75,13.0,,0,AUGI_3
+Australia,Western Australia,Cardup,4589,Cardup Store,SO_263931,2025-05-03,Product_13,7,62.62,438.34,7.92,0.56,59.22,instore,0.0,,DISCOUNT15,15,
+Australia,Western Australia,Cardup,4589,Cardup Store,SO_263931,2025-05-03,Product_30,4,85.64,342.56,9.27,0.78,80.16,instore,0.0,,DISCOUNT10,0,
+Australia,Western Australia,Cardup,4589,Cardup Store,SO_263931,2025-05-03,Product_40,3,23.59,70.77,1.58,0.12,10.120000000000001,instore,0.0,,,0,
+Australia,Western Australia,Cardup,4589,Cardup Store,SO_263931,2025-05-03,Product_23,2,32.74,65.48,2.81,0.18,20.8,instore,0.0,,,0,
+Australia,Western Australia,Mundijong,6481,Mundijong Store,SO_929629,2025-05-03,Product_6,4,50.26,201.04,5.37,0.28,28.1,delivery,3.02,30.0,DISCOUNT10,20,WEMU_2
+Australia,Tasmania,Kingborough,5867,Kingborough Store,SO_850965,2025-05-03,Product_24,5,58.22,291.1,4.81,0.27,30.830000000000002,instore,0.0,,,20,
+Australia,Northern Territory,Central Desert,4651,Central Desert Store,SO_633287,2025-05-03,Product_25,2,85.04,170.08,9.99,0.96,78.46,instore,0.0,,,0,
+Australia,Northern Territory,Central Desert,4651,Central Desert Store,SO_633287,2025-05-03,Product_48,3,39.64,118.92,5.49,0.32,28.67,instore,0.0,,,0,
+Australia,Northern Territory,Central Desert,4651,Central Desert Store,SO_633287,2025-05-03,Product_18,10,29.71,297.1,5.03,0.31,26.490000000000002,instore,0.0,,DISCOUNT15,15,
+Australia,Northern Territory,Central Desert,4651,Central Desert Store,SO_633287,2025-05-03,Product_43,4,74.53,298.12,7.58,0.48,40.27,instore,0.0,,DISCOUNT10,10,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_816394,2025-05-03,Product_46,4,76.3,305.2,5.54,0.36,40.38,instore,0.0,,DISCOUNT20,0,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_816394,2025-05-03,Product_47,10,82.14,821.4,5.58,0.41,41.82,instore,0.0,,,20,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_816394,2025-05-03,Product_24,3,67.32,201.96,4.66,0.41,30.53,instore,0.0,,,0,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_816394,2025-05-03,Product_34,2,50.13,100.26,3.29,0.26,17.43,instore,0.0,,,20,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_816394,2025-05-03,Product_26,6,73.12,438.72,7.64,0.69,57.87,instore,0.0,,,20,
+Australia,Australian Capital Territory,Red Hill,6977,Red Hill Store,SO_404140,2025-05-03,Product_3,6,66.34,398.04,7.61,0.49,63.6,instore,0.0,,DISCOUNT15,20,
+Australia,Australian Capital Territory,Red Hill,6977,Red Hill Store,SO_404140,2025-05-03,Product_26,7,54.07,378.49,5.93,0.42,44.699999999999996,instore,0.0,,DISCOUNT15,10,
+Australia,Australian Capital Territory,Red Hill,6977,Red Hill Store,SO_404140,2025-05-03,Product_7,2,59.26,118.52,6.97,0.44,44.22,instore,0.0,,,15,
+Australia,Australian Capital Territory,Red Hill,6977,Red Hill Store,SO_404140,2025-05-03,Product_13,1,48.11,48.11,7.23,0.53,47.52,instore,0.0,,,15,
+Australia,Australian Capital Territory,Red Hill,6977,Red Hill Store,SO_404140,2025-05-03,Product_29,2,44.54,89.08,6.51,0.42,40.550000000000004,instore,0.0,,,0,
+Australia,Western Australia,Willagee,7853,Willagee Store,SO_946965,2025-05-03,Product_15,7,97.09,679.63,7.94,0.71,69.94,instore,0.0,,DISCOUNT20,10,
+Australia,Northern Territory,Central Desert,4651,Central Desert Store,SO_871569,2025-05-03,Product_49,9,48.07,432.63,6.17,0.58,33.57,instore,0.0,,DISCOUNT15,20,
+Australia,Northern Territory,Central Desert,4651,Central Desert Store,SO_871569,2025-05-03,Product_33,6,92.0,552.0,11.42,0.6,85.16000000000001,instore,0.0,,,0,
+Australia,Northern Territory,Central Desert,4651,Central Desert Store,SO_871569,2025-05-03,Product_43,7,74.53,521.71,7.45,0.48,40.27,instore,0.0,,DISCOUNT10,0,
+Australia,Northern Territory,Central Desert,4651,Central Desert Store,SO_871569,2025-05-03,Product_32,4,53.57,214.28,6.48,0.42,41.84,instore,0.0,,DISCOUNT20,0,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_848943,2025-05-03,Product_32,2,31.25,62.5,2.79,0.24,18.25,delivery,0.77,18.0,DISCOUNT10,0,AUGI_2
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_848943,2025-05-03,Product_36,3,81.53,244.59,7.0,0.5,53.48,delivery,0.77,18.0,,0,AUGI_2
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_848943,2025-05-03,Product_14,8,93.42,747.36,12.27,0.95,94.46000000000001,delivery,0.77,18.0,DISCOUNT20,10,AUGI_2
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_848943,2025-05-03,Product_35,2,28.37,56.74,3.38,0.33,18.4,delivery,0.77,18.0,,0,AUGI_2
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_848943,2025-05-03,Product_20,3,22.95,68.85,2.11,0.15,15.57,delivery,0.77,18.0,DISCOUNT10,15,AUGI_2
+Australia,Western Australia,Mundijong,6481,Mundijong Store,SO_400264,2025-05-03,Product_22,10,22.68,226.8,1.24,0.09,7.94,delivery,2.91,17.0,,0,WEMU_2
+Australia,Western Australia,Mundijong,6481,Mundijong Store,SO_400264,2025-05-03,Product_42,6,28.97,173.82,1.76,0.13,11.629999999999999,delivery,2.91,17.0,,0,WEMU_2
+Australia,Western Australia,Mundijong,6481,Mundijong Store,SO_400264,2025-05-03,Product_36,5,26.32,131.6,3.37,0.32,18.35,delivery,2.91,17.0,DISCOUNT20,15,WEMU_2
+Australia,Western Australia,Mundijong,6481,Mundijong Store,SO_400264,2025-05-03,Product_30,3,64.77,194.31,10.12,0.73,66.42,delivery,2.91,17.0,,20,WEMU_2
+Australia,Western Australia,Busselton,4505,Busselton Store,SO_492047,2025-05-03,Product_32,9,47.91,431.19,4.58,0.37,39.63,delivery,1.9,15.0,DISCOUNT20,10,WEBU_1
+Australia,Western Australia,Busselton,4505,Busselton Store,SO_492047,2025-05-03,Product_7,8,96.09,768.72,15.29,1.06,96.3,delivery,1.9,15.0,,10,WEBU_1
+Australia,Western Australia,Busselton,4505,Busselton Store,SO_492047,2025-05-03,Product_32,2,47.91,95.82,4.6,0.37,39.63,delivery,1.9,15.0,DISCOUNT20,0,WEBU_1
+Australia,Western Australia,Busselton,4505,Busselton Store,SO_492047,2025-05-03,Product_1,3,32.85,98.55,6.26,0.48,33.6,delivery,1.9,15.0,,0,WEBU_1
+Australia,Western Australia,Busselton,4505,Busselton Store,SO_492047,2025-05-03,Product_11,3,75.47,226.41,6.31,0.32,39.730000000000004,delivery,1.9,15.0,DISCOUNT15,0,WEBU_1
+Australia,Australian Capital Territory,Red Hill,6977,Red Hill Store,SO_587531,2025-05-03,Product_44,2,62.77,125.54,11.75,0.74,62.03,delivery,0.31,41.0,DISCOUNT15,0,AURE_3
+Australia,Australian Capital Territory,Red Hill,6977,Red Hill Store,SO_587531,2025-05-03,Product_18,4,32.23,128.92,2.31,0.15,19.55,delivery,0.31,41.0,,10,AURE_3
+Australia,Australian Capital Territory,Reid,6992,Reid Store,SO_356496,2025-05-03,Product_13,9,52.77,474.93,7.94,0.5,51.7,instore,0.0,,DISCOUNT15,0,
+Australia,Australian Capital Territory,Reid,6992,Reid Store,SO_356496,2025-05-03,Product_18,4,49.54,198.16,2.11,0.17,18.11,instore,0.0,,DISCOUNT15,0,
+Australia,Australian Capital Territory,Reid,6992,Reid Store,SO_356496,2025-05-03,Product_48,8,45.25,362.0,6.9,0.35,37.01,instore,0.0,,DISCOUNT10,0,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_703476,2025-05-03,Product_26,6,73.12,438.72,7.74,0.69,57.87,instore,0.0,,,0,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_703476,2025-05-03,Product_7,1,33.5,33.5,3.46,0.18,21.700000000000003,instore,0.0,,,0,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_703476,2025-05-03,Product_37,7,88.58,620.06,5.86,0.34,37.87,instore,0.0,,,10,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_703476,2025-05-03,Product_4,7,47.67,333.69,5.08,0.31,26.73,instore,0.0,,DISCOUNT15,15,
+Australia,Western Australia,Canning Vale,4570,Canning Vale Store,SO_969610,2025-05-03,Product_9,2,59.5,119.0,6.83,0.34,43.089999999999996,instore,0.0,,DISCOUNT15,10,
+Australia,Western Australia,Canning Vale,4570,Canning Vale Store,SO_969610,2025-05-03,Product_14,10,64.58,645.8,11.4,0.81,61.370000000000005,instore,0.0,,,10,
+Australia,Western Australia,Canning Vale,4570,Canning Vale Store,SO_969610,2025-05-03,Product_13,8,41.41,331.28,4.87,0.47,41.91,instore,0.0,,DISCOUNT10,0,
+Australia,Western Australia,Canning Vale,4570,Canning Vale Store,SO_969610,2025-05-03,Product_1,10,27.39,273.9,3.03,0.17,25.849999999999998,instore,0.0,,DISCOUNT10,0,
+Australia,Western Australia,Canning Vale,4570,Canning Vale Store,SO_969610,2025-05-03,Product_47,5,93.63,468.15,7.74,0.74,59.97,instore,0.0,,DISCOUNT20,0,
+Australia,Western Australia,Canning Vale,4570,Canning Vale Store,SO_746320,2025-05-03,Product_16,10,77.35,773.5,8.42,0.71,74.68,instore,0.0,,,15,
+Australia,Australian Capital Territory,Acton,3915,Acton Store,SO_527229,2025-05-03,Product_31,1,67.55,67.55,2.85,0.28,24.75,instore,0.0,,DISCOUNT10,0,
+Australia,Australian Capital Territory,Acton,3915,Acton Store,SO_527229,2025-05-03,Product_28,5,34.92,174.6,2.6,0.21,23.060000000000002,instore,0.0,,DISCOUNT10,0,
+Australia,Australian Capital Territory,O'Connor,6691,O'Connor Store,SO_531368,2025-05-03,Product_11,3,34.88,104.64,4.61,0.3,34.57,delivery,1.32,37.0,DISCOUNT20,0,AUO'_1
+Australia,Australian Capital Territory,O'Connor,6691,O'Connor Store,SO_531368,2025-05-03,Product_19,8,64.59,516.72,6.13,0.59,34.46,delivery,1.32,37.0,DISCOUNT20,0,AUO'_1
+Australia,Northern Territory,Virginia,7643,Virginia Store,SO_454660,2025-05-03,Product_20,1,56.7,56.7,3.0,0.23,19.689999999999998,delivery,1.85,9.0,,15,NOVI_3
+Australia,Northern Territory,Virginia,7643,Virginia Store,SO_454660,2025-05-03,Product_41,4,82.13,328.52,8.47,0.6,70.74,delivery,1.85,9.0,DISCOUNT20,0,NOVI_3
+Australia,Northern Territory,Virginia,7643,Virginia Store,SO_454660,2025-05-03,Product_6,8,83.35,666.8,3.61,0.22,27.38,delivery,1.85,9.0,DISCOUNT10,0,NOVI_3
+Australia,Northern Territory,Virginia,7643,Virginia Store,SO_454660,2025-05-03,Product_26,6,96.37,578.22,17.79,1.68,95.87,delivery,1.85,9.0,DISCOUNT20,0,NOVI_3
+Australia,Tasmania,Warrane,7715,Warrane Store,SO_824335,2025-05-03,Product_31,6,36.34,218.04,2.72,0.14,16.82,instore,0.0,,,15,
+Australia,Tasmania,Warrane,7715,Warrane Store,SO_824335,2025-05-03,Product_43,2,31.37,62.74,1.54,0.12,11.5,instore,0.0,,DISCOUNT10,15,
+Australia,Australian Capital Territory,Red Hill,6977,Red Hill Store,SO_724653,2025-05-03,Product_34,2,77.72,155.44,10.52,0.65,78.45,instore,0.0,,DISCOUNT10,20,
+Australia,Australian Capital Territory,Pearce,6820,Pearce Store,SO_870909,2025-05-03,Product_5,3,39.36,118.08,4.54,0.35,38.839999999999996,delivery,0.54,44.0,,0,AUPE_2
+Australia,Australian Capital Territory,Pearce,6820,Pearce Store,SO_870909,2025-05-03,Product_38,8,34.64,277.12,2.19,0.21,17.25,delivery,0.54,44.0,DISCOUNT15,10,AUPE_2
+Australia,Australian Capital Territory,Pearce,6820,Pearce Store,SO_870909,2025-05-03,Product_15,5,75.63,378.15,4.61,0.45,40.1,delivery,0.54,44.0,DISCOUNT20,15,AUPE_2
+Australia,Tasmania,Lindisfarne,6028,Lindisfarne Store,SO_448256,2025-05-03,Product_22,1,55.57,55.57,6.31,0.41,53.97,delivery,2.95,38.0,DISCOUNT15,0,TALI_2
+Australia,Tasmania,Lindisfarne,6028,Lindisfarne Store,SO_448256,2025-05-03,Product_43,9,44.19,397.71,4.78,0.41,37.04,delivery,2.95,38.0,,15,TALI_2
+Australia,Tasmania,Lindisfarne,6028,Lindisfarne Store,SO_448256,2025-05-03,Product_46,1,77.58,77.58,9.2,0.71,58.96,delivery,2.95,38.0,,10,TALI_2
+Australia,Tasmania,Lindisfarne,6028,Lindisfarne Store,SO_448256,2025-05-03,Product_48,5,88.42,442.1,15.7,0.8,82.5,delivery,2.95,38.0,DISCOUNT10,20,TALI_2
+Australia,Tasmania,Lindisfarne,6028,Lindisfarne Store,SO_448256,2025-05-03,Product_16,6,84.64,507.84,8.4,0.67,53.800000000000004,delivery,2.95,38.0,DISCOUNT10,15,TALI_2
+Australia,New South Wales,Berowra,4234,Berowra Store,SO_981956,2025-05-03,Product_45,9,97.74,879.66,6.12,0.43,45.94,delivery,4.43,45.0,,10,NEBE_3
+Australia,New South Wales,Berowra,4234,Berowra Store,SO_981956,2025-05-03,Product_36,6,82.93,497.58,10.36,0.55,54.57,delivery,4.43,45.0,DISCOUNT10,10,NEBE_3
+Australia,New South Wales,Berowra,4234,Berowra Store,SO_981956,2025-05-03,Product_4,2,79.23,158.46,7.12,0.64,62.10999999999999,delivery,4.43,45.0,,0,NEBE_3
+Australia,New South Wales,Berowra,4234,Berowra Store,SO_981956,2025-05-03,Product_29,1,36.68,36.68,2.3,0.15,19.63,delivery,4.43,45.0,DISCOUNT10,0,NEBE_3
+Australia,Tasmania,Bridport,4399,Bridport Store,SO_220254,2025-05-03,Product_41,1,78.68,78.68,3.53,0.24,26.0,delivery,3.98,26.0,DISCOUNT20,0,TABR_2
+Australia,Tasmania,Bridport,4399,Bridport Store,SO_220254,2025-05-03,Product_43,5,35.99,179.95,4.91,0.3,35.89,delivery,3.98,26.0,DISCOUNT20,15,TABR_2
+Australia,Western Australia,Waikiki,7658,Waikiki Store,SO_345857,2025-05-03,Product_4,9,44.69,402.21,4.77,0.38,26.339999999999996,instore,0.0,,DISCOUNT20,15,
+Australia,Tasmania,New Norfolk,6560,New Norfolk Store,SO_907825,2025-05-03,Product_12,1,75.43,75.43,13.24,0.85,70.35,instore,0.0,,DISCOUNT15,10,
+Australia,Western Australia,Cardup,4589,Cardup Store,SO_918275,2025-05-03,Product_26,7,54.59,382.13,6.94,0.56,53.03,instore,0.0,,,10,
+Australia,Western Australia,Cardup,4589,Cardup Store,SO_918275,2025-05-03,Product_47,3,58.68,176.04,8.84,0.47,46.21,instore,0.0,,,0,
+Australia,Northern Territory,Braitling,4380,Braitling Store,SO_108836,2025-05-03,Product_37,2,98.34,196.68,4.95,0.33,42.7,instore,0.0,,,20,
+Australia,Northern Territory,Braitling,4380,Braitling Store,SO_108836,2025-05-03,Product_3,9,99.04,891.36,10.33,0.9,78.08999999999999,instore,0.0,,DISCOUNT15,0,
+Australia,Northern Territory,Braitling,4380,Braitling Store,SO_108836,2025-05-03,Product_26,4,48.21,192.84,4.55,0.34,39.65,instore,0.0,,DISCOUNT20,15,
+Australia,Northern Territory,Braitling,4380,Braitling Store,SO_108836,2025-05-03,Product_11,6,95.9,575.4,16.8,1.61,92.65,instore,0.0,,,0,
+Australia,Northern Territory,Braitling,4380,Braitling Store,SO_108836,2025-05-03,Product_8,3,63.27,189.81,3.52,0.35,31.490000000000002,instore,0.0,,,0,
+Australia,New South Wales,The Hill,7487,The Hill Store,SO_195025,2025-05-03,Product_23,4,86.05,344.2,5.65,0.49,47.96,delivery,3.24,9.0,,0,NETH_2
+Australia,New South Wales,The Hill,7487,The Hill Store,SO_195025,2025-05-03,Product_1,9,69.34,624.06,9.25,0.85,51.57,delivery,3.24,9.0,,0,NETH_2
+Australia,New South Wales,The Hill,7487,The Hill Store,SO_195025,2025-05-03,Product_30,4,38.19,152.76,1.54,0.08,12.83,delivery,3.24,9.0,DISCOUNT10,15,NETH_2
+Australia,Tasmania,Bridport,4399,Bridport Store,SO_560042,2025-05-03,Product_28,10,48.47,484.7,4.74,0.29,36.2,instore,0.0,,,0,
+Australia,Tasmania,Bridport,4399,Bridport Store,SO_560042,2025-05-03,Product_14,7,27.29,191.03,4.78,0.35,25.57,instore,0.0,,DISCOUNT15,0,
+Australia,Tasmania,Bridport,4399,Bridport Store,SO_560042,2025-05-03,Product_3,8,87.59,700.72,4.94,0.46,38.269999999999996,instore,0.0,,,0,
+Australia,Tasmania,Bridport,4399,Bridport Store,SO_560042,2025-05-03,Product_28,3,48.47,145.41,4.74,0.29,36.2,instore,0.0,,DISCOUNT20,10,
+Australia,Tasmania,Bridport,4399,Bridport Store,SO_560042,2025-05-03,Product_8,7,22.52,157.64,1.65,0.14,14.68,instore,0.0,,,10,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_723873,2025-05-03,Product_31,3,75.21,225.63,9.15,0.57,68.1,instore,0.0,,DISCOUNT20,15,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_723873,2025-05-03,Product_3,4,48.93,195.72,4.63,0.28,29.4,instore,0.0,,DISCOUNT15,0,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_723873,2025-05-03,Product_28,3,55.91,167.73,6.31,0.32,39.31,instore,0.0,,DISCOUNT20,0,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_723873,2025-05-03,Product_21,6,33.13,198.78,1.75,0.12,11.040000000000001,instore,0.0,,,15,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_723873,2025-05-03,Product_16,8,36.12,288.96,4.03,0.25,30.64,instore,0.0,,,20,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_457463,2025-05-03,Product_20,6,22.95,137.7,2.13,0.15,15.57,instore,0.0,,DISCOUNT15,0,
+Australia,Australian Capital Territory,Giralang,5340,Giralang Store,SO_457463,2025-05-03,Product_21,2,33.13,66.26,1.67,0.12,11.040000000000001,instore,0.0,,,15,
+Australia,New South Wales,Finley,5237,Finley Store,SO_688132,2025-05-03,Product_36,6,48.63,291.78,3.34,0.33,22.15,delivery,1.82,20.0,DISCOUNT20,20,NEFI_1
+Australia,New South Wales,Finley,5237,Finley Store,SO_688132,2025-05-03,Product_1,9,46.67,420.03,2.07,0.11,17.04,delivery,1.82,20.0,,10,NEFI_1
+Australia,New South Wales,Finley,5237,Finley Store,SO_688132,2025-05-03,Product_19,8,20.07,160.56,1.02,0.06,6.69,delivery,1.82,20.0,,0,NEFI_1
+Australia,New South Wales,Finley,5237,Finley Store,SO_688132,2025-05-03,Product_4,8,54.17,433.36,6.06,0.52,53.989999999999995,delivery,1.82,20.0,,0,NEFI_1
+Australia,New South Wales,Finley,5237,Finley Store,SO_688132,2025-05-03,Product_14,9,56.88,511.92,6.1,0.32,45.88,delivery,1.82,20.0,,0,NEFI_1
+Australia,Tasmania,Bridport,4399,Bridport Store,SO_541728,2025-05-03,Product_36,7,42.67,298.69,3.26,0.18,16.99,instore,0.0,,,0,
+Australia,Tasmania,Bridport,4399,Bridport Store,SO_541728,2025-05-03,Product_35,9,97.02,873.18,6.64,0.58,43.25,instore,0.0,,DISCOUNT10,20,
+Australia,Tasmania,Bridport,4399,Bridport Store,SO_541728,2025-05-03,Product_15,4,52.22,208.88,3.87,0.22,29.27,instore,0.0,,,0,
+Australia,Tasmania,Bridport,4399,Bridport Store,SO_541728,2025-05-03,Product_41,3,78.68,236.04,3.48,0.24,26.0,instore,0.0,,,0,
+Australia,Tasmania,Bridport,4399,Bridport Store,SO_541728,2025-05-03,Product_13,4,77.99,311.96,10.81,0.62,57.45,instore,0.0,,,0,
+Australia,Western Australia,Busselton,4505,Busselton Store,SO_530015,2025-05-03,Product_27,10,97.4,974.0,6.67,0.57,36.51,instore,0.0,,DISCOUNT10,10,
+Australia,Northern Territory,Virginia,7643,Virginia Store,SO_289507,2025-05-03,Product_44,9,58.93,530.37,5.46,0.4,42.11,instore,0.0,,,0,
+Australia,Northern Territory,Virginia,7643,Virginia Store,SO_289507,2025-05-03,Product_24,4,73.27,293.08,7.36,0.69,48.97,instore,0.0,,,20,
+Australia,Western Australia,Shark Bay,7192,Shark Bay Store,SO_526622,2025-05-03,Product_43,6,95.95,575.7,7.65,0.39,65.04,instore,0.0,,DISCOUNT15,0,
+Australia,Western Australia,Shark Bay,7192,Shark Bay Store,SO_526622,2025-05-03,Product_4,4,25.6,102.4,2.06,0.19,18.05,instore,0.0,,DISCOUNT20,15,
+Australia,New South Wales,Woodbine,7913,Woodbine Store,SO_294598,2025-05-03,Product_1,1,85.21,85.21,7.54,0.41,63.08,delivery,2.71,6.0,DISCOUNT20,0,NEWO_2
+Australia,New South Wales,Woodbine,7913,Woodbine Store,SO_294598,2025-05-03,Product_22,2,45.99,91.98,5.3,0.38,45.699999999999996,delivery,2.71,6.0,DISCOUNT20,10,NEWO_2
+Australia,New South Wales,Woodbine,7913,Woodbine Store,SO_294598,2025-05-03,Product_15,3,54.43,163.29,6.08,0.52,39.36,delivery,2.71,6.0,DISCOUNT15,0,NEWO_2
+Australia,New South Wales,Woodbine,7913,Woodbine Store,SO_294598,2025-05-03,Product_49,5,96.82,484.1,5.05,0.41,38.33,delivery,2.71,6.0,DISCOUNT15,15,NEWO_2
+Australia,New South Wales,Finley,5237,Finley Store,SO_349562,2025-05-03,Product_49,5,34.63,173.15,4.8,0.24,29.96,delivery,3.85,22.0,DISCOUNT20,20,NEFI_1
+Australia,New South Wales,Finley,5237,Finley Store,SO_349562,2025-05-03,Product_17,9,60.31,542.79,7.27,0.51,46.480000000000004,delivery,3.85,22.0,DISCOUNT20,0,NEFI_1
+Australia,New South Wales,Finley,5237,Finley Store,SO_404942,2025-05-03,Product_48,8,78.27,626.16,3.12,0.16,26.52,delivery,4.1,5.0,,20,NEFI_1
+Australia,New South Wales,Finley,5237,Finley Store,SO_404942,2025-05-03,Product_2,3,25.09,75.27,4.78,0.35,25.35,delivery,4.1,5.0,DISCOUNT10,0,NEFI_1
+Australia,Australian Capital Territory,O'Connor,6691,O'Connor Store,SO_543111,2025-05-03,Product_1,8,82.26,658.08,5.86,0.51,38.36,delivery,0.94,30.0,,20,AUO'_3
+Australia,Australian Capital Territory,O'Connor,6691,O'Connor Store,SO_543111,2025-05-03,Product_2,5,82.51,412.55,6.07,0.54,52.65,delivery,0.94,30.0,,0,AUO'_3
+Australia,Australian Capital Territory,O'Connor,6691,O'Connor Store,SO_543111,2025-05-03,Product_8,2,26.65,53.3,3.22,0.32,18.13,delivery,0.94,30.0,,15,AUO'_3
+Australia,Australian Capital Territory,O'Connor,6691,O'Connor Store,SO_543111,2025-05-03,Product_21,1,80.27,80.27,8.3,0.51,43.19,delivery,0.94,30.0,DISCOUNT10,0,AUO'_3
+Australia,Australian Capital Territory,O'Connor,6691,O'Connor Store,SO_543111,2025-05-03,Product_48,8,81.22,649.76,4.03,0.28,34.910000000000004,delivery,0.94,30.0,DISCOUNT15,0,AUO'_3
+Australia,Australian Capital Territory,Acton,3915,Acton Store,SO_268802,2025-05-03,Product_15,3,85.75,257.25,11.02,0.63,58.96,instore,0.0,,DISCOUNT15,20,
+Australia,Australian Capital Territory,Acton,3915,Acton Store,SO_268802,2025-05-03,Product_10,2,95.55,191.1,9.45,0.78,81.42,instore,0.0,,DISCOUNT10,0,
+Australia,Australian Capital Territory,Acton,3915,Acton Store,SO_268802,2025-05-03,Product_37,2,92.75,185.5,4.14,0.32,36.27,instore,0.0,,,10,
+Australia,Australian Capital Territory,Acton,3915,Acton Store,SO_268802,2025-05-03,Product_5,9,24.16,217.44,2.42,0.17,18.5,instore,0.0,,DISCOUNT20,20,
+Australia,Australian Capital Territory,Acton,3915,Acton Store,SO_268802,2025-05-03,Product_34,9,52.34,471.06,2.89,0.23,19.29,instore,0.0,,,0,
+Australia,Western Australia,Subiaco,7371,Subiaco Store,SO_727731,2025-05-03,Product_4,4,54.49,217.96,7.95,0.46,50.949999999999996,instore,0.0,,,20,
+Australia,Western Australia,Subiaco,7371,Subiaco Store,SO_727731,2025-05-03,Product_5,1,81.28,81.28,9.74,0.86,63.58,instore,0.0,,DISCOUNT15,0,
+Australia,Western Australia,Subiaco,7371,Subiaco Store,SO_727731,2025-05-03,Product_50,9,28.73,258.57,2.37,0.17,20.43,instore,0.0,,,10,
+Australia,Western Australia,Subiaco,7371,Subiaco Store,SO_727731,2025-05-03,Product_10,2,41.0,82.0,3.92,0.23,24.8,instore,0.0,,DISCOUNT20,10,
+Australia,Western Australia,Subiaco,7371,Subiaco Store,SO_727731,2025-05-03,Product_34,10,65.14,651.4,6.97,0.39,50.739999999999995,instore,0.0,,DISCOUNT10,15,
+Australia,Western Australia,Busselton,4505,Busselton Store,SO_505949,2025-05-03,Product_30,2,24.45,48.9,2.08,0.12,17.310000000000002,instore,0.0,,DISCOUNT20,10,
+Australia,Western Australia,Busselton,4505,Busselton Store,SO_505949,2025-05-03,Product_25,8,58.0,464.0,8.25,0.48,51.25,instore,0.0,,DISCOUNT20,15,
+Australia,Western Australia,Busselton,4505,Busselton Store,SO_505949,2025-05-03,Product_2,8,33.37,266.96,3.51,0.19,25.740000000000002,instore,0.0,,,10,
+Australia,Tasmania,Kingborough,5867,Kingborough Store,SO_825949,2025-05-03,Product_6,9,81.0,729.0,6.76,0.4,49.48,delivery,2.03,12.0,,10,TAKI_2
+Australia,Northern Territory,Virginia,7643,Virginia Store,SO_221345,2025-05-03,Product_8,8,65.19,521.52,7.15,0.65,61.230000000000004,instore,0.0,,,15,
+Australia,Northern Territory,Virginia,7643,Virginia Store,SO_221345,2025-05-03,Product_21,8,97.9,783.2,6.37,0.31,45.730000000000004,instore,0.0,,,10,
+Australia,New South Wales,Berowra,4234,Berowra Store,SO_200211,2025-05-03,Product_32,2,91.87,183.74,10.64,0.86,80.42999999999999,instore,0.0,,DISCOUNT10,0,
+Australia,New South Wales,Berowra,4234,Berowra Store,SO_200211,2025-05-03,Product_11,5,25.16,125.8,2.54,0.14,19.01,instore,0.0,,,20,
+Australia,New South Wales,Berowra,4234,Berowra Store,SO_200211,2025-05-03,Product_9,10,96.14,961.4,11.4,0.82,61.6,instore,0.0,,,0,
+Australia,New South Wales,Berowra,4234,Berowra Store,SO_200211,2025-05-03,Product_4,3,79.23,237.69,6.93,0.64,62.10999999999999,instore,0.0,,DISCOUNT20,10,
+Australia,New South Wales,Berowra,4234,Berowra Store,SO_200211,2025-05-03,Product_15,6,66.47,398.82,4.17,0.41,37.0,instore,0.0,,,10,
+Australia,Tasmania,Warrane,7715,Warrane Store,SO_685395,2025-05-03,Product_41,5,26.93,134.65,3.05,0.21,19.66,delivery,4.99,42.0,,0,TAWA_1
+Australia,Tasmania,Warrane,7715,Warrane Store,SO_685395,2025-05-03,Product_15,6,69.57,417.42,7.49,0.56,49.32,delivery,4.99,42.0,,20,TAWA_1
+Australia,Australian Capital Territory,Acton,3915,Acton Store,SO_678669,2025-05-03,Product_36,10,64.14,641.4,7.35,0.47,64.06,delivery,3.94,21.0,DISCOUNT10,10,AUAC_2
+Australia,Australian Capital Territory,Acton,3915,Acton Store,SO_678669,2025-05-03,Product_23,8,83.72,669.76,6.09,0.45,39.730000000000004,delivery,3.94,21.0,DISCOUNT20,20,AUAC_2
+Australia,Australian Capital Territory,Acton,3915,Acton Store,SO_678669,2025-05-03,Product_30,7,91.39,639.73,9.85,0.55,61.83,delivery,3.94,21.0,DISCOUNT15,10,AUAC_2
+Australia,Australian Capital Territory,Acton,3915,Acton Store,SO_678669,2025-05-03,Product_33,5,88.07,440.35,7.12,0.45,52.88,delivery,3.94,21.0,,15,AUAC_2
+Australia,Western Australia,Bullsbrook,4458,Bullsbrook Store,SO_107109,2025-05-03,Product_33,7,42.91,300.37,3.98,0.37,30.01,delivery,2.01,14.0,,15,WEBU_3
+Australia,Western Australia,Bullsbrook,4458,Bullsbrook Store,SO_107109,2025-05-03,Product_3,10,92.45,924.5,8.82,0.56,55.58,delivery,2.01,14.0,,20,WEBU_3
+Australia,Western Australia,Bullsbrook,4458,Bullsbrook Store,SO_107109,2025-05-03,Product_30,1,90.21,90.21,7.35,0.51,46.300000000000004,delivery,2.01,14.0,,20,WEBU_3
+Australia,Western Australia,Bullsbrook,4458,Bullsbrook Store,SO_107109,2025-05-03,Product_16,10,89.5,895.0,4.28,0.29,31.57,delivery,2.01,14.0,,10,WEBU_3
+Australia,Western Australia,Bullsbrook,4458,Bullsbrook Store,SO_107109,2025-05-03,Product_4,9,82.16,739.44,13.29,0.91,82.63,delivery,2.01,14.0,,15,WEBU_3
+Australia,Western Australia,Canning Vale,4570,Canning Vale Store,SO_747996,2025-05-03,Product_9,2,59.5,119.0,6.87,0.34,43.089999999999996,delivery,0.47,22.0,DISCOUNT15,10,WECA_1
+Australia,Australian Capital Territory,Bruce,4436,Bruce Store,SO_303694,2025-05-03,Product_35,3,82.0,246.0,6.55,0.53,55.94,instore,0.0,,DISCOUNT10,10,
+Australia,Northern Territory,Nhulunbuy,6585,Nhulunbuy Store,SO_206326,2025-05-03,Product_29,6,32.93,197.58,3.53,0.22,18.35,delivery,3.52,45.0,DISCOUNT20,10,NONH_2
+Australia,Northern Territory,Nhulunbuy,6585,Nhulunbuy Store,SO_206326,2025-05-03,Product_50,5,23.19,115.95,1.29,0.07,10.73,delivery,3.52,45.0,DISCOUNT20,20,NONH_2
+Australia,Australian Capital Territory,Monash,6345,Monash Store,SO_392645,2025-05-03,Product_28,9,79.16,712.44,6.82,0.66,59.49,delivery,1.74,45.0,,20,AUMO_1
+Australia,Australian Capital Territory,Monash,6345,Monash Store,SO_392645,2025-05-03,Product_34,5,82.37,411.85,6.06,0.49,45.4,delivery,1.74,45.0,DISCOUNT20,10,AUMO_1
+Australia,Australian Capital Territory,Monash,6345,Monash Store,SO_392645,2025-05-03,Product_48,8,83.76,670.08,8.03,0.48,59.42,delivery,1.74,45.0,DISCOUNT20,0,AUMO_1
+Australia,Australian Capital Territory,Monash,6345,Monash Store,SO_392645,2025-05-03,Product_49,6,49.2,295.2,3.87,0.36,29.76,delivery,1.74,45.0,,20,AUMO_1
+Australia,Australian Capital Territory,Monash,6345,Monash Store,SO_392645,2025-05-03,Product_4,2,46.45,92.9,2.6,0.16,19.02,delivery,1.74,45.0,,15,AUMO_1
+Australia,Northern Territory,Driver,5027,Driver Store,SO_359243,2025-05-03,Product_39,9,92.27,830.43,12.37,0.83,65.64,delivery,0.05,40.0,DISCOUNT15,10,NODR_3
+Australia,Northern Territory,Driver,5027,Driver Store,SO_359243,2025-05-03,Product_29,8,67.77,542.16,3.16,0.24,26.92,delivery,0.05,40.0,,0,NODR_3
+Australia,Northern Territory,Driver,5027,Driver Store,SO_359243,2025-05-03,Product_39,6,92.27,553.62,12.27,0.83,65.64,delivery,0.05,40.0,DISCOUNT10,15,NODR_3
+Australia,Northern Territory,Driver,5027,Driver Store,SO_359243,2025-05-03,Product_2,6,91.81,550.86,6.15,0.33,52.34,delivery,0.05,40.0,,20,NODR_3
+Australia,Tasmania,Richmond,7009,Richmond Store,SO_140132,2025-05-03,Product_35,4,79.38,317.52,4.01,0.32,30.259999999999998,delivery,3.27,26.0,,0,TARI_3
+Australia,Tasmania,Richmond,7009,Richmond Store,SO_140132,2025-05-03,Product_9,10,30.13,301.3,2.44,0.24,18.66,delivery,3.27,26.0,,15,TARI_3
+Australia,Tasmania,Richmond,7009,Richmond Store,SO_140132,2025-05-03,Product_40,1,74.76,74.76,7.0,0.56,38.61,delivery,3.27,26.0,DISCOUNT10,20,TARI_3
+Australia,Tasmania,Richmond,7009,Richmond Store,SO_140132,2025-05-03,Product_25,9,74.73,672.57,7.11,0.53,59.71,delivery,3.27,26.0,,0,TARI_3
+Australia,Western Australia,Shark Bay,7192,Shark Bay Store,SO_775150,2025-05-03,Product_24,3,55.98,167.94,3.15,0.23,26.599999999999998,instore,0.0,,DISCOUNT10,20,
+Australia,Western Australia,Shark Bay,7192,Shark Bay Store,SO_775150,2025-05-03,Product_12,2,20.84,41.68,1.3,0.11,8.47,instore,0.0,,,10,
+Australia,Western Australia,Shark Bay,7192,Shark Bay Store,SO_775150,2025-05-03,Product_29,7,93.87,657.09,6.88,0.61,51.989999999999995,instore,0.0,,DISCOUNT10,0,
+Australia,Northern Territory,Tiwi,7521,Tiwi Store,SO_270192,2025-05-03,Product_4,7,72.87,510.09,8.35,0.76,73.28999999999999,instore,0.0,,DISCOUNT10,0,
+Australia,Northern Territory,Tiwi,7521,Tiwi Store,SO_270192,2025-05-03,Product_34,9,40.78,367.02,4.47,0.36,33.86,instore,0.0,,DISCOUNT20,0,
+Australia,Northern Territory,Tiwi,7521,Tiwi Store,SO_270192,2025-05-03,Product_31,5,47.98,239.9,3.48,0.26,29.200000000000003,instore,0.0,,DISCOUNT15,0,
+Australia,Northern Territory,Tiwi,7521,Tiwi Store,SO_270192,2025-05-03,Product_42,5,68.21,341.05,6.6,0.47,41.9,instore,0.0,,,0,
+Australia,Tasmania,New Norfolk,6560,New Norfolk Store,SO_496310,2025-05-03,Product_15,6,97.65,585.9,11.69,0.76,85.66,instore,0.0,,,0,
+Australia,Tasmania,New Norfolk,6560,New Norfolk Store,SO_496310,2025-05-03,Product_6,1,99.74,99.74,11.04,0.58,91.83,instore,0.0,,,0,
+Australia,Tasmania,New Norfolk,6560,New Norfolk Store,SO_496310,2025-05-03,Product_46,10,50.07,500.7,3.18,0.19,17.2,instore,0.0,,DISCOUNT10,0,
+Australia,Tasmania,Chigwell,4689,Chigwell Store,SO_769895,2025-05-03,Product_7,6,82.41,494.46,5.83,0.52,43.29,delivery,1.76,30.0,DISCOUNT10,0,TACH_3
+Australia,Tasmania,Chigwell,4689,Chigwell Store,SO_769895,2025-05-03,Product_37,3,25.22,75.66,3.1,0.26,20.06,delivery,1.76,30.0,DISCOUNT10,20,TACH_3
+Australia,Tasmania,Chigwell,4689,Chigwell Store,SO_769895,2025-05-03,Product_26,7,33.51,234.57,2.51,0.15,19.13,delivery,1.76,30.0,DISCOUNT20,0,TACH_3
+Australia,Tasmania,Chigwell,4689,Chigwell Store,SO_769895,2025-05-03,Product_29,7,94.1,658.7,7.3,0.53,39.699999999999996,delivery,1.76,30.0,,0,TACH_3
+Australia,Western Australia,Nungarin,6687,Nungarin Store,SO_602494,2025-05-03,Product_3,9,92.69,834.21,5.13,0.45,33.84,instore,0.0,,,10,
+Australia,Northern Territory,Central Desert,4651,Central Desert Store,SO_357736,2025-05-03,Product_2,1,89.88,89.88,4.19,0.23,35.32000000000001,delivery,3.89,36.0,DISCOUNT10,10,NOCE_1
+Australia,Northern Territory,Central Desert,4651,Central Desert Store,SO_357736,2025-05-03,Product_6,10,27.83,278.3,2.3,0.2,14.849999999999998,delivery,3.89,36.0,DISCOUNT20,0,NOCE_1
+Australia,Australian Capital Territory,Monash,6345,Monash Store,SO_744802,2025-05-03,Product_41,10,49.73,497.3,2.79,0.23,23.6,instore,0.0,,,0,
+Australia,Australian Capital Territory,Monash,6345,Monash Store,SO_744802,2025-05-03,Product_13,8,65.25,522.0,5.77,0.35,48.519999999999996,instore,0.0,,,20,
+Australia,Australian Capital Territory,Monash,6345,Monash Store,SO_744802,2025-05-03,Product_31,8,83.08,664.64,7.94,0.72,43.63,instore,0.0,,DISCOUNT10,10,
+Australia,Australian Capital Territory,Monash,6345,Monash Store,SO_744802,2025-05-03,Product_2,7,99.07,693.49,9.8,0.82,84.17,instore,0.0,,,20,
+Australia,Western Australia,Shark Bay,7192,Shark Bay Store,SO_455825,2025-05-03,Product_7,6,30.77,184.62,1.93,0.18,14.889999999999999,delivery,4.55,17.0,DISCOUNT20,0,WESH_1
+Australia,New South Wales,Finley,5237,Finley Store,SO_985040,2025-05-03,Product_43,8,93.82,750.56,10.09,0.57,86.5,instore,0.0,,DISCOUNT20,0,
+Australia,Australian Capital Territory,Bruce,4436,Bruce Store,SO_328933,2025-05-03,Product_40,3,43.55,130.65,6.6,0.34,41.949999999999996,delivery,0.16,45.0,DISCOUNT10,15,AUBR_2
+Australia,Australian Capital Territory,Bruce,4436,Bruce Store,SO_328933,2025-05-03,Product_46,7,62.04,434.28,6.45,0.34,48.21,delivery,0.16,45.0,DISCOUNT20,0,AUBR_2
+Australia,Australian Capital Territory,Reid,6992,Reid Store,SO_117683,2025-05-03,Product_33,9,30.5,274.5,1.36,0.11,10.33,instore,0.0,,DISCOUNT15,10,
+Australia,Australian Capital Territory,Reid,6992,Reid Store,SO_117683,2025-05-03,Product_36,9,35.44,318.96,3.74,0.21,19.790000000000003,instore,0.0,,DISCOUNT10,0,
+Australia,Northern Territory,Fannie Bay,5216,Fannie Bay Store,SO_802479,2025-05-03,Product_4,2,61.54,123.08,2.7,0.24,22.910000000000004,instore,0.0,,DISCOUNT10,15,
+Australia,Australian Capital Territory,Acton,3915,Acton Store,SO_222401,2025-05-03,Product_42,9,62.95,566.55,3.82,0.29,20.509999999999998,delivery,2.24,28.0,DISCOUNT10,20,AUAC_1
+Australia,Australian Capital Territory,Acton,3915,Acton Store,SO_222401,2025-05-03,Product_36,7,64.14,448.98,7.51,0.47,64.06,delivery,2.24,28.0,,15,AUAC_1
+Australia,Australian Capital Territory,Acton,3915,Acton Store,SO_222401,2025-05-03,Product_32,5,66.57,332.85,5.57,0.31,46.129999999999995,delivery,2.24,28.0,,15,AUAC_1
+Australia,Northern Territory,Ross,7075,Ross Store,SO_124799,2025-05-03,Product_19,8,22.22,177.76,2.13,0.15,17.919999999999998,delivery,2.24,8.0,,0,NORO_2
+Australia,Northern Territory,Fannie Bay,5216,Fannie Bay Store,SO_459434,2025-05-03,Product_40,10,31.63,316.3,2.65,0.17,20.180000000000003,instore,0.0,,DISCOUNT10,0,
+Australia,Tasmania,Bridport,4399,Bridport Store,SO_289501,2025-05-03,Product_24,2,27.31,54.62,3.63,0.3,19.990000000000002,instore,0.0,,,0,
+Australia,New South Wales,The Hill,7487,The Hill Store,SO_151990,2025-05-03,Product_6,4,57.79,231.16,4.48,0.26,38.17,instore,0.0,,DISCOUNT15,0,
+Australia,New South Wales,The Hill,7487,The Hill Store,SO_151990,2025-05-03,Product_38,1,32.73,32.73,4.77,0.48,32.12,instore,0.0,,DISCOUNT10,15,
+Australia,New South Wales,The Hill,7487,The Hill Store,SO_151990,2025-05-03,Product_48,4,33.46,133.84,1.8,0.09,12.930000000000001,instore,0.0,,DISCOUNT20,0,
+Australia,New South Wales,The Hill,7487,The Hill Store,SO_151990,2025-05-03,Product_8,6,69.31,415.86,6.42,0.49,54.160000000000004,instore,0.0,,DISCOUNT15,15,
+Australia,New South Wales,The Hill,7487,The Hill Store,SO_151990,2025-05-03,Product_45,5,38.64,193.2,4.94,0.41,26.900000000000002,instore,0.0,,,0,
+Australia,Tasmania,Lenah Valley,6005,Lenah Valley Store,SO_748308,2025-05-03,Product_42,7,61.5,430.5,7.75,0.74,41.74,delivery,2.85,21.0,DISCOUNT10,10,TALE_1
+Australia,Tasmania,Lenah Valley,6005,Lenah Valley Store,SO_748308,2025-05-03,Product_43,6,58.58,351.48,3.85,0.35,20.71,delivery,2.85,21.0,DISCOUNT15,15,TALE_1
+Australia,New South Wales,Finley,5237,Finley Store,SO_887210,2025-05-03,Product_37,1,42.35,42.35,4.24,0.4,22.84,instore,0.0,,,0,
+Australia,New South Wales,Finley,5237,Finley Store,SO_887210,2025-05-03,Product_24,8,46.81,374.48,4.68,0.36,25.080000000000002,instore,0.0,,,0,
+Australia,New South Wales,Finley,5237,Finley Store,SO_887210,2025-05-03,Product_10,1,24.18,24.18,3.33,0.2,21.279999999999998,instore,0.0,,DISCOUNT20,0,
+Australia,New South Wales,Finley,5237,Finley Store,SO_887210,2025-05-03,Product_42,2,39.35,78.7,1.97,0.11,14.53,instore,0.0,,,20,
+Australia,New South Wales,Finley,5237,Finley Store,SO_887210,2025-05-03,Product_47,7,32.77,229.39,2.56,0.25,16.92,instore,0.0,,,15,
+Australia,Tasmania,Kingborough,5867,Kingborough Store,SO_567641,2025-05-03,Product_40,7,95.62,669.34,7.59,0.44,49.11,delivery,4.75,21.0,DISCOUNT10,15,TAKI_1
+Australia,Australian Capital Territory,Wright,7955,Wright Store,SO_372023,2025-05-03,Product_29,6,59.11,354.66,6.84,0.49,44.12,instore,0.0,,DISCOUNT20,0,
+Australia,Australian Capital Territory,Wright,7955,Wright Store,SO_372023,2025-05-03,Product_3,4,99.87,399.48,11.15,0.92,96.97,instore,0.0,,DISCOUNT15,20,
+Australia,Australian Capital Territory,Wright,7955,Wright Store,SO_372023,2025-05-03,Product_24,4,91.4,365.6,13.68,1.32,75.91,instore,0.0,,,15,
+Australia,Tasmania,Circular Head,4707,Circular Head Store,SO_338688,2025-05-03,Product_36,3,40.08,120.24,3.59,0.34,31.479999999999997,delivery,2.43,15.0,,10,TACI_2
+Australia,Tasmania,Circular Head,4707,Circular Head Store,SO_338688,2025-05-03,Product_24,2,60.3,120.6,4.18,0.34,26.89,delivery,2.43,15.0,,0,TACI_2
+Australia,Tasmania,Circular Head,4707,Circular Head Store,SO_338688,2025-05-03,Product_10,1,58.4,58.4,7.56,0.72,56.86,delivery,2.43,15.0,DISCOUNT10,10,TACI_2
