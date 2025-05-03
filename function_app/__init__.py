@@ -74,7 +74,7 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
                     "Delivery vehicle plate": delivery_vehicle
                 })
 
-        file_name = f"sales_daily_{datetime.now().strftime('%Y%m%d')}.csv"
+        file_name = "sales_daily.csv"
         df = pd.DataFrame(sales_data)
         df.to_csv(file_name, index=False)
 
